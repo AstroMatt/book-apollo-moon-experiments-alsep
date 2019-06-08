@@ -1,0 +1,155 @@
+body {
+    background-color: #FFFFFF;
+    width: 21.0cm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2.5cm;
+    margin-top: 2.5cm;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: "Times New Roman", serif;
+}
+
+#content p {font-size: 1.4rem;}
+#content a {font-size: 1.4rem;}
+#content li {font-size: 1.4rem;}
+#content h1 {font-size: 2.0rem; font-weight: bold;}
+#content h2 {font-size: 1.8rem; font-weight: bold;}
+#content h3 {font-size: 1.8rem; font-weight: normal;}
+#content h4 {font-size: 1.6rem; font-weight: normal;}
+#content p.caption {font-size: 12pt;}
+#content table caption {font-size: 12pt;}
+#content table {font-size: 10pt;}
+
+a.headerlink {
+    color: #FFFFFF !important;
+}
+
+.problematic {
+    color: red;
+}
+
+.admonition-todo p {
+    display: none;
+}
+
+.admonition-todo a,
+.admonition-todo ul {
+    color: #CCCCCC !important;
+}
+
+#content p {
+    margin: 0;
+    text-indent: 1cm;
+}
+
+#content h1 {
+    border-bottom: 0;
+    margin-bottom: 2rem;
+    text-align: left;
+    page-break-before: always;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+    font-family: Arial, sans-serif;
+}
+
+#content h2 {
+    font-weight: bold;
+    margin-top: 2rem;
+    text-align: left;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+    font-family: Arial, sans-serif;
+}
+
+#content h3 {
+    margin-top: 2rem;
+    text-align: left;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+    font-family: Arial, sans-serif;
+}
+
+#content img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1rem;
+    max-width: 640px;
+    max-height: 480px;
+}
+
+#content img + strong {
+    display: block;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#content ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    page-break-before: avoid;
+    text-align: left;
+}
+
+#content ul li {
+    list-style-type: disc;
+    text-align: left;
+}
+
+#content ol li {
+    list-style-type: arabic;
+    text-align: left;
+}
+
+#content li p {
+    text-indent: 0;
+}
+
+#content a,
+#content a:link,
+#content a:visited,
+#content a:hover,
+#content a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* #content p:before {
+    content: "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+}*/
+
+#content table {
+    font-family: "Times New Roman", serif;
+    border-spacing: 0;
+    border-collapse: collapse;
+    page-break-inside: avoid;
+    border: 1px solid #000000;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+#content th {
+    text-align: center;
+    vertical-align: middle;
+    background-color: #F5F5F5;
+    padding: 0.6rem;
+    border: 1px solid #000000;
+}
+
+#content td {
+    vertical-align: middle;
+    padding: 0.3rem;
+    border: 1px solid #000000;
+}
+
+#content table caption,
+#content p.caption {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family: "Times New Roman", serif;
+}
