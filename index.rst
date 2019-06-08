@@ -16,6 +16,24 @@ Wstęp
     /wstep/rys-historyczny.rst
 
 
+Eksperymenty geofizyczne podczas misji Apollo
+=============================================
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Eksperymenty geofizyczne podczas misji Apollo
+    :hidden:
+
+    /alsep/o-pakiecie-alsep.rst
+    /alsep/apollo-11.rst
+    /alsep/apollo-12.rst
+    /alsep/apollo-14.rst
+    /alsep/apollo-15.rst
+    /alsep/apollo-16.rst
+    /alsep/apollo-17.rst
+    /alsep/apollo-anulowane.rst
+
+
 Zakończenie
 ===========
 .. toctree::
