@@ -12,7 +12,7 @@ todo_include_todos = True
 extensions = [
     'sphinxcontrib.bibtex',
     'sphinx.ext.imgmath',
-    'sphinx.ext.autosectionlabel',
+    # 'sphinx.ext.autosectionlabel',
     'sphinx.ext.todo',
 ]
 

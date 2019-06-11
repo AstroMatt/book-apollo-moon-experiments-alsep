@@ -31,7 +31,7 @@ Eksperymenty geofizyczne podczas misji Apollo
     /alsep/apollo-15.rst
     /alsep/apollo-16.rst
     /alsep/apollo-17.rst
-    /alsep/apollo-anulowane.rst
+    /alsep/top10-odkryc.rst
 
 
 Zakończenie
@@ -59,16 +59,23 @@ Załączniki
 
 Bibliografia
 ============
+
+Literatura
+----------
 .. bibliography:: /_references/bibliography.bib
     :style: alpha
     :all:
 
+
+Lista figur
+-----------
 .. bibliography:: /_references/images.bib
     :style: alpha
-    :labelprefix: Image
     :all:
 
+Lista video
+-----------
 .. bibliography:: /_references/video.bib
     :style: alpha
-    :labelprefix: Video
+    :labelprefix: Vid
     :all:

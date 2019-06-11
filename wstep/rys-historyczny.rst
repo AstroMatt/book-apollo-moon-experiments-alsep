@@ -12,7 +12,7 @@ Wraz z rozwojem technologicznym pozwalającym na autonomiczne prowadzenie statk�
 
 Wyścig kosmiczny i początki załogowych lotów kosmicznych
 ========================================================
-Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną wojnę pomiędzy Stanami Zjednoczonymi Ameryki i Związkiem Socjalistycznych Republik Radzieckich. Za oficjalną datę rozpoczęcia wyścigu kosmicznego (ang. *Space Race*) przyjmuje się dzień 2 sierpnia 1955 roku. Tego dnia Związek Radziecki odpowiedział na ogłoszoną przez rząd USA cztery dni wcześniej deklarację zamiaru wystrzelenia sztucznego satelity z okazji międzynarodowego roku geofizyki :cite:`Space-Race`.
+Po drugiej wojnie światowej wyścig zbrojeń przerodził się w tzw. zimną wojnę pomiędzy Stanami Zjednoczonymi Ameryki i Związkiem Socjalistycznych Republik Radzieckich. Za oficjalną datę rozpoczęcia wyścigu kosmicznego (ang. *Space Race*) przyjmuje się dzień 2 sierpnia 1955 roku. Tego dnia Związek Radziecki odpowiedział na ogłoszoną przez rząd USA cztery dni wcześniej deklarację zamiaru wystrzelenia sztucznego satelity z okazji międzynarodowego roku geofizyki :cite:`Cadbury2006`.
 
 Wystrzelony 4 października 1957 należący do ZSRR Sputnik został pierwszym sztucznym satelitą Ziemi. To wydarzenie zapoczątkowało serię sukcesów Związku Socjalistycznych Republik Radzieckich w kosmosie, do których należały:
 
@@ -26,7 +26,7 @@ Wystrzelony 4 października 1957 należący do ZSRR Sputnik został pierwszym sz
 
 Pierwszym zwierzęciem, które przekroczyło linię graniczną kosmosu był pies Łajka wystrzelony za pomocą rakiety Sputnik 8K71PS w kapsule Sputnik-2 :cite:`Siddiqi2000`. Ze względu na wysoką temperaturę spowodowaną uszkodzeniem i niepełnym rozczepieniem członu rakiety od satelity zwierzę zdechło po kilku godzinach od startu. Pies planowo miał żyć na orbicie 10 dni. Po 162-óch dniach (około 2000 orbit) kapsuła z martwym ciałem weszła w atmosferę i spłonęła :cite:`Harford1997`.
 
-Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Major został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Why-Yuri-Gagarin-Remains-the-First-Man-in-Space`.
+Pierwszym człowiekiem w kosmosie był major Jurij Gagarin (awansowany później na pułkownika). Gagarin był jednym z 20 osób, które zostały wybrane wśród pilotów wojskowych Związku Radzieckiego :cite:`Siddiqi2000`. Wg. podań świadków major wyróżniał się wytrzymałością, duchem oraz doświadczeniem. Major został wystrzelony przez Związek Radziecki 12 kwietnia 1961 w 108 minutowy lot orbitalny wokół Ziemi na pokładzie Vostok-1. Po okrążeniu Ziemi wszedł ponownie w atmosferę w tzw. krzywej balistycznej cechującej się wysokim poziomem przeciążeń działających na ciało kosmonauty. Ze względu na fakt, iż Radzieccy konstruktorzy nie dysponowali jeszcze techniką aby bezpiecznie wylądować statkiem kosmicznym na ziemi zdecydowano się na użycie fotela katapultowego i spadochronu. Na poziomie 20 000 stóp nad poziomem morza (ok. 6 tys. metrów) Gagarin katapultował się z kapsuły i bezpiecznie wrócił na powierzchnię :cite:`Lewis2010`.
 
 Amerykańską odpowiedzią na plan wysłania człowieka w kosmos był program Mercury. W trakcie selekcji do programu wybrano siedmiu astronautów. 5 maja 1961 Alan Shepard jako pierwszy amerykanin poleciał w kosmos. 12 września 1962 - pół roku po locie Sheparda, w celu zażegnania widma porażki w kosmicznym wyścigu prezydent Stanów Zjednoczonych Ameryki J. F. Kennedy wygłosił mowę na Uniwersytecie Rice :cite:`Kennedy1962`. W trakcie przemowy Kennedy zmobilizował naród i postawił cel, aby "do końca dekady człowiek postawił nogę na Księżycu i bezpiecznie wrócił na Ziemię". Cel ten udało się zrealizować w 1969 roku, gdy amerykański astronauta Neil Armstrong stanął na naturalnym satelicie Ziemi. Do najważniejszych amerykańskich programów należą:
 
@@ -64,7 +64,7 @@ W 1966 roku kosmonauci zostali przydzieleni do treningów księżycowych (:numre
 
 W ramach programu N1-L3 zaplanowano 18 misji. Ze względu na przewodzenie grupie opracowujących lądowanie Aleksiej Leonow miał największą szansę być nominowany do bycia pierwszym kosmonautą na Księżycu :cite:`LeonovScott2006`.
 
-.. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin-Diaries`
+.. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin2009`
     :name: table-selection-n1-l3
     :file: data/selection-n1-l3.csv
     :header-rows: 1
@@ -72,17 +72,15 @@ W ramach programu N1-L3 zaplanowano 18 misji. Ze względu na przewodzenie grupie
 
 .. figure:: img/spacecraft-lk-models.jpg
     :name: figure-spacecraft-lk-models
-    :scale: 100%
-    :align: center
 
-    Różne prototypy lądowników księżycowych w ramach programu załogowego ZSRR. Źródło: Astronautics/Mark Wade :cite:`SovietMannedLunarProjects`
+    Różne prototypy lądowników księżycowych w ramach programu załogowego ZSRR. Źródło: Astronautics/Mark Wade :cite:`Wade2001`
 
 
 Program Apollo
 ==============
 Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ciągu niespełna dekady udało się opracować technologię oraz procedury pozwalające człowiekowi stanąć na powierzchni Księżyca i bezpiecznie powrócić na Ziemię. Program Apollo był próbą realizacji oświadczenia prezydenta USA J. F. Kennedy'ego z 12 września 1962 roku :cite:`Kennedy1962`.
 
-Każda z misji programu Apollo cechowała się innym zadaniem w zależności od kategorii do której była przydzielona :cite:`ApolloChronology2007`. :numref:`table-apollo-mission-types` przedstawia typy misji oraz opis każdej z kategorii.
+Każda z misji programu Apollo cechowała się innym zadaniem w zależności od kategorii do której była przydzielona :cite:`Ertel2007`. :numref:`table-apollo-mission-types` przedstawia typy misji oraz opis każdej z kategorii.
 
 Krótka charakterystyka misji Apollo:
 
@@ -99,7 +97,7 @@ Krótka charakterystyka misji Apollo:
 - Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemi z daleka (ang. *Blue Marble*) :cite:`Cernan2000`,
 - Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Sojuz i historycznego uścisku dłoni między reprezentantami dwóch mocarstw.
 
-.. csv-table:: Typy misji w ramach programu Apollo :cite:`ApolloChronology2007`
+.. csv-table:: Typy misji w ramach programu Apollo :cite:`Ertel2007`
     :name: table-apollo-mission-types
     :file: data/apollo-mission-types.csv
     :header-rows: 1

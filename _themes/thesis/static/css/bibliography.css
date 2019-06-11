@@ -14,10 +14,19 @@
     vertical-align: top;
 }
 
+#bibliografia p {
+    text-indent: 0;
+    text-align: left;
+}
+
 #bibliografia th,
 #bibliografia td,
 #bibliografia td a {
     font-size: 1.0rem;
     text-decoration: none;
     font-weight: normal;
+}
+
+#bibliografia dt {
+    margin-top: 1rem;
 }
