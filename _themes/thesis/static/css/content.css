@@ -18,8 +18,10 @@ body {
 #content h3 {font-size: 1.8rem; font-weight: normal;}
 #content h4 {font-size: 1.6rem; font-weight: normal;}
 #content p.caption {font-size: 12pt;}
+#content p.caption a {font-size: 12pt;}
 #content table caption {font-size: 12pt;}
-#content table {font-size: 10pt;}
+#content table p {font-size: 10pt;}
+#content table a {font-size: 10pt;}
 
 a.headerlink {
     color: #FFFFFF !important;
@@ -110,13 +112,9 @@ a.headerlink {
 #content a:visited,
 #content a:hover,
 #content a:active {
-    color: #000000;
+    color: #0000ff;
     text-decoration: none;
 }
-
-/* #content p:before {
-    content: "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
-}*/
 
 #content table {
     font-family: "Times New Roman", serif;
@@ -129,6 +127,8 @@ a.headerlink {
     margin-right: auto;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
+    text-indent: 0;
+    width: 90%;
 }
 
 #content th {
@@ -145,9 +145,15 @@ a.headerlink {
     border: 1px solid #000000;
 }
 
+#content table p {
+    text-indent: 0;
+}
+
 #content table caption,
-#content p.caption {
+#content p.caption,
+#content p.caption a {
     font-weight: bold;
+    text-indent: 0;
     text-align: center;
     margin-top: 1rem;
     margin-bottom: 1rem;

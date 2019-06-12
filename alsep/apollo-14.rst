@@ -8,15 +8,37 @@ Parametry misji
 
 Załoga
 ------
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 14.
+    :file: data/apollo14-crew.csv
+    :header-rows: 1
 
-Data i czas misji
------------------
+.. figure:: img/apollo14-crew.jpg
+    :name: figure-alsep-apollo14-crew
 
-Cel misji
----------
+    Załoga misji Apollo 14. Od lewej astronauci: Rosa, Shepard, Mitchel
+
+Parametry misji
+---------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 14.
+    :stub-columns: 1
+    :file: data/apollo14-info.csv
+
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 14.
+    :file: data/apollo14-eva.csv
+    :header-rows: 1
+
+.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 14.
+    :file: data/apollo14-training.csv
+    :header-rows: 1
+
 
 Miejsce lądowania
 -----------------
+.. figure:: img/apollo14-map.png
+    :name: figure-alsep-apollo14-map
+
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 14. Źródło: NASA/USGS/LPI/ASU
+
 The central station, located 180 meters West of the LM at 3.64398 S latitude, 17.47748 W longitude, was turned on at 1723 UT on February 5 1971 and failed during January 1976.
 
 .. figure:: img/apollo14-setup.jpg

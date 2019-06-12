@@ -8,19 +8,42 @@ Parametry misji
 
 Załoga
 ------
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 11.
+    :file: data/apollo11-crew.csv
+    :header-rows: 1
 
-Data i czas misji
------------------
+.. figure:: img/apollo11-crew.jpg
+    :name: figure-alsep-apollo11-crew
 
-Cel misji
----------
+    Załoga misji Apollo 11. Od lewej astronauci: Armstrong, Collins, Aldrin.
+
+Parametry misji
+---------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 11.
+    :stub-columns: 1
+    :file: data/apollo11-info.csv
+
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 11.
+    :file: data/apollo11-eva.csv
+    :header-rows: 1
+
+.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 11.
+    :file: data/apollo11-training.csv
+    :header-rows: 1
+
 
 Miejsce lądowania
 -----------------
+.. figure:: img/apollo11-map.png
+    :name: figure-alsep-apollo11-map
+
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 11. Źródło: NASA/USGS/LPI/ASU
+
 .. figure:: img/apollo11-setup.jpg
     :name: figure-alsep-apollo11-setup
 
     Astronauta Buzz Aldrin w trakcie rozstawiania eksperymentów w ramach pakietu EASEP. Źródło: :cite:`ImageProjectApolloArchive`.
+
 
 Lista eksperymentów
 -------------------

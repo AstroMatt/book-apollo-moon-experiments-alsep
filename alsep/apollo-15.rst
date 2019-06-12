@@ -8,15 +8,36 @@ Parametry misji
 
 Załoga
 ------
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 15.
+    :file: data/apollo15-crew.csv
+    :header-rows: 1
 
-Data i czas misji
------------------
+.. figure:: img/apollo15-crew.jpg
+    :name: figure-alsep-apollo15-crew
 
-Cel misji
----------
+    Załoga misji Apollo 15. Od lewej astronauci: Scott, Worden, Irwin
+
+Parametry misji
+---------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 15.
+    :stub-columns: 1
+    :file: data/apollo15-info.csv
+
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 15.
+    :file: data/apollo15-eva.csv
+    :header-rows: 1
+
+.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 15.
+    :file: data/apollo15-training.csv
+    :header-rows: 1
 
 Miejsce lądowania
 -----------------
+.. figure:: img/apollo15-map.png
+    :name: figure-alsep-apollo15-map
+
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 15. Źródło: NASA/USGS/LPI/ASU
+
 The central station, located 125 meters North West of the LM at 26.13407 N latitude, 3.62981 E longitude, was turned on at 1837 UT on July 31 1971 and shut down on September 30 1977.
 
 .. figure:: img/apollo15-setup.jpg

@@ -8,15 +8,36 @@ Parametry misji
 
 Załoga
 ------
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 17.
+    :file: data/apollo17-crew.csv
+    :header-rows: 1
 
-Data i czas misji
+.. figure:: img/apollo17-crew.jpg
+    :name: figure-alsep-apollo17-crew
+
+    Załoga misji Apollo 17. Od lewej astronauci: Schmitt, Cernan (dół), Evans (góra)
+
+Parametry misji
 -----------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 17.
+    :stub-columns: 1
+    :file: data/apollo17-info.csv
 
-Cel misji
----------
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 17.
+    :file: data/apollo17-eva.csv
+    :header-rows: 1
+
+.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 17.
+    :file: data/apollo17-training.csv
+    :header-rows: 1
 
 Miejsce lądowania
 -----------------
+.. figure:: img/apollo17-map.png
+    :name: figure-alsep-apollo17-map
+
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: NASA/USGS/LPI/ASU
+
 The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977.
 
 .. figure:: img/apollo17-setup.jpg

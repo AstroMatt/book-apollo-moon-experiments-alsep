@@ -8,15 +8,36 @@ Parametry misji
 
 Załoga
 ------
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 16.
+    :file: data/apollo16-crew.csv
+    :header-rows: 1
 
-Data i czas misji
------------------
+.. figure:: img/apollo16-crew.jpg
+    :name: figure-alsep-apollo16-crew
 
-Cel misji
----------
+    Załoga misji Apollo 16. Od lewej astronauci: Mattingly, Young, Duke
+
+Parametry misji
+---------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 16.
+    :stub-columns: 1
+    :file: data/apollo16-info.csv
+
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 16.
+    :file: data/apollo16-eva.csv
+    :header-rows: 1
+
+.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 16.
+    :file: data/apollo16-training.csv
+    :header-rows: 1
 
 Miejsce lądowania
 -----------------
+.. figure:: img/apollo16-map.png
+    :name: figure-alsep-apollo16-map
+
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 16. Źródło: NASA/USGS/LPI/ASU
+
 The central station, located 100 meters West South West of the Lunar Module at 8.97537 S latitude, 15.49812 E longitude, was turned on at 1938 UT on April 211972 and shut down along with the other ALSEP stations on September 30 1977.
 
 .. figure:: img/apollo16-setup.png
