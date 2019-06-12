@@ -64,11 +64,17 @@ W 1966 roku kosmonauci zostali przydzieleni do treningów księżycowych (:numre
 
 W ramach programu N1-L3 zaplanowano 18 misji. Ze względu na przewodzenie grupie opracowujących lądowanie Aleksiej Leonow miał największą szansę być nominowany do bycia pierwszym kosmonautą na Księżycu :cite:`LeonovScott2006`.
 
-.. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach programu księżycowego :cite:`Kamanin2009`
+.. csv-table:: Lista kosmonautów przypisanych do grup szkoleniowych w ramach sowieckiego programu księżycowego :cite:`Kamanin2009`
     :name: table-selection-n1-l3
     :file: data/selection-n1-l3.csv
     :header-rows: 1
     :widths: 10, 90
+
+.. csv-table:: Planowany harmonogram lotów w ramach sowieckiego programu księżycowego :cite:`Kamanin2009`
+    :name: table-timeline-n1-l3
+    :file: data/timeline-n1-l3.csv
+    :header-rows: 1
+    :widths: 10, 20, 70
 
 .. figure:: img/spacecraft-lk-models.jpg
     :name: figure-spacecraft-lk-models
