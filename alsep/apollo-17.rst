@@ -3,8 +3,14 @@ Eksperymenty geofizyczne podczas misji Apollo 17
 ************************************************
 
 
-Parametry misji
-===============
+Charakterystyka misji
+=====================
+
+Podstawowe informacje dotyczące misji
+-------------------------------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 17.
+    :stub-columns: 1
+    :file: data/apollo17-info.csv
 
 Załoga
 ------
@@ -17,42 +23,27 @@ Załoga
 
     Załoga misji Apollo 17. Od lewej astronauci: Schmitt, Cernan (dół), Evans (góra)
 
-Parametry misji
------------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 17.
-    :stub-columns: 1
-    :file: data/apollo17-info.csv
+Charakterystyka miejsca lądowania
+---------------------------------
+The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977.
 
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 17.
-    :file: data/apollo17-eva.csv
-    :header-rows: 1
-
-.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 17.
-    :file: data/apollo17-training.csv
-    :header-rows: 1
-
-Miejsce lądowania
------------------
 .. figure:: img/apollo17-map.png
     :name: figure-alsep-apollo17-map
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: NASA/USGS/LPI/ASU
 
-The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977.
+.. figure:: img/apollo17-map2.jpg
+    :name: figure-alsep-apollo17-map2
 
-.. figure:: img/apollo17-setup.jpg
-    :name: figure-alsep-apollo17-setup
-
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: :cite:`ImageProjectApolloArchive`.
 
 .. todo:: podpis dla Figure
 
-.. figure:: img/apollo17-site.jpg
-    :name: figure-alsep-apollo17-site
-
-    Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
+Eksploracja powierzchni Księżyca
+--------------------------------
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 17.
+    :file: data/apollo17-eva.csv
+    :header-rows: 1
 
 Lista eksperymentów
 -------------------
@@ -67,6 +58,19 @@ Lista eksperymentów
 #. Traverse Gravimeter Experiment (TGE)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
+
+.. figure:: img/apollo17-setup.jpg
+    :name: figure-alsep-apollo17-setup
+
+    Źródło: :cite:`ImageProjectApolloArchive`.
+
+.. todo:: podpis dla Figure
+
+Przygotowanie do misji
+----------------------
+.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 17.
+    :file: data/apollo17-training.csv
+    :header-rows: 1
 
 
 Eksperymenty w ramach pakietu ALSEP

@@ -3,8 +3,14 @@ Eksperymenty geofizyczne podczas misji Apollo 12
 ************************************************
 
 
-Parametry misji
-===============
+Charakterystyka misji
+=====================
+
+Podstawowe informacje dotyczące misji
+-------------------------------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 12.
+    :stub-columns: 1
+    :file: data/apollo12-info.csv
 
 Załoga
 ------
@@ -17,32 +23,20 @@ Załoga
 
     Załoga misji Apollo 12. Od lewej astronauci: Conrad, Gordon, Bean
 
-Parametry misji
----------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 12.
-    :stub-columns: 1
-    :file: data/apollo12-info.csv
+Charakterystyka miejsca lądowania
+---------------------------------
+The central station, located 90 meters North West of the LM at 3.00942 S Latitude  23.42458 W longitude, was turned on at 1421 UT on November 19 1969 and off on September 30 1977.
 
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 12.
-    :file: data/apollo12-eva.csv
-    :header-rows: 1
-
-
-Miejsce lądowania
------------------
 .. figure:: img/apollo12-map.png
     :name: figure-alsep-apollo12-map
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 12. Źródło: NASA/USGS/LPI/ASU
 
-The central station, located 90 meters North West of the LM at 3.00942 S Latitude  23.42458 W longitude, was turned on at 1421 UT on November 19 1969 and off on September 30 1977.
-
-.. figure:: img/apollo12-setup.jpg
-    :name: figure-alsep-apollo12-setup
-
-    Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
+Eksploracja powierzchni Księżyca
+--------------------------------
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 12.
+    :file: data/apollo12-eva.csv
+    :header-rows: 1
 
 Lista eksperymentów
 -------------------
@@ -55,6 +49,13 @@ Lista eksperymentów
 #. Solar Wind Spectrometer (SWS)
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
+
+.. figure:: img/apollo12-setup.jpg
+    :name: figure-alsep-apollo12-setup
+
+    Źródło: :cite:`ImageProjectApolloArchive`.
+
+.. todo:: podpis dla Figure
 
 
 Eksperymenty w ramach pakietu ALSEP

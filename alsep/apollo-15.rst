@@ -3,8 +3,14 @@ Eksperymenty geofizyczne podczas misji Apollo 15
 ************************************************
 
 
-Parametry misji
-===============
+Charakterystyka misji
+=====================
+
+Podstawowe informacje dotyczące misji
+-------------------------------------
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 15.
+    :stub-columns: 1
+    :file: data/apollo15-info.csv
 
 Załoga
 ------
@@ -17,35 +23,20 @@ Załoga
 
     Załoga misji Apollo 15. Od lewej astronauci: Scott, Worden, Irwin
 
-Parametry misji
----------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 15.
-    :stub-columns: 1
-    :file: data/apollo15-info.csv
+Charakterystyka miejsca lądowania
+---------------------------------
+The central station, located 125 meters North West of the LM at 26.13407 N latitude, 3.62981 E longitude, was turned on at 1837 UT on July 31 1971 and shut down on September 30 1977.
 
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 15.
-    :file: data/apollo15-eva.csv
-    :header-rows: 1
-
-.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 15.
-    :file: data/apollo15-training.csv
-    :header-rows: 1
-
-Miejsce lądowania
------------------
 .. figure:: img/apollo15-map.png
     :name: figure-alsep-apollo15-map
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 15. Źródło: NASA/USGS/LPI/ASU
 
-The central station, located 125 meters North West of the LM at 26.13407 N latitude, 3.62981 E longitude, was turned on at 1837 UT on July 31 1971 and shut down on September 30 1977.
-
-.. figure:: img/apollo15-setup.jpg
-    :name: figure-alsep-apollo15-setup
-
-    Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
+Eksploracja powierzchni Księżyca
+--------------------------------
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 15.
+    :file: data/apollo15-eva.csv
+    :header-rows: 1
 
 Lista eksperymentów
 -------------------
@@ -59,6 +50,19 @@ Lista eksperymentów
 #. Solar Wind Composition (SWC)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
+
+.. figure:: img/apollo15-setup.jpg
+    :name: figure-alsep-apollo15-setup
+
+    Źródło: :cite:`ImageProjectApolloArchive`.
+
+.. todo:: podpis dla Figure
+
+Przygotowanie do misji
+----------------------
+.. csv-table:: Obszary geograficzne na Ziemi wykorzystane podczas przeszkolenia geologicznego astronautów do misji Apollo 15.
+    :file: data/apollo15-training.csv
+    :header-rows: 1
 
 
 Eksperymenty w ramach pakietu ALSEP
