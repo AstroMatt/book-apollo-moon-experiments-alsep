@@ -8,13 +8,13 @@ Charakterystyka misji
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 11.
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 11 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo11-info.csv
 
 Załoga
 ------
-.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 11.
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 11 :cite:`Johnston1975`.
     :file: data/apollo11-crew.csv
     :header-rows: 1
 
@@ -30,9 +30,11 @@ Charakterystyka miejsca lądowania
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 11. Źródło: NASA/USGS/LPI/ASU
 
+:cite:`Lindsay2008`
+
 Eksploracja powierzchni Księżyca
 --------------------------------
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 11.
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 11 :cite:`LPI2019`.
     :file: data/apollo11-eva.csv
     :header-rows: 1
 
@@ -44,6 +46,8 @@ Lista eksperymentów
 #. Solar Wind Composition Experiment (SWC)*
 
 \* - Eksperyment dodatkowy, niebędący częścią EASEP
+
+:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 .. figure:: img/apollo11-setup.jpg
     :name: figure-alsep-apollo11-setup
@@ -59,6 +63,7 @@ Przygotowanie do misji
 
 Eksperymenty w ramach pakietu EASEP
 ===================================
+* Early Apollo Surface Experiments Package (EASEP)
 
 Lunar Dust Detector (LDD)
 -------------------------

@@ -8,13 +8,13 @@ Charakterystyka misji
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 15.
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 15 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo15-info.csv
 
 Załoga
 ------
-.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 15.
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 15 :cite:`Johnston1975`.
     :file: data/apollo15-crew.csv
     :header-rows: 1
 
@@ -26,6 +26,7 @@ Załoga
 Charakterystyka miejsca lądowania
 ---------------------------------
 The central station, located 125 meters North West of the LM at 26.13407 N latitude, 3.62981 E longitude, was turned on at 1837 UT on July 31 1971 and shut down on September 30 1977.
+:cite:`Lindsay2008`
 
 .. figure:: img/apollo15-map.png
     :name: figure-alsep-apollo15-map
@@ -34,7 +35,7 @@ The central station, located 125 meters North West of the LM at 26.13407 N latit
 
 Eksploracja powierzchni Księżyca
 --------------------------------
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 15.
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 15 :cite:`LPI2019`.
     :file: data/apollo15-eva.csv
     :header-rows: 1
 
@@ -50,6 +51,8 @@ Lista eksperymentów
 #. Solar Wind Composition (SWC)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
+
+:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 .. figure:: img/apollo15-setup.jpg
     :name: figure-alsep-apollo15-setup

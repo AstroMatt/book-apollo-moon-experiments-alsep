@@ -8,13 +8,13 @@ Charakterystyka misji
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 16.
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 16 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo16-info.csv
 
 Załoga
 ------
-.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 16.
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 16 :cite:`Johnston1975`.
     :file: data/apollo16-crew.csv
     :header-rows: 1
 
@@ -25,7 +25,7 @@ Załoga
 
 Charakterystyka miejsca lądowania
 ---------------------------------
-The central station, located 100 meters West South West of the Lunar Module at 8.97537 S latitude, 15.49812 E longitude, was turned on at 1938 UT on April 211972 and shut down along with the other ALSEP stations on September 30 1977.
+The central station, located 100 meters West South West of the Lunar Module at 8.97537 S latitude, 15.49812 E longitude, was turned on at 1938 UT on April 211972 and shut down along with the other ALSEP stations on September 30 1977 :cite:`Lindsay2008`
 
 .. figure:: img/apollo16-map.png
     :name: figure-alsep-apollo16-map
@@ -34,7 +34,7 @@ The central station, located 100 meters West South West of the Lunar Module at 8
 
 Eksploracja powierzchni Księżyca
 --------------------------------
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 16.
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 16 :cite:`LPI2019`.
     :file: data/apollo16-eva.csv
     :header-rows: 1
 
@@ -47,6 +47,8 @@ Lista eksperymentów
 #. Lunar Surface Magnetometer (LSM)
 #. Passive Seismic Experiment (PSE)
 #. Solar Wind Composition (SWC)*
+
+:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
 

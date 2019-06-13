@@ -8,13 +8,13 @@ Charakterystyka misji
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 14.
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 14 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo14-info.csv
 
 Załoga
 ------
-.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 14.
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 14 :cite:`Johnston1975`.
     :file: data/apollo14-crew.csv
     :header-rows: 1
 
@@ -26,6 +26,7 @@ Załoga
 Charakterystyka miejsca lądowania
 ---------------------------------
 The central station, located 180 meters West of the LM at 3.64398 S latitude, 17.47748 W longitude, was turned on at 1723 UT on February 5 1971 and failed during January 1976.
+:cite:`Lindsay2008`
 
 .. figure:: img/apollo14-map.png
     :name: figure-alsep-apollo14-map
@@ -34,7 +35,7 @@ The central station, located 180 meters West of the LM at 3.64398 S latitude, 17
 
 Eksploracja powierzchni Księżyca
 --------------------------------
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 14.
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 14 :cite:`LPI2019`.
     :file: data/apollo14-eva.csv
     :header-rows: 1
 
@@ -51,6 +52,9 @@ Lista eksperymentów
 #. Solar Wind Composition (SWC)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
+
+
+:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 .. figure:: img/apollo14-setup.jpg
     :name: figure-alsep-apollo14-setup

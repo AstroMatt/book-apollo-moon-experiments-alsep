@@ -8,13 +8,13 @@ Charakterystyka misji
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 17.
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 17 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo17-info.csv
 
 Załoga
 ------
-.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 17.
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 17 :cite:`Johnston1975`.
     :file: data/apollo17-crew.csv
     :header-rows: 1
 
@@ -25,7 +25,7 @@ Załoga
 
 Charakterystyka miejsca lądowania
 ---------------------------------
-The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977.
+The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977 :cite:`Lindsay2008`.
 
 .. figure:: img/apollo17-map.png
     :name: figure-alsep-apollo17-map
@@ -41,7 +41,7 @@ The central station, located 185 meters West North West of the LM at 20.19209 N 
 
 Eksploracja powierzchni Księżyca
 --------------------------------
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 17.
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 17 :cite:`LPI2019`.
     :file: data/apollo17-eva.csv
     :header-rows: 1
 
@@ -56,6 +56,9 @@ Lista eksperymentów
 #. Neutron Probe*
 #. Surface Electrical Properties (SEP)*
 #. Traverse Gravimeter Experiment (TGE)*
+
+:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
+
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
 

@@ -8,13 +8,13 @@ Charakterystyka misji
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
-.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 12.
+.. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 12 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo12-info.csv
 
 Załoga
 ------
-.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 12.
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 12 :cite:`Johnston1975`.
     :file: data/apollo12-crew.csv
     :header-rows: 1
 
@@ -26,6 +26,7 @@ Załoga
 Charakterystyka miejsca lądowania
 ---------------------------------
 The central station, located 90 meters North West of the LM at 3.00942 S Latitude  23.42458 W longitude, was turned on at 1421 UT on November 19 1969 and off on September 30 1977.
+:cite:`Lindsay2008`
 
 .. figure:: img/apollo12-map.png
     :name: figure-alsep-apollo12-map
@@ -34,7 +35,7 @@ The central station, located 90 meters North West of the LM at 3.00942 S Latitud
 
 Eksploracja powierzchni Księżyca
 --------------------------------
-.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 12.
+.. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 12 :cite:`LPI2019`.
     :file: data/apollo12-eva.csv
     :header-rows: 1
 
@@ -49,6 +50,8 @@ Lista eksperymentów
 #. Solar Wind Spectrometer (SWS)
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
+
+:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 .. figure:: img/apollo12-setup.jpg
     :name: figure-alsep-apollo12-setup
