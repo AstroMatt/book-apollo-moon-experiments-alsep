@@ -5,6 +5,7 @@ Misji Apollo 14
 
 Charakterystyka misji
 =====================
+Celem misji Apollo 14 było wykonanie pomiarów geofizycznych i pobranie próbek regolitu księżycowego. Była to pierwsza misja w której wykorzystano projekt "wózka" do przewożenia odłamków skalnych.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------

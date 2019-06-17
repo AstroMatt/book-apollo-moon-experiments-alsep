@@ -1,3 +1,5 @@
+.. _Traverse Gravimeter Experiment:
+
 ************************************
 Traverse Gravimeter Experiment (TGE)
 ************************************
@@ -8,8 +10,8 @@ Traverse Gravimeter Experiment (TGE)
 
     "Ośrodek badawczy", "Columbia University"
     "Misje", "Apollo 17"
-    "Nazwa eksperymentu (j. ang.)", ""
-    "Nazwa eksperymentu (j. pol.)", ""
+    "Nazwa eksperymentu (j. ang.)", "Traverse Gravimeter Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Trawersowy pomiar sejsmiczny"
 
 
 Projekt eksperymentu

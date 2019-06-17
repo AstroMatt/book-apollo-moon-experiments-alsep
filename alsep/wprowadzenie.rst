@@ -39,6 +39,18 @@ Scientific Equipment Bay (SEQ)
 
     Alan Bean has just offloaded Apollo 12 ALSEP package No. 2 from the SEQ Bay using a retractable boom, pulleys, and cables. Cooling fins on the RTG can be seen just to the right of Alan's right knee. Photo AS12-46-6783. Źródło: :cite:`Lindsay2008`.
 
+Lunar Roving Vehicle (LRV)
+--------------------------
+.. figure:: img/apollo-LRV-diagram.jpg
+    :name: figure-apollo-LRV-diagram
+
+    Źródło: :cite:`Jones1995`.
+
+.. figure:: img/apollo-LRV-photo.jpg
+    :name: figure-apollo-LRV-photo
+
+    Źródło: :cite:`Jones1995`.
+
 
 Dodatkowe wyposażenie
 =====================
@@ -48,19 +60,29 @@ Central Station
 .. figure:: img/alsep-central-station-diagram.jpg
     :name: figure-alsep-central-station-diagram
 
+    Źródło: :cite:`Knudson2013`.
+
 .. figure:: img/alsep-central-station-color.jpg
     :name: figure-alsep-central-station-color
 
+    Źródło: :cite:`Knudson2013`.
+
 .. figure:: img/alsep-central-station-photo.jpg
     :name: figure-alsep-central-station-photo
+
+    Źródło: :cite:`Knudson2013`.
 
 Radioisotope Thermo-electric Generator (RTG)
 --------------------------------------------
 .. figure:: img/alsep-RTG-diagram.png
     :name: figure-alsep-RTG-diagram
 
+    Źródło: :cite:`Knudson2013`.
+
 .. figure:: img/alsep-RTG-photo.jpg
     :name: figure-alsep-RTG-photo
+
+    Źródło: :cite:`Knudson2013`.
 
 
 Narzędzia

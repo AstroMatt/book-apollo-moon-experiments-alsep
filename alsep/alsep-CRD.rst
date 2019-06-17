@@ -1,3 +1,5 @@
+.. _Cosmic Ray Detector:
+
 *************************
 Cosmic Ray Detector (CRD)
 *************************

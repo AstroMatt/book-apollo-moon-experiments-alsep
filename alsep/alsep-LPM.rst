@@ -1,3 +1,5 @@
+.. _Lunar Portable Magnetometer:
+
 *********************************
 Lunar Portable Magnetometer (LPM)
 *********************************

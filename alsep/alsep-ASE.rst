@@ -1,3 +1,5 @@
+.. _Active Seismic Experiment:
+
 *******************************
 Active Seismic Experiment (ASE)
 *******************************
@@ -22,6 +24,11 @@ Projekt eksperymentu
 
 Opis eksperymentu
 =================
+:ref:`Aktywny eksperyment sejsmiczny <Active Seismic Experiment>` wspierał dane zebrane z :ref:`Pasywnego eksperymentu <Passive Seismic Experiment>` na dwa sposoby:
+
+
+
+
 The Active Seismic Experiment was complementary to the Passive Seismic Experiment in two ways, scale and source of energy. The Passive Experiment was designed to study the whole Moon; the Active Experiment to study the local area. Rather than wait passively for natural events to occur on the Moon to produce shock waves, the Active Experiment provided its own sources. The shock waves are produced by explosions on the lunar surface. Two different kinds are used, small ones made while the astronauts are on the surface and large ones after they left the site and returned to the Earth.
 
 The different kinds of sources for the Active Experiment were a "thumper" and a "mortar."  The thumper was used by the astronaut to explode ''shotgun-like'' charges. The thumper contained 19 such charges. It was fired at evenly spaced intervals along the geophone line. The results from this part of the experiment were available while the astronauts were still on the surface of the Moon.

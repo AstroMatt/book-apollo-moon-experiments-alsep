@@ -1,3 +1,5 @@
+.. _Cold Cathode Ion Gauge:
+
 *****************************
 Cold Cathode Ion Gauge (CCIG)
 *****************************

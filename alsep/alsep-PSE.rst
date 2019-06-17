@@ -1,3 +1,5 @@
+.. _Passive Seismic Experiment:
+
 ********************************
 Passive Seismic Experiment (PSE)
 ********************************

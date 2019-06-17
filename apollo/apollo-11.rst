@@ -6,6 +6,14 @@ Misja Apollo 11
 Charakterystyka misji
 =====================
 
+Celem misji Apollo 11 było pierwsze załogowe lądowanie na powierzchni Księżyca. Podczas misji postawiono pierwsze kroki na powierzchni, zatknięto flagę USA oraz pozostawiono tabliczkę:
+
+    Here Men From Planet Earth First Set Foot Upon the Moon. July 1969 A.D. We Came In Peace For All Mankind.
+
+    W tym oto miejscu ludzie z planety Ziemia postawili po raz pierwszy stopę na Księżycu. Lipiec roku 1969 A.D. Przybyliśmy w pokoju w imieniu całej ludzkości.
+
+Astronauta Neil Armstrong zaraz po zejściu na powierzchnię pobrał tzw. "próbkę bezpieczeństwa" (ang. *Contingency Sample*). Był to mały odłamek skalny, pobrany na wypadek konieczności szybkiego powrotu na Ziemię. Podczas misji Apollo 11 celem nie były eksperymenty naukowe, chociaż pobrano próbki gruntu i przeprowadzono eksperymenty geofizyczne.
+
 Podstawowe informacje dotyczące misji
 -------------------------------------
 .. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 11 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.

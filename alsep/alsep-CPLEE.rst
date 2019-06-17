@@ -1,3 +1,5 @@
+.. _Charged Particle Lunar Environmental Experiment:
+
 *******************************************************
 Charged Particle Lunar Environmental Experiment (CPLEE)
 *******************************************************

@@ -1,3 +1,5 @@
+.. _Lunar Atmospheric Composition Experiment:
+
 ***********************************************
 Lunar Atmospheric Composition Experiment (LACE)
 ***********************************************

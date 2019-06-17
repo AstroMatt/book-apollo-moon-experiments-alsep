@@ -5,6 +5,9 @@ Misji Apollo 12
 
 Charakterystyka misji
 =====================
+Celem misji Apollo 12 była wizyta miejsca lądowania sondy *Surveyor 3*, która wylądowała na powierzchni w kwietniu 1967 roku. Lądowanie podczas tej misji było jednym z najbardziej precyzyjnych.
+
+Apollo 12 było pierwszą misją podczas, której wykonano eksperymenty z pakietu :term:`ALSEP`.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------

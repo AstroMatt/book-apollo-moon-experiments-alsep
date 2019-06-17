@@ -1,3 +1,5 @@
+.. _Lunar Surface Magnetometer:
+
 ********************************
 Lunar Surface Magnetometer (LSM)
 ********************************

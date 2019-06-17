@@ -12,6 +12,8 @@ Podstawowe informacje dotyczące misji
     :stub-columns: 1
     :file: data/apollo17-info.csv
 
+Three EVAs of 22 hours, 04 minutes total duration. First scientist-astronaut to land on Moon, Schmitt. Sixth automated research station set up. LRV traverse total 30.5 km. 110.4 kg (243 lbs) of material gathered. Lunar surface stay-time, 75 hours. (CSM) in lunar orbit 148 hours. Evans performed trans-Earth EVA lasting 01 hour 06 minutes.
+
 Załoga
 ------
 .. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 17 :cite:`Johnston1975`.

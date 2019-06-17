@@ -1,3 +1,5 @@
+.. _Solar Wind Composition Experiment:
+
 ****************************************
 Solar Wind Composition Experiment (SWCE)
 ****************************************
@@ -8,8 +10,8 @@ Solar Wind Composition Experiment (SWCE)
 
     "Ośrodek badawczy", "University of Berne, Switzerland"
     "Misje", "Apollo 11, 12, 14, 15, 16"
-    "Nazwa eksperymentu (j. ang.)", ""
-    "Nazwa eksperymentu (j. pol.)", ""
+    "Nazwa eksperymentu (j. ang.)", "Solar Wind Composition Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Badanie składu wiatru słonecznego"
 
 
 Projekt eksperymentu

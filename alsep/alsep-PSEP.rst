@@ -1,3 +1,5 @@
+.. _Passive Seismic Experiment Package:
+
 *****************************************
 Passive Seismic Experiment Package (PSEP)
 *****************************************

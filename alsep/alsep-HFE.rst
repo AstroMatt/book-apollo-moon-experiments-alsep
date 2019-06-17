@@ -1,3 +1,5 @@
+.. _Heat Flow Experiment:
+
 **************************
 Heat Flow Experiment (HFE)
 **************************

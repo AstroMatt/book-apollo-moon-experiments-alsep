@@ -1,3 +1,5 @@
+.. _Surface Electrical Properties Experiment:
+
 **********************************************
 Surface Electrical Properties Experiment (SEP)
 **********************************************

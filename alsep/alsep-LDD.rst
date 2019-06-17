@@ -1,3 +1,5 @@
+.. _Lunar Dust Detector:
+
 *************************
 Lunar Dust Detector (LDD)
 *************************

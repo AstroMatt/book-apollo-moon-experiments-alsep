@@ -1,3 +1,5 @@
+.. _Lunar Ionosphere Detector:
+
 *******************************
 Lunar Ionosphere Detector (LID)
 *******************************

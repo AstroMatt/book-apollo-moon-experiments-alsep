@@ -1,3 +1,5 @@
+.. _Lunar Atmospheric Detector:
+
 ********************************
 Lunar Atmospheric Detector (LAD)
 ********************************

@@ -1,3 +1,5 @@
+.. _Lunar Surface Gravimeter Experiment:
+
 *****************************************
 Lunar Surface Gravimeter Experiment (LSG)
 *****************************************

@@ -1,3 +1,5 @@
+.. _Lunar Seismic Profiling Experiment:
+
 *****************************************
 Lunar Seismic Profiling Experiment (LSPE)
 *****************************************

@@ -1,3 +1,5 @@
+.. _Neutron Probe:
+
 ******************
 Neutron Probe (NP)
 ******************

@@ -1,3 +1,5 @@
+.. _Suprathermal Ion Detector Experiment:
+
 *******************************************
 Suprathermal Ion Detector Experiment (SIDE)
 *******************************************

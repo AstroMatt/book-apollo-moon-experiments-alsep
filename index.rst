@@ -78,16 +78,6 @@ Zakończenie
     /zakonczenie/wnioski.rst
 
 
-Załączniki
-==========
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :caption: Załączniki
-    :hidden:
-
-
-
 Bibliografia
 ============
 
@@ -110,3 +100,13 @@ Lista video
     :style: alpha
     :labelprefix: Vid
     :all:
+
+Słowniczek
+----------
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Słowniczek
+    :hidden:
+
+    /_references/glossary.rst
