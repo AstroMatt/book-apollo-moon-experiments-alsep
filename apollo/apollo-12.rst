@@ -5,7 +5,7 @@ Misji Apollo 12
 
 Charakterystyka misji
 =====================
-Celem misji Apollo 12 była wizyta miejsca lądowania sondy *Surveyor 3*, która wylądowała na powierzchni w kwietniu 1967 roku. Lądowanie podczas tej misji było jednym z najbardziej precyzyjnych.
+Celem misji Apollo 12 była wizyta miejsca lądowania sondy *Surveyor 3*, która wylądowała na powierzchni w kwietniu 1967 roku. Lądowanie podczas tej misji było jednym z najbardziej precyzyjnych :cite:`Calio1970`.
 
 Apollo 12 było pierwszą misją podczas, której wykonano eksperymenty z pakietu :term:`ALSEP`.
 
@@ -44,17 +44,17 @@ Eksploracja powierzchni Księżyca
 
 Lista eksperymentów
 -------------------
-#. Cold Cathode Ion Gauge (CCIG)
-#. Lunar Dust Detector (LDD)
-#. Lunar Surface Magnetometer (LSM)
-#. Passive Seismic Experiment (PSE)
-#. Suprathermal Ion Detector Experiment (SIDE)
-#. Solar Wind Composition (SWCE)*
-#. Solar Wind Spectrometer (SWS)
+W trakcie misji Apollo 12 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Apollo12PressKit`, :cite:`Calio1970`:
+
+    #. Cold Cathode Ion Gauge (CCIG)
+    #. Lunar Dust Detector (LDD)
+    #. Lunar Surface Magnetometer (LSM)
+    #. Passive Seismic Experiment (PSE)
+    #. Suprathermal Ion Detector Experiment (SIDE)
+    #. Solar Wind Composition (SWCE)*
+    #. Solar Wind Spectrometer (SWS)
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
-
-:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Apollo12PressKit`
 
 .. figure:: img/apollo12-setup.jpg
     :name: figure-apollo12-setup

@@ -12,7 +12,7 @@ Celem misji Apollo 11 było pierwsze załogowe lądowanie na powierzchni Księż
 
     W tym oto miejscu ludzie z planety Ziemia postawili po raz pierwszy stopę na Księżycu. Lipiec roku 1969 A.D. Przybyliśmy w pokoju w imieniu całej ludzkości.
 
-Astronauta Neil Armstrong zaraz po zejściu na powierzchnię pobrał tzw. "próbkę bezpieczeństwa" (ang. *Contingency Sample*). Był to mały odłamek skalny, pobrany na wypadek konieczności szybkiego powrotu na Ziemię. Podczas misji Apollo 11 celem nie były eksperymenty naukowe, chociaż pobrano próbki gruntu i przeprowadzono eksperymenty geofizyczne.
+Astronauta Neil Armstrong zaraz po zejściu na powierzchnię pobrał tzw. "próbkę bezpieczeństwa" (ang. *Contingency Sample*). Był to mały odłamek skalny, pobrany na wypadek konieczności szybkiego powrotu na Ziemię. Podczas misji Apollo 11 celem nie były eksperymenty naukowe, chociaż pobrano próbki gruntu i przeprowadzono eksperymenty geofizyczne :cite:`Vest1969`.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
@@ -46,14 +46,14 @@ Eksploracja powierzchni Księżyca
 
 Lista eksperymentów
 -------------------
-#. Lunar Dust Detector (LDD)
-#. Lunar Ranging Retro-Reflector (LRRR)
-#. Passive Seismic Experiment Package (PSEP)
-#. Solar Wind Composition Experiment (SWCE)*
+W trakcie misji Apollo 11 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Vest1969`:
+
+    #. Lunar Dust Detector (LDD)
+    #. Lunar Ranging Retro-Reflector (LRRR)
+    #. Passive Seismic Experiment Package (PSEP)
+    #. Solar Wind Composition Experiment (SWCE)*
 
 \* - Eksperyment dodatkowy, niebędący częścią EASEP
-
-:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 .. figure:: img/apollo11-setup.jpg
     :name: figure-apollo11-setup

@@ -5,7 +5,7 @@ Misji Apollo 16
 
 Charakterystyka misji
 =====================
-Pierwsza misja, której celem było badanie trenów górzystych Księżyca. Po raz pierwszy użyto kamery spektrografu w paśmie :term:`UV`. Ponownie zastosowano łazik :term:`LRV`. Wypuszczono na orbicie Księżyca niewielki satelity badawcze.
+Pierwsza misja, której celem było badanie trenów górzystych Księżyca. Po raz pierwszy użyto kamery spektrografu w paśmie :term:`UV`. Ponownie zastosowano łazik :term:`LRV`. Wypuszczono na orbicie Księżyca niewielki satelity badawcze :cite:`Brett1972`.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
@@ -41,15 +41,15 @@ Eksploracja powierzchni Księżyca
 
 Lista eksperymentów
 -------------------
-#. Active Seismic Experiment (ASE)
-#. Cosmic Ray Detector (CRD)*
-#. Heat Flow Experiment (HFE)
-#. Lunar Portable Magnetometer (LPM)*
-#. Lunar Surface Magnetometer (LSM)
-#. Passive Seismic Experiment (PSE)
-#. Solar Wind Composition (SWCE)*
+W trakcie misji Apollo 16 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Brett1972`:
 
-:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
+    #. Active Seismic Experiment (ASE)
+    #. Cosmic Ray Detector (CRD)*
+    #. Heat Flow Experiment (HFE)
+    #. Lunar Portable Magnetometer (LPM)*
+    #. Lunar Surface Magnetometer (LSM)
+    #. Passive Seismic Experiment (PSE)
+    #. Solar Wind Composition (SWCE)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
 

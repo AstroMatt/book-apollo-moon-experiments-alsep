@@ -5,7 +5,7 @@ Misji Apollo 17
 
 Charakterystyka misji
 =====================
-Misja o największym znaczeniu naukowym. Pierwsze lądowanie na powierzchnię Księżyca przez naukowca (Harrison Schmitt). Rozstawiono 6 dodatkowych eksperymentów geofizycznych.
+Misja o największym znaczeniu naukowym. Pierwsze lądowanie na powierzchnię Księżyca przez naukowca (Harrison Schmitt). Rozstawiono 6 dodatkowych eksperymentów geofizycznych :cite:`Parker1973`.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
@@ -46,18 +46,17 @@ Eksploracja powierzchni Księżyca
 
 Lista eksperymentów
 -------------------
-#. Cosmic Ray Detector (CRD)*
-#. Heat Flow Experiment (HFE)
-#. Lunar Atmospheric Composition Experiment (LACE)
-#. Lunar Ejecta and Meteorite Experiment (LEAM)
-#. Lunar Surface Gravimeter Experiment (LSG)
-#. Lunar Seismic Profiling Experiment (LSPE)
-#. Neutron Probe*
-#. Surface Electrical Properties (SEP)*
-#. Traverse Gravimeter Experiment (TGE)*
+W trakcie misji Apollo 17 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Parker1973`:
 
-:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
-
+    #. Cosmic Ray Detector (CRD)*
+    #. Heat Flow Experiment (HFE)
+    #. Lunar Atmospheric Composition Experiment (LACE)
+    #. Lunar Ejecta and Meteorite Experiment (LEAM)
+    #. Lunar Surface Gravimeter Experiment (LSG)
+    #. Lunar Seismic Profiling Experiment (LSPE)
+    #. Neutron Probe*
+    #. Surface Electrical Properties (SEP)*
+    #. Traverse Gravimeter Experiment (TGE)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
 

@@ -5,7 +5,7 @@ Misji Apollo 14
 
 Charakterystyka misji
 =====================
-Celem misji Apollo 14 było wykonanie pomiarów geofizycznych i pobranie próbek regolitu księżycowego. Była to pierwsza misja w której wykorzystano projekt "wózka" do przewożenia odłamków skalnych.
+Celem misji Apollo 14 było wykonanie pomiarów geofizycznych i pobranie próbek regolitu księżycowego. Była to pierwsza misja w której wykorzystano projekt "wózka" do przewożenia odłamków skalnych :cite:`Chapman1971`.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
@@ -42,20 +42,19 @@ Eksploracja powierzchni Księżyca
 
 Lista eksperymentów
 -------------------
-#. Active Seismic Experiment (ASE)
-#. Charged Particle Lunar Environmental Experiment (CPLEE)
-#. Cold Cathode Ion Gauge (CCIG)
-#. Lunar Dust Detector (LDD)
-#. Lunar Portable Magnetometer (LPM)*
-#. Laser Ranging Retro-reflector (LRRR)*
-#. Passive Seismic Experiment (PSE)
-#. Suprathermal Ion Detector Experiment (SIDE)
-#. Solar Wind Composition (SWCE)*
+W trakcie misji Apollo 14 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Chapman1971`:
+
+    #. Active Seismic Experiment (ASE)
+    #. Charged Particle Lunar Environmental Experiment (CPLEE)
+    #. Cold Cathode Ion Gauge (CCIG)
+    #. Lunar Dust Detector (LDD)
+    #. Lunar Portable Magnetometer (LPM)*
+    #. Laser Ranging Retro-reflector (LRRR)*
+    #. Passive Seismic Experiment (PSE)
+    #. Suprathermal Ion Detector Experiment (SIDE)
+    #. Solar Wind Composition (SWCE)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
-
-
-:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 .. figure:: img/apollo14-setup.jpg
     :name: figure-apollo14-setup

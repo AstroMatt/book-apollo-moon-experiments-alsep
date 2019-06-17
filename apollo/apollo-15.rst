@@ -5,11 +5,7 @@ Misji Apollo 15
 
 Charakterystyka misji
 =====================
-Pierwsza misja, która przy okazji badań powierzchniowych wykonała również pomiary na orbicie wykorzystując sensory umieszczone w module :term:`CSM`.
-
-Zmodyfikowane skafandry :term:`A7L` wykorzystywane podczas :term:`EVA` pozwoliły na dłuższy pobyt powierzchniowy.
-
-Apollo 15 był również pierwszą misją, podczas której zastosowano elektryczny łazik księżycowy :term:`LRV` (ang. *Lunar Roving Vehicle*).
+Pierwsza misja, która przy okazji badań powierzchniowych wykonała również pomiary na orbicie wykorzystując sensory umieszczone w module :term:`CSM`. Zmodyfikowane skafandry :term:`A7L` wykorzystywane podczas :term:`EVA` pozwoliły na dłuższy pobyt powierzchniowy. Apollo 15 był również pierwszą misją, podczas której zastosowano elektryczny łazik księżycowy :term:`LRV` (ang. *Lunar Roving Vehicle*) :cite:`Allen1972`.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
@@ -46,18 +42,18 @@ Eksploracja powierzchni Księżyca
 
 Lista eksperymentów
 -------------------
-#. Cold Cathode Ion Gauge (CCIG)
-#. Heat Flow Experiment (HFE)
-#. Lunar Dust Detector (LDD)
-#. Laser Ranging Retro-Reflector (LRRR)*
-#. Lunar Surface Magnetometer (LSM)
-#. Passive Seismic Experiment (PSE)
-#. Suprathermal Ion Detector Experiment (SIDE)
-#. Solar Wind Composition (SWCE)*
+W trakcie misji Apollo 15 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Allen1972`:
+
+    #. Cold Cathode Ion Gauge (CCIG)
+    #. Heat Flow Experiment (HFE)
+    #. Lunar Dust Detector (LDD)
+    #. Laser Ranging Retro-Reflector (LRRR)*
+    #. Lunar Surface Magnetometer (LSM)
+    #. Passive Seismic Experiment (PSE)
+    #. Suprathermal Ion Detector Experiment (SIDE)
+    #. Solar Wind Composition (SWCE)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
-
-:cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`
 
 .. figure:: img/apollo15-setup.jpg
     :name: figure-apollo15-setup

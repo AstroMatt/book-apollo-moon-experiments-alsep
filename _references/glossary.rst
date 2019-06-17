@@ -34,3 +34,9 @@ Słownik nazw
     UV
     Ultraviolet
         Promieniowanie elektromagnetyczne o długości fali w zakresie 10 nm do 400 nm. Niewidoczne gołym okiem.
+
+    brekcja
+        Formacja geologiczna
+
+    geofon
+        Urządzenie rejestrujące fale sejsmiczne.
