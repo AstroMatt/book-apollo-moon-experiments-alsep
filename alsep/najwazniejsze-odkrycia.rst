@@ -1,8 +1,10 @@
-*************************************************************************
-Top Ten Scientific Discoveries Made During Apollo Exploration of the Moon
-*************************************************************************
+**********************
+Najważniejsze odkrycia
+**********************
 
-    Developed by the staff of the Curator for Planetary Materials Office at the Johnson Space Center. The Curator is responsible for the curation of both lunar samples and meteorites and distributes these items for scientific study. :cite:`Lindsay2008`
+
+:cite:`Lindsay2008`.
+
 
 #. The Moon is not a primordial object; it is an evolved terrestrial planet with internal zoning similar to that of Earth.
 

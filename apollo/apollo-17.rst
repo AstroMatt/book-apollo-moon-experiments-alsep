@@ -1,6 +1,6 @@
-************************************************
-Eksperymenty geofizyczne podczas misji Apollo 17
-************************************************
+***************
+Misji Apollo 17
+***************
 
 
 Charakterystyka misji
@@ -19,25 +19,23 @@ Załoga
     :header-rows: 1
 
 .. figure:: img/apollo17-crew.jpg
-    :name: figure-alsep-apollo17-crew
+    :name: figure-apollo17-crew
 
     Załoga misji Apollo 17. Od lewej astronauci: Schmitt, Cernan (dół), Evans (góra)
 
-Charakterystyka miejsca lądowania
+Miejsce lądowania
 ---------------------------------
 The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977 :cite:`Lindsay2008`.
 
 .. figure:: img/apollo17-map.png
-    :name: figure-alsep-apollo17-map
+    :name: figure-apollo17-map
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: NASA/USGS/LPI/ASU
 
 .. figure:: img/apollo17-map2.jpg
-    :name: figure-alsep-apollo17-map2
+    :name: figure-apollo17-map2
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 Eksploracja powierzchni Księżyca
 --------------------------------
@@ -63,11 +61,9 @@ Lista eksperymentów
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
 
 .. figure:: img/apollo17-setup.jpg
-    :name: figure-alsep-apollo17-setup
+    :name: figure-apollo17-setup
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 Przygotowanie do misji
 ----------------------
@@ -76,71 +72,53 @@ Przygotowanie do misji
     :header-rows: 1
 
 
-Eksperymenty w ramach pakietu ALSEP
+Eksperymenty wykonane podczas misji
 ===================================
 
 Heat Flow Experiment (HFE)
 --------------------------
 .. figure:: img/apollo17-HFE.jpg
-    :name: figure-alsep-apollo17-HFE
+    :name: figure-apollo17-HFE
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 Lunar Atmospheric Composition Experiment (LACE)
 -----------------------------------------------
 .. figure:: img/apollo17-LACE.jpg
-    :name: figure-alsep-apollo17-LACE
+    :name: figure-apollo17-LACE
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 Lunar Ejecta and Meteorite Experiment (LEAM)
 --------------------------------------------
 .. figure:: img/apollo17-LEAM.jpg
-    :name: figure-alsep-apollo17-LEAM
+    :name: figure-apollo17-LEAM
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 Lunar Surface Gravimeter Experiment (LSG)
 -----------------------------------------
 .. figure:: img/apollo17-LSG.jpg
-    :name: figure-alsep-apollo17-LSG
+    :name: figure-apollo17-LSG
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 Lunar Seismic Profiling Experiment (LSPE)
 -----------------------------------------
 .. figure:: img/apollo17-LSPE1.jpg
-    :name: figure-alsep-apollo17-LSPE1
+    :name: figure-apollo17-LSPE1
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 .. figure:: img/apollo17-LSPE2.jpg
-    :name: figure-alsep-apollo17-LSPE2
+    :name: figure-apollo17-LSPE2
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
 
 .. figure:: img/apollo17-LSPE3.jpg
-    :name: figure-alsep-apollo17-LSPE3
+    :name: figure-apollo17-LSPE3
 
     Źródło: :cite:`ImageProjectApolloArchive`.
-
-.. todo:: podpis dla Figure
-
-
-Eksperymenty poza pakietem ALSEP
-================================
 
 Cosmic Ray Detector (CRD)
 -------------------------

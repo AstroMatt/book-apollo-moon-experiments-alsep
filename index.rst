@@ -15,23 +15,54 @@ Wstęp
     /wstep/metody.rst
     /wstep/rys-historyczny.rst
 
-
-Eksperymenty geofizyczne podczas misji Apollo
-=============================================
+Charakterystyka misji Apollo
+============================
 .. toctree::
     :maxdepth: 2
     :numbered:
-    :caption: Eksperymenty geofizyczne podczas misji Apollo
+    :caption: Charakterystyka misji Apollo
     :hidden:
 
-    /alsep/o-pakiecie-alsep.rst
-    /alsep/apollo-11.rst
-    /alsep/apollo-12.rst
-    /alsep/apollo-14.rst
-    /alsep/apollo-15.rst
-    /alsep/apollo-16.rst
-    /alsep/apollo-17.rst
-    /alsep/top10-odkryc.rst
+    /apollo/apollo-11.rst
+    /apollo/apollo-12.rst
+    /apollo/apollo-14.rst
+    /apollo/apollo-15.rst
+    /apollo/apollo-16.rst
+    /apollo/apollo-17.rst
+
+Eksperymenty geofizyczne na powierzchni Księżyca
+================================================
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Eksperymenty geofizyczne na powierzchni Księżyca
+    :hidden:
+
+    /alsep/wprowadzenie.rst
+    /alsep/alsep-ASE.rst
+    /alsep/alsep-CCIG.rst
+    /alsep/alsep-CPLEE.rst
+    /alsep/alsep-CRD.rst
+    /alsep/alsep-HFE.rst
+    /alsep/alsep-LACE.rst
+    /alsep/alsep-LAD.rst
+    /alsep/alsep-LDD.rst
+    /alsep/alsep-LEAM.rst
+    /alsep/alsep-LID.rst
+    /alsep/alsep-LPM.rst
+    /alsep/alsep-LRRR.rst
+    /alsep/alsep-LSG.rst
+    /alsep/alsep-LSM.rst
+    /alsep/alsep-LSPE.rst
+    /alsep/alsep-NPE.rst
+    /alsep/alsep-PSE.rst
+    /alsep/alsep-PSEP.rst
+    /alsep/alsep-SEP.rst
+    /alsep/alsep-SIDE.rst
+    /alsep/alsep-SWCE.rst
+    /alsep/alsep-SWS.rst
+    /alsep/alsep-TGE.rst
+    /alsep/najwazniejsze-odkrycia.rst
 
 
 Zakończenie
