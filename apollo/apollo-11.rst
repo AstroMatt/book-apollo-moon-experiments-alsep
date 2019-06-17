@@ -5,7 +5,6 @@ Misja Apollo 11
 
 Charakterystyka misji
 =====================
-
 Celem misji Apollo 11 było pierwsze załogowe lądowanie na powierzchni Księżyca. Podczas misji postawiono pierwsze kroki na powierzchni, zatknięto flagę USA oraz pozostawiono tabliczkę:
 
     Here Men From Planet Earth First Set Foot Upon the Moon. July 1969 A.D. We Came In Peace For All Mankind.

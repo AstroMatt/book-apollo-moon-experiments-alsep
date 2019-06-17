@@ -24,7 +24,7 @@ Projekt eksperymentu
 
 Opis eksperymentu
 =================
-:ref:`Aktywny eksperyment sejsmiczny <Active Seismic Experiment>` uzupełniał dane zebrane z :ref:`Pasywnego eksperymentu <Passive Seismic Experiment>` na dwa sposoby, tj. ze względu na mniejszą skalę i źródło energii.
+:ref:`Aktywny eksperyment sejsmiczny <Active Seismic Experiment>` pozwalał na uzupełnienie danych zebranych podczas :ref:`pasywnego eksperymentu <Passive Seismic Experiment>`. :term:`ASE` od :term:`PSE` różnił się na dwa sposoby, tj. ze względu na mniejszą skalę i źródło energii.
 
 W przeciwieństwie do :ref:`Pasywnego eksperymentu <Passive Seismic Experiment>`, który był zaprojektowany do badań całego Księżyca, :ref:`aktywny eksperyment sejsmiczny <Active Seismic Experiment>` skupiał się na poznaniu lokalnej okolicy lądowania. ASE zamiast czekać na naturalnie wystąpienie zdarzeń sejsmicznych wewnątrz Księżyca i na jego powierzchni, polegał na wykorzystaniu niewielkich ładunków wybuchowych w celu wzbudzenia fali sejsmicznej.
 

@@ -26,13 +26,10 @@ Załoga
 
 Miejsce lądowania
 -----------------
-The central station, located 125 meters North West of the LM at 26.13407 N latitude, 3.62981 E longitude, was turned on at 1837 UT on July 31 1971 and shut down on September 30 1977.
-:cite:`Lindsay2008`
-
 .. figure:: img/apollo15-map.png
     :name: figure-apollo15-map
 
-    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 15. Źródło: NASA/USGS/LPI/ASU
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 15. Źródło: NASA/USGS/LPI/ASU, :cite:`Lindsay2008`.
 
 Eksploracja powierzchni Księżyca
 --------------------------------
@@ -82,8 +79,6 @@ Lunar Dust Detector (LDD)
 
 Lunar Surface Magnetometer (LSM)
 --------------------------------
-* Commanded OFF on 15 June 1974
-
 .. figure:: img/apollo15-LSM.jpg
     :name: figure-apollo15-LSM
 
@@ -96,9 +91,6 @@ Passive Seismic Experiment (PSE)
 
 SIDE/CCIG
 ---------
-* Cold Cathode Ion Gauge (CCIG)
-* Suprathermal Ion Detector Experiment (SIDE)
-
 .. figure:: img/apollo15-SIDE_CCIG.jpg
     :name: figure-apollo15-SIDE_CCIG
 
@@ -113,8 +105,6 @@ SWS
 
 Lunar Ranging Retro-Reflector (LRRR)
 ------------------------------------
-* with 300 fused silica cubes
-
 .. figure:: img/apollo15-LRRR.jpg
     :name: figure-apollo15-LRRR
 
@@ -122,4 +112,3 @@ Lunar Ranging Retro-Reflector (LRRR)
 
 Solar Wind Composition Experiment (SWCE)
 ----------------------------------------
-* exposed for 41 hours 8 minutes

@@ -26,13 +26,10 @@ Załoga
 
 Miejsce lądowania
 -----------------
-The central station, located 180 meters West of the LM at 3.64398 S latitude, 17.47748 W longitude, was turned on at 1723 UT on February 5 1971 and failed during January 1976.
-:cite:`Lindsay2008`
-
 .. figure:: img/apollo14-map.png
     :name: figure-apollo14-map
 
-    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 14. Źródło: NASA/USGS/LPI/ASU
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 14. Źródło: NASA/USGS/LPI/ASU, :cite:`Lindsay2008`.
 
 Eksploracja powierzchni Księżyca
 --------------------------------
@@ -102,9 +99,6 @@ Passive Seismic Experiment (PSE)
 
 SIDE/CCIG
 ---------
-* Cold Cathode Ion Gauge (CCIG)
-* Suprathermal Ion Detector Experiment (SIDE)
-
 .. figure:: img/apollo14-SIDE_CCIG.jpg
     :name: figure-apollo14-SIDE_CCIG
 
@@ -115,8 +109,6 @@ Lunar Portable Magnetometer (LPM)
 
 Lunar Ranging Retro-Reflector (LRRR)
 ------------------------------------
-* with 100 fused silica cubes
-
 .. figure:: img/apollo14-LRRR.jpg
     :name: figure-apollo14-LRRR
 

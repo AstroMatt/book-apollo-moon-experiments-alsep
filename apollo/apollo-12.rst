@@ -28,13 +28,10 @@ Załoga
 
 Miejsce lądowania
 -----------------
-The central station, located 90 meters North West of the LM at 3.00942 S Latitude  23.42458 W longitude, was turned on at 1421 UT on November 19 1969 and off on September 30 1977.
-:cite:`Lindsay2008`, :cite:`Apollo12PressKit`
-
 .. figure:: img/apollo12-map.png
     :name: figure-apollo12-map
 
-    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 12. Źródło: NASA/USGS/LPI/ASU
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 12. Źródło: NASA/USGS/LPI/ASU, :cite:`Lindsay2008`, :cite:`Apollo12PressKit`.
 
 Eksploracja powierzchni Księżyca
 --------------------------------
@@ -61,8 +58,6 @@ W trakcie misji Apollo 12 wykonano następujące eksperymenty :cite:`Lindsay2008
 
     Źródło: :cite:`ImageProjectApolloArchive`.
 
-.. todo:: podpis dla Figure
-
 
 Eksperymenty wykonane podczas misji
 ===================================
@@ -86,9 +81,6 @@ Passive Seismic Experiment (PSE)
 
 SIDE/CCIG
 ---------
-* Cold Cathode Ion Gauge (CCIG)
-* Suprathermal Ion Detector Experiment (SIDE)
-
 .. figure:: img/apollo12-SIDE_CCIG.jpg
     :name: figure-apollo12-SIDE_CCIG
 

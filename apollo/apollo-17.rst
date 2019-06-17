@@ -54,7 +54,7 @@ W trakcie misji Apollo 17 wykonano następujące eksperymenty :cite:`Lindsay2008
     #. Lunar Ejecta and Meteorite Experiment (LEAM)
     #. Lunar Surface Gravimeter Experiment (LSG)
     #. Lunar Seismic Profiling Experiment (LSPE)
-    #. Neutron Probe*
+    #. Neutron Probe (NPE)*
     #. Surface Electrical Properties (SEP)*
     #. Traverse Gravimeter Experiment (TGE)*
 
