@@ -22,14 +22,14 @@ Podstawowe informacje dotyczące misji
 
 Załoga
 ------
-.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 11 :cite:`Johnston1975`.
+.. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 11 :cite:`Johnston1975`, :cite:`Lindsay2008`.
     :file: data/apollo11-crew.csv
     :header-rows: 1
 
 .. figure:: img/apollo11-crew.jpg
     :name: figure-apollo11-crew
 
-    Załoga misji Apollo 11. Od lewej astronauci: Armstrong, Collins, Aldrin.
+    Załoga misji Apollo 11. Od lewej astronauci: Armstrong, Collins, Aldrin. Źródło: :cite:`Lindsay2008`.
 
 Miejsce lądowania
 -----------------
@@ -37,8 +37,6 @@ Miejsce lądowania
     :name: figure-apollo11-map
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 11. Źródło: NASA/USGS/LPI/ASU
-
-:cite:`Lindsay2008`
 
 Eksploracja powierzchni Księżyca
 --------------------------------
