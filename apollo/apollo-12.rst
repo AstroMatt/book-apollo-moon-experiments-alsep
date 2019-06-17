@@ -27,7 +27,7 @@ Załoga
     Załoga misji Apollo 12. Od lewej astronauci: Conrad, Gordon, Bean
 
 Miejsce lądowania
----------------------------------
+-----------------
 The central station, located 90 meters North West of the LM at 3.00942 S Latitude  23.42458 W longitude, was turned on at 1421 UT on November 19 1969 and off on September 30 1977.
 :cite:`Lindsay2008`, :cite:`Apollo12PressKit`
 

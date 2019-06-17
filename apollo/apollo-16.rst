@@ -5,14 +5,13 @@ Misji Apollo 16
 
 Charakterystyka misji
 =====================
+Pierwsza misja, której celem było badanie trenów górzystych Księżyca. Po raz pierwszy użyto kamery spektrografu w paśmie :term:`UV`. Ponownie zastosowano łazik :term:`LRV`. Wypuszczono na orbicie Księżyca niewielki satelity badawcze.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
 .. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 16 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo16-info.csv
-
-First study of highlands area. Selected surface experiments deployed, ultraviolet camera/spectrograph used for first time on Moon, and LRV used for second time. LRV traversed 26.7 km. Three EVAs totaling 20 hours 14 minutes. 95.8 kg (213 lbs) of lunar samples collected. Lunar surface stay-time, 71 hours; in lunar orbit 126 hours, with 64 orbits. Subsatellite released in lunar orbit. Mattingly performed 1-hour trans-Earth EVA.
 
 Załoga
 ------

@@ -5,14 +5,13 @@ Misji Apollo 17
 
 Charakterystyka misji
 =====================
+Misja o największym znaczeniu naukowym. Pierwsze lądowanie na powierzchnię Księżyca przez naukowca (Harrison Schmitt). Rozstawiono 6 dodatkowych eksperymentów geofizycznych.
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
 .. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 17 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo17-info.csv
-
-Three EVAs of 22 hours, 04 minutes total duration. First scientist-astronaut to land on Moon, Schmitt. Sixth automated research station set up. LRV traverse total 30.5 km. 110.4 kg (243 lbs) of material gathered. Lunar surface stay-time, 75 hours. (CSM) in lunar orbit 148 hours. Evans performed trans-Earth EVA lasting 01 hour 06 minutes.
 
 Załoga
 ------
@@ -26,7 +25,7 @@ Załoga
     Załoga misji Apollo 17. Od lewej astronauci: Schmitt, Cernan (dół), Evans (góra)
 
 Miejsce lądowania
----------------------------------
+-----------------
 The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977 :cite:`Lindsay2008`.
 
 .. figure:: img/apollo17-map.png

@@ -32,7 +32,7 @@ Załoga
     Załoga misji Apollo 11. Od lewej astronauci: Armstrong, Collins, Aldrin.
 
 Miejsce lądowania
----------------------------------
+-----------------
 .. figure:: img/apollo11-map.png
     :name: figure-apollo11-map
 

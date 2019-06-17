@@ -25,7 +25,7 @@ Załoga
     Załoga misji Apollo 14. Od lewej astronauci: Rosa, Shepard, Mitchel
 
 Miejsce lądowania
----------------------------------
+-----------------
 The central station, located 180 meters West of the LM at 3.64398 S latitude, 17.47748 W longitude, was turned on at 1723 UT on February 5 1971 and failed during January 1976.
 :cite:`Lindsay2008`
 

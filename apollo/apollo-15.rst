@@ -9,9 +9,7 @@ Pierwsza misja, która przy okazji badań powierzchniowych wykonała również p
 
 Zmodyfikowane skafandry :term:`A7L` wykorzystywane podczas :term:`EVA` pozwoliły na dłuższy pobyt powierzchniowy.
 
-Apollo 15 był również pierwszą misją, podczas której zastosowano łazik księżycowy :term:`LRV` (ang. *Lunar Roving Vehicle*)
-
-First mission to carry orbital sensors in service module of CSM. ALSEP deployed. Scientific payload landed on Moon doubled. Improved spacesuits gave increased mobility and stay-time. Lunar surface stay- time, 66.9 hours. Lunar Roving Vehicle (LRV), electric-powered, 4-wheel drive car, traversed total 27.9 km (17 mi). In lunar orbit 145 hours, with 74 orbits. Small subsatellite left in lunar orbit for first time. 76.6 kgs (169 lbs) of material gathered.
+Apollo 15 był również pierwszą misją, podczas której zastosowano elektryczny łazik księżycowy :term:`LRV` (ang. *Lunar Roving Vehicle*).
 
 Podstawowe informacje dotyczące misji
 -------------------------------------
@@ -31,7 +29,7 @@ Załoga
     Załoga misji Apollo 15. Od lewej astronauci: Scott, Worden, Irwin
 
 Miejsce lądowania
----------------------------------
+-----------------
 The central station, located 125 meters North West of the LM at 26.13407 N latitude, 3.62981 E longitude, was turned on at 1837 UT on July 31 1971 and shut down on September 30 1977.
 :cite:`Lindsay2008`
 

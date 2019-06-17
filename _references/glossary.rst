@@ -30,3 +30,7 @@ Słownik nazw
     LRV
     Lunar Roving Vehicle
         Łazik księżycowy.
+
+    UV
+    Ultraviolet
+        Promieniowanie elektromagnetyczne o długości fali w zakresie 10 nm do 400 nm. Niewidoczne gołym okiem.
