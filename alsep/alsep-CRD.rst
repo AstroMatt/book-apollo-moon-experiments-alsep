@@ -11,8 +11,8 @@ Cosmic Ray Detector (CRD)
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz promieniowania kosmicznego"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-CRD-photo.jpg
     :name: figure-alsep-CRD-photo
 

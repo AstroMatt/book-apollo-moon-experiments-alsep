@@ -12,8 +12,8 @@ Neutron Probe (NP)
     "Nazwa eksperymentu (j. pol.)", "Sonda neutronowa"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-NPE-diagram.jpg
     :name: figure-alsep-NPE-diagram
 

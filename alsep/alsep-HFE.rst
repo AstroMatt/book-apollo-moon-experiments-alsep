@@ -12,8 +12,8 @@ Heat Flow Experiment (HFE)
     "Nazwa eksperymentu (j. pol.)", "Eksperyment przepływu ciepła"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-HFE-color.jpg
     :name: figure-alsep-HFE-color
 

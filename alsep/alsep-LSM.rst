@@ -12,8 +12,8 @@ Lunar Surface Magnetometer (LSM)
     "Nazwa eksperymentu (j. pol.)", "Magnetometryczny pomiar powierzchni Księżyca"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-LSM-diagram.png
     :name: figure-alsep-LSM-diagram
 

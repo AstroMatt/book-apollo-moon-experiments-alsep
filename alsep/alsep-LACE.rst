@@ -12,8 +12,8 @@ Lunar Atmospheric Composition Experiment (LACE)
     "Nazwa eksperymentu (j. pol.)", "Pomiar składu atmosfery Księżyca"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-LACE-photo.jpg
     :name: figure-alsep-LACE-photo
 

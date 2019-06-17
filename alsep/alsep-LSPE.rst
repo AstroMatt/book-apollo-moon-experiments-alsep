@@ -12,8 +12,8 @@ Lunar Seismic Profiling Experiment (LSPE)
     "Nazwa eksperymentu (j. pol.)", "Profilowanie sejsmiczne powierzchni Księżyca"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-LSPE-plot.jpg
     :name: figure-alsep-LSPE-plot
 

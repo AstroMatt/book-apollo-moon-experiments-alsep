@@ -12,8 +12,8 @@ Solar Wind Composition Experiment (SWCE)
     "Nazwa eksperymentu (j. pol.)", ""
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-SWCE-diagram.png
     :name: figure-alsep-SWCE-diagram
 

@@ -12,8 +12,8 @@ Suprathermal Ion Detector Experiment (SIDE)
     "Nazwa eksperymentu (j. pol.)", ""
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-SIDE-diagram.png
     :name: figure-alsep-SIDE-diagram
 

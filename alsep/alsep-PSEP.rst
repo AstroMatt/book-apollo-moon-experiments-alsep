@@ -12,8 +12,8 @@ Passive Seismic Experiment Package (PSEP)
     "Nazwa eksperymentu (j. pol.)", "Zestaw eksperymentalny eksperymentu sejsmicznego"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-PSEP-diagram.jpg
     :name: figure-alsep-PSEP-diagram
 

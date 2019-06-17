@@ -12,8 +12,8 @@ Traverse Gravimeter Experiment (TGE)
     "Nazwa eksperymentu (j. pol.)", ""
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-TGE-photo.jpg
     :name: figure-alsep-TGE-photo
 

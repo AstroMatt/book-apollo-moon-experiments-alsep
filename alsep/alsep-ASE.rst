@@ -12,8 +12,8 @@ Active Seismic Experiment (ASE)
     "Nazwa eksperymentu (j. pol.)", "Aktywny eksperyment sejsmiczny"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-ASE-diagram.png
     :name: figure-alsep-ASE-diagram
 

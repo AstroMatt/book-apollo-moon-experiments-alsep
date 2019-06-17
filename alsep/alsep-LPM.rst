@@ -12,8 +12,8 @@ Lunar Portable Magnetometer (LPM)
     "Nazwa eksperymentu (j. pol.)", "Przenośny księżycowy magnetometr"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-LPM-photo.jpg
     :name: figure-alsep-LPM-photo
 

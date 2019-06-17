@@ -12,8 +12,8 @@ Solar Wind Spectrometer (SWS)
     "Nazwa eksperymentu (j. pol.)", ""
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-SWS-diagram.png
     :name: figure-alsep-SWS-diagram
 

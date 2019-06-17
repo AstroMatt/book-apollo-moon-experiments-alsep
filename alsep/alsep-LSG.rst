@@ -12,8 +12,8 @@ Lunar Surface Gravimeter Experiment (LSG)
     "Nazwa eksperymentu (j. pol.)", "Grawimetryczny pomiar powierzchni Księżyca"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-LSG-diagram.gif
     :name: figure-alsep-LSG-diagram
 

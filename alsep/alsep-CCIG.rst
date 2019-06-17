@@ -12,8 +12,8 @@ Cold Cathode Ion Gauge (CCIG)
     "Nazwa eksperymentu (j. pol.)", "Pomiar jonów zimną katodą"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-CCIG-diagram.jpg
     :name: figure-alsep-CCIG-diagram
 

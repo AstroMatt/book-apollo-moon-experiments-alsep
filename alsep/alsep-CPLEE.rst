@@ -12,8 +12,8 @@ Charged Particle Lunar Environmental Experiment (CPLEE)
     "Nazwa eksperymentu (j. pol.)", "Pomiar ładunku cząstek w środowisku księżycowym"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-CPLEE-photo.jpg
     :name: figure-alsep-CPLEE-photo
 

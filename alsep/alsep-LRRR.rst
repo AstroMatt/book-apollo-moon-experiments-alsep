@@ -12,8 +12,8 @@ Lunar Ranging Retro-Reflector (LRRR)
     "Nazwa eksperymentu (j. pol.)", "Księżycowe zwierciadło do pomiaru odległości"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-LRRR-closed.gif
     :name: figure-alsep-LRRR-diagram1
 

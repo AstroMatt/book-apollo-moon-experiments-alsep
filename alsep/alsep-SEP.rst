@@ -12,8 +12,8 @@ Surface Electrical Properties Experiment (SEP)
     "Nazwa eksperymentu (j. pol.)", "Pomiar właściwości elektrycznych powierzchni Księżyca"
 
 
-Konstrukcja eksperymentu
-========================
+Projekt eksperymentu
+====================
 .. figure:: img/alsep-SEP-transmitter.jpg
     :name: figure-alsep-SEP-transmitter
 
