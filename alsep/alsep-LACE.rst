@@ -8,6 +8,8 @@ Lunar Atmospheric Composition Experiment (LACE)
 
     "Ośrodek badawczy", "University of Texas"
     "Misje", "Apollo 17"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Atmospheric Composition Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Pomiar składu atmosfery Księżyca"
 
 
 Konstrukcja eksperymentu

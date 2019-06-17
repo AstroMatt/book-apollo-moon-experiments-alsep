@@ -8,6 +8,8 @@ Lunar Atmospheric Detector (LAD)
 
     "Ośrodek badawczy", ""
     "Misje", "Apollo 11, 12"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Atmospheric Detector"
+    "Nazwa eksperymentu (j. pol.)", "Wykrywacz atmosfery Księżyca"
 
 
 Konstrukcja eksperymentu

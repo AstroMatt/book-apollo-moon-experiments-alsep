@@ -8,6 +8,8 @@ Lunar Surface Magnetometer (LSM)
 
     "Ośrodek badawczy", "University of Arizona"
     "Misje", "Apollo 12, 15, 16"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Surface Magnetometer"
+    "Nazwa eksperymentu (j. pol.)", "Magnetometryczny pomiar powierzchni Księżyca"
 
 
 Konstrukcja eksperymentu

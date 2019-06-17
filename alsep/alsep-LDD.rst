@@ -8,6 +8,8 @@ Lunar Dust Detector (LDD)
 
     "Ośrodek badawczy", "Manned Spacecraft Center, Texas"
     "Misje", "Apollo 11, 12, 14, 15"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Dust Detector"
+    "Nazwa eksperymentu (j. pol.)", "Wykrywacz pyłu księżycowego"
 
 
 Konstrukcja eksperymentu

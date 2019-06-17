@@ -8,6 +8,8 @@ Cold Cathode Ion Gauge (CCIG)
 
     "Ośrodek badawczy", "University of Texas"
     "Misje", "Apollo 12, 14, 15"
+    "Nazwa eksperymentu (j. ang.)", "Cold Cathode Ion Gauge"
+    "Nazwa eksperymentu (j. pol.)", "Pomiar jonów zimną katodą"
 
 
 Konstrukcja eksperymentu

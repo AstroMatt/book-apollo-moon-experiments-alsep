@@ -7,6 +7,8 @@ Cosmic Ray Detector (CRD)
 
     "Ośrodek badawczy", "University of California-Berkeley and Washington University"
     "Misje", "Apollo 16, 17"
+    "Nazwa eksperymentu (j. ang.)", "Cosmic Ray Detector"
+    "Nazwa eksperymentu (j. pol.)", "Wykrywacz promieniowania kosmicznego"
 
 
 Konstrukcja eksperymentu

@@ -8,6 +8,8 @@ Lunar Ionosphere Detector (LID)
 
     "Ośrodek badawczy", ""
     "Misje", "Apollo 12"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Ionosphere Detector"
+    "Nazwa eksperymentu (j. pol.)", "Wykrywacz jonosfery księżycowej"
 
 
 Konstrukcja eksperymentu

@@ -8,6 +8,8 @@ Solar Wind Composition Experiment (SWCE)
 
     "Ośrodek badawczy", "University of Berne, Switzerland"
     "Misje", "Apollo 11, 12, 14, 15, 16"
+    "Nazwa eksperymentu (j. ang.)", ""
+    "Nazwa eksperymentu (j. pol.)", ""
 
 
 Konstrukcja eksperymentu

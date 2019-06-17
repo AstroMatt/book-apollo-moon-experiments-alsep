@@ -8,6 +8,8 @@ Surface Electrical Properties Experiment (SEP)
 
     "Ośrodek badawczy", "Massachusetts Institute of Technology"
     "Misje", "Apollo 17"
+    "Nazwa eksperymentu (j. ang.)", "Surface Electrical Properties Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Pomiar właściwości elektrycznych powierzchni Księżyca"
 
 
 Konstrukcja eksperymentu

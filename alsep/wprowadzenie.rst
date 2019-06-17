@@ -22,26 +22,96 @@ Nazwa
 
 Transport
 =========
+.. figure:: img/alsep-package.jpg
+    :name: figure-alsep-package
 
-SEQ
----
+    Źródło: :cite:`Knudson2013`
+
+Scientific Equipment Bay (SEQ)
+------------------------------
 .. figure:: img/alsep-SEQ-close.jpg
     :name: figure-alsep-SEQ-close
 
-    Photo AS16-113-18335 shows the dark grey doors of the Scientific Equipment (SEQ) Bay to the left of center, with a silver-colored, cosmic ray detector panel to the right of the doors and the protective cask  for the RTG plutonium fuel element beyound the doors on the far left.  A lanyard was used to pull the  main door up and out of the way, revealing side doors which could be opened by hand. Źródło: :cite:`Lindsay2008`.
+    Photo AS16-113-18335 shows the dark grey doors of the Scientific Equipment Bay (SEQ) to the left of center, with a silver-colored, cosmic ray detector panel to the right of the doors and the protective cask  for the RTG plutonium fuel element beyound the doors on the far left.  A lanyard was used to pull the  main door up and out of the way, revealing side doors which could be opened by hand. Źródło: :cite:`Lindsay2008`.
 
 .. figure:: img/alsep-SEQ-open.jpg
     :name: figure-alsep-SEQ-open
 
     Alan Bean has just offloaded Apollo 12 ALSEP package No. 2 from the SEQ Bay using a retractable boom, pulleys, and cables. Cooling fins on the RTG can be seen just to the right of Alan's right knee. Photo AS12-46-6783. Źródło: :cite:`Lindsay2008`.
 
-RTG
----
-.. figure:: img/alsep-RTG-diagram.png
-.. figure:: img/alsep-RTG-photo.jpg
+
+Dodatkowe wyposażenie
+=====================
 
 Central Station
 ---------------
 .. figure:: img/alsep-central-station-diagram.jpg
+    :name: figure-alsep-central-station-diagram
+
 .. figure:: img/alsep-central-station-color.jpg
+    :name: figure-alsep-central-station-color
+
 .. figure:: img/alsep-central-station-photo.jpg
+    :name: figure-alsep-central-station-photo
+
+Radioisotope Thermo-electric Generator (RTG)
+--------------------------------------------
+.. figure:: img/alsep-RTG-diagram.png
+    :name: figure-alsep-RTG-diagram
+
+.. figure:: img/alsep-RTG-photo.jpg
+    :name: figure-alsep-RTG-photo
+
+
+Narzędzia
+=========
+
+Universal Handling Tool
+-----------------------
+.. figure:: img/alsep-tool-UHT-diagram.jpg
+    :name: figure-alsep-tool-UHT-diagram
+
+    Źródło: :cite:`Knudson2013`
+
+.. figure:: img/alsep-tool-UHT-photo1.jpg
+    :name: figure-alsep-tool-UHT-photo1
+
+    Źródło: :cite:`Knudson2013`
+
+Apollo Lunar Surface Drill
+--------------------------
+.. figure:: img/alsep-tool-ALSD-diagram.jpg
+    :name: figure-alsep-tool-ALSD-diagram
+
+    Źródło: :cite:`Knudson2013`
+
+.. figure:: img/alsep-tool-ALSD-photo.jpg
+    :name: figure-alsep-tool-ALSD-photo
+
+    The ALSD was used to drill hollow tubes into the lunar surface. These tubes were used for emplacement of probes for the heat flow and neutron probe experiments, as well as to obtain deep core tubes of the regolith for geology. Źródło: :cite:`Knudson2013`
+
+Apollo Lunar Surface Close-up Camera (ALSCC)
+--------------------------------------------
+.. figure:: img/alsep-tool-ALSCC-photo.jpg
+    :name: figure-alsep-tool-ALSCC-photo
+
+    Źródło: :cite:`Knudson2013`
+
+RTG Fuel Transfer Tool (FTT)
+----------------------------
+.. figure:: img/alsep-RTG-FFT-diagram.jpg
+    :name: figure-alsep-RTG-FFT-diagram
+
+    Źródło: :cite:`Knudson2013`
+
+.. figure:: img/alsep-RTG-FTT-photo.jpg
+    :name: figure-alsep-RTG-FTT-photo
+
+    Źródło: :cite:`Knudson2013`
+
+RTG Cask Dome Removal Tool (DRT)
+--------------------------------
+.. figure:: img/alsep-RTG-DRT.jpg
+    :name: figure-alsep-RTG-DRT
+
+    Źródło: :cite:`Knudson2013`

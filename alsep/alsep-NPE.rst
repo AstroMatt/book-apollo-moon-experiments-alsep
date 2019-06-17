@@ -8,6 +8,8 @@ Neutron Probe (NP)
 
     "Ośrodek badawczy", "California Institute of Technology"
     "Misje", "Apollo 17"
+    "Nazwa eksperymentu (j. ang.)", "Neutron Probe"
+    "Nazwa eksperymentu (j. pol.)", "Sonda neutronowa"
 
 
 Konstrukcja eksperymentu

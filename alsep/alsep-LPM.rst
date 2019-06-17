@@ -8,6 +8,8 @@ Lunar Portable Magnetometer (LPM)
 
     "Ośrodek badawczy", "NASA AMES Research Center, California"
     "Misje", "Apollo 14, 16"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Portable Magnetometer"
+    "Nazwa eksperymentu (j. pol.)", "Przenośny księżycowy magnetometr"
 
 
 Konstrukcja eksperymentu

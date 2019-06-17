@@ -8,6 +8,8 @@ Solar Wind Spectrometer (SWS)
 
     "Ośrodek badawczy", "Jet Propulsion Laboratory, California"
     "Misje", "Apollo 12, 15"
+    "Nazwa eksperymentu (j. ang.)", ""
+    "Nazwa eksperymentu (j. pol.)", ""
 
 
 Konstrukcja eksperymentu

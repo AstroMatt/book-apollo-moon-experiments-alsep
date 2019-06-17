@@ -8,6 +8,8 @@ Lunar Ejecta and Meteorite Experiment (LEAM)
 
     "Ośrodek badawczy", "Goddard Space Flight Center"
     "Misje", "Apollo 17"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Ejecta and Meteorite Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Badanie księżycowego i meteorytowego materiału piroklastycznego"
 
 
 Konstrukcja eksperymentu

@@ -8,6 +8,8 @@ Lunar Surface Gravimeter Experiment (LSG)
 
     "Ośrodek badawczy", "University of Maryland"
     "Misje", "Apollo 17"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Surface Gravimeter Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Grawimetryczny pomiar powierzchni Księżyca"
 
 
 Konstrukcja eksperymentu

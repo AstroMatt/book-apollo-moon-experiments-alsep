@@ -8,6 +8,8 @@ Heat Flow Experiment (HFE)
 
     "Ośrodek badawczy", "Columbia University"
     "Misje", "Apollo 15, 16 (accidentally disabled), 17"
+    "Nazwa eksperymentu (j. ang.)", "Heat Flow Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Eksperyment przepływu ciepła"
 
 
 Konstrukcja eksperymentu

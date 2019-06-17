@@ -8,6 +8,8 @@ Charged Particle Lunar Environmental Experiment (CPLEE)
 
     "Ośrodek badawczy", "University of Sydney, Australia"
     "Misje", "Apollo 14"
+    "Nazwa eksperymentu (j. ang.)", "Charged Particle Lunar Environmental Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Pomiar ładunku cząstek w środowisku księżycowym"
 
 
 Konstrukcja eksperymentu

@@ -8,6 +8,8 @@ Active Seismic Experiment (ASE)
 
     "Ośrodek badawczy", "Stanford University"
     "Misje", "Apollo 14, 16"
+    "Nazwa eksperymentu (j. ang.)", "Active Seismic Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Aktywny eksperyment sejsmiczny"
 
 
 Konstrukcja eksperymentu

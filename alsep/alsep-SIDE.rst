@@ -8,6 +8,8 @@ Suprathermal Ion Detector Experiment (SIDE)
 
     "Ośrodek badawczy", "Rice University"
     "Misje", "Apollo 12, 14, 15"
+    "Nazwa eksperymentu (j. ang.)", "Suprathermal Ion Detector Experiment"
+    "Nazwa eksperymentu (j. pol.)", ""
 
 
 Konstrukcja eksperymentu

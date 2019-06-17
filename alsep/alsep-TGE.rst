@@ -8,6 +8,8 @@ Traverse Gravimeter Experiment (TGE)
 
     "Ośrodek badawczy", "Columbia University"
     "Misje", "Apollo 17"
+    "Nazwa eksperymentu (j. ang.)", ""
+    "Nazwa eksperymentu (j. pol.)", ""
 
 
 Konstrukcja eksperymentu

@@ -8,6 +8,8 @@ Lunar Ranging Retro-Reflector (LRRR)
 
     "Ośrodek badawczy", ""
     "Misje", "Apollo 11, 14, 15"
+    "Nazwa eksperymentu (j. ang.)", "Lunar Ranging Retro-Reflector "
+    "Nazwa eksperymentu (j. pol.)", "Księżycowe zwierciadło do pomiaru odległości"
 
 
 Konstrukcja eksperymentu

@@ -8,6 +8,8 @@ Passive Seismic Experiment (PSE)
 
     "Ośrodek badawczy", "University of Texas"
     "Misje", "Apollo 12, 14, 15, 16"
+    "Nazwa eksperymentu (j. ang.)", "Passive Seismic Experiment"
+    "Nazwa eksperymentu (j. pol.)", "Pasywny eksperyment sejsmiczny"
 
 
 Konstrukcja eksperymentu

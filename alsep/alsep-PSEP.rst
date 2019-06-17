@@ -8,6 +8,8 @@ Passive Seismic Experiment Package (PSEP)
 
     "Ośrodek badawczy", ""
     "Misje", "Apollo 11"
+    "Nazwa eksperymentu (j. ang.)", "Passive Seismic Experiment Package"
+    "Nazwa eksperymentu (j. pol.)", "Zestaw eksperymentalny eksperymentu sejsmicznego"
 
 
 Konstrukcja eksperymentu
