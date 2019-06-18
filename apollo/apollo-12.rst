@@ -53,10 +53,8 @@ W trakcie misji Apollo 12 wykonano następujące eksperymenty :cite:`Lindsay2008
     #. :ref:`Lunar Surface Magnetometer`
     #. :ref:`Passive Seismic Experiment`
     #. :ref:`Suprathermal Ion Detector Experiment`
-    #. :ref:`Solar Wind Composition Experiment`\*
+    #. :ref:`Solar Wind Composition Experiment`
     #. :ref:`Solar Wind Spectrometer`
-
-\* - Eksperyment dodatkowy, niebędący częścią ALSEP
 
 .. figure:: img/apollo12-setup.jpg
     :name: figure-apollo12-setup

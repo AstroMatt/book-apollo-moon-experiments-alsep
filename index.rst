@@ -14,21 +14,6 @@ Wstęp
     /wstep/metody.rst
     /wstep/rys-historyczny.rst
 
-Charakterystyka misji Apollo
-============================
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :caption: Charakterystyka misji Apollo
-    :hidden:
-
-    /apollo/apollo-11.rst
-    /apollo/apollo-12.rst
-    /apollo/apollo-14.rst
-    /apollo/apollo-15.rst
-    /apollo/apollo-16.rst
-    /apollo/apollo-17.rst
-
 Eksperymenty geofizyczne na powierzchni Księżyca
 ================================================
 .. toctree::
@@ -76,6 +61,24 @@ Zakończenie
     /zakonczenie/weryfikacja-celu.rst
     /zakonczenie/wnioski.rst
 
+Załączniki
+==========
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Załączniki
+    :hidden:
+
+    /equipment/tools.rst
+    /equipment/central-station.rst
+    /equipment/rtg.rst
+    /equipment/lunar-roving-vehicle.rst
+    /apollo/apollo-11.rst
+    /apollo/apollo-12.rst
+    /apollo/apollo-14.rst
+    /apollo/apollo-15.rst
+    /apollo/apollo-16.rst
+    /apollo/apollo-17.rst
 
 Bibliografia
 ============

@@ -50,13 +50,11 @@ W trakcie misji Apollo 14 wykonano następujące eksperymenty :cite:`Lindsay2008
     #. :ref:`Charged Particle Lunar Environmental Experiment`
     #. :ref:`Cold Cathode Ion Gauge`
     #. :ref:`Lunar Dust Detector`
-    #. :ref:`Lunar Portable Magnetometer`\*
-    #. :ref:`Laser Ranging Retro-reflector`\*
+    #. :ref:`Lunar Portable Magnetometer`
+    #. :ref:`Laser Ranging Retro-reflector`
     #. :ref:`Passive Seismic Experiment`
     #. :ref:`Suprathermal Ion Detector Experiment`
-    #. :ref:`Solar Wind Composition Experiment`\*
-
-\* - Eksperyment dodatkowy, niebędący częścią ALSEP
+    #. :ref:`Solar Wind Composition Experiment`
 
 .. figure:: img/apollo14-setup.jpg
     :name: figure-apollo14-setup

@@ -1,11 +1,11 @@
-.. _Neutron Probe:
+.. _Neutron Probe Experiment:
 
-******************
-Neutron Probe (NP)
-******************
+******************************
+Neutron Probe Experiment (NPE)
+******************************
 
 
-.. csv-table:: Neutron Probe (NP)
+.. csv-table:: Neutron Probe Experiment (NPE)
     :stub-columns: 1
 
     "Ośrodek badawczy", "California Institute of Technology"

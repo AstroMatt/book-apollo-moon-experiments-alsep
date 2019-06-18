@@ -51,17 +51,15 @@ Lista eksperymentów
 ===================
 W trakcie misji Apollo 17 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Parker1973`:
 
-    #. :ref:`Cosmic Ray Detector`\*
+    #. :ref:`Cosmic Ray Detector`
     #. :ref:`Heat Flow Experiment`
     #. :ref:`Lunar Atmospheric Composition Experiment`
     #. :ref:`Lunar Ejecta and Meteorite Experiment`
     #. :ref:`Lunar Surface Gravimeter Experiment`
     #. :ref:`Lunar Seismic Profiling Experiment`
-    #. :ref:`Neutron Probe`\*
-    #. :ref:`Surface Electrical Properties Experiment`\*
-    #. :ref:`Traverse Gravimeter Experiment`\*
-
-\* - Eksperyment dodatkowy, niebędący częścią ALSEP
+    #. :ref:`Neutron Probe Experiment`
+    #. :ref:`Surface Electrical Properties Experiment`
+    #. :ref:`Traverse Gravimeter Experiment`
 
 .. figure:: img/apollo17-setup.jpg
     :name: figure-apollo17-setup

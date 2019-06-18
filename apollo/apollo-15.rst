@@ -49,13 +49,11 @@ W trakcie misji Apollo 15 wykonano następujące eksperymenty :cite:`Lindsay2008
     #. :ref:`Cold Cathode Ion Gauge`
     #. :ref:`Heat Flow Experiment`
     #. :ref:`Lunar Dust Detector`
-    #. :ref:`Laser Ranging Retro-Reflector`\*
+    #. :ref:`Laser Ranging Retro-Reflector`
     #. :ref:`Lunar Surface Magnetometer`
     #. :ref:`Passive Seismic Experiment`
     #. :ref:`Suprathermal Ion Detector Experiment`
-    #. :ref:`Solar Wind Composition Experiment`\*
-
-\* - Eksperyment dodatkowy, niebędący częścią ALSEP
+    #. :ref:`Solar Wind Composition Experiment`
 
 .. figure:: img/apollo15-setup.jpg
     :name: figure-apollo15-setup

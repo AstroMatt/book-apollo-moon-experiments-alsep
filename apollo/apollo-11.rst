@@ -57,9 +57,7 @@ W trakcie misji Apollo 11 wykonano następujące eksperymenty :cite:`Lindsay2008
     #. :ref:`Lunar Dust Detector`
     #. :ref:`Laser Ranging Retro-Reflector`
     #. :ref:`Passive Seismic Experiment Package`
-    #. :ref:`Solar Wind Composition Experiment`\*
-
-\* - Eksperyment dodatkowy, niebędący częścią EASEP
+    #. :ref:`Solar Wind Composition Experiment`
 
 .. figure:: img/apollo11-setup.jpg
     :name: figure-apollo11-setup

@@ -47,14 +47,12 @@ Lista eksperymentów
 W trakcie misji Apollo 16 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Brett1972`:
 
     #. :ref:`Active Seismic Experiment`
-    #. :ref:`Cosmic Ray Detector`\*
+    #. :ref:`Cosmic Ray Detector`
     #. :ref:`Heat Flow Experiment`
-    #. :ref:`Lunar Portable Magnetometer`\*
+    #. :ref:`Lunar Portable Magnetometer`
     #. :ref:`Lunar Surface Magnetometer`
     #. :ref:`Passive Seismic Experiment`
-    #. :ref:`Solar Wind Composition Experiment`\*
-
-\* - Eksperyment dodatkowy, niebędący częścią ALSEP
+    #. :ref:`Solar Wind Composition Experiment`
 
 .. figure:: img/apollo16-setup.png
     :name: figure-apollo16-setup
