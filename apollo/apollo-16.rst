@@ -26,12 +26,10 @@ Załoga
 
 Miejsce lądowania
 -----------------
-The central station, located 100 meters West South West of the Lunar Module at 8.97537 S latitude, 15.49812 E longitude, was turned on at 1938 UT on April 211972 and shut down along with the other ALSEP stations on September 30 1977 :cite:`Lindsay2008`
-
 .. figure:: img/apollo16-map.png
     :name: figure-apollo16-map
 
-    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 16. Źródło: NASA/USGS/LPI/ASU
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 16. Źródło: NASA/USGS/LPI/ASU,  :cite:`Lindsay2008`
 
 Eksploracja powierzchni Księżyca
 --------------------------------
@@ -109,5 +107,5 @@ Lunar Portable Magnetometer (LPM)
 
 Solar Wind Composition Experiment (SWCE)
 ----------------------------------------
-* Apollo 16: exposed for 45 hours 5 minutes
+
 

@@ -26,12 +26,10 @@ Załoga
 
 Miejsce lądowania
 -----------------
-The central station, located 185 meters West North West of the LM at 20.19209 N latitude, 30.76492 E longitude, was turned on at 0253 UT on December 12 1972 and shut down along with the other ALSEP stations on September 30 1977 :cite:`Lindsay2008`.
-
 .. figure:: img/apollo17-map.png
     :name: figure-apollo17-map
 
-    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: NASA/USGS/LPI/ASU
+    Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: NASA/USGS/LPI/ASU, :cite:`Lindsay2008`.
 
 .. figure:: img/apollo17-map2.jpg
     :name: figure-apollo17-map2

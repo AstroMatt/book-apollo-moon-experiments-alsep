@@ -48,7 +48,7 @@ W trakcie misji Apollo 15 wykonano następujące eksperymenty :cite:`Lindsay2008
     #. Lunar Surface Magnetometer (LSM)
     #. Passive Seismic Experiment (PSE)
     #. Suprathermal Ion Detector Experiment (SIDE)
-    #. Solar Wind Composition (SWCE)*
+    #. Solar Wind Composition Experiment (SWCE)*
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
 
@@ -96,8 +96,8 @@ SIDE/CCIG
 
     Źródło: :cite:`ImageProjectApolloArchive`.
 
-SWS
----
+Solar Wind Spectrometer (SWS)
+-----------------------------
 .. figure:: img/apollo15-SWS.jpg
     :name: figure-apollo15-SWS
 
