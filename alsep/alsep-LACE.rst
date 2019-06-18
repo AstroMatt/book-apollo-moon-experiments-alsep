@@ -22,7 +22,7 @@ Projekt eksperymentu
     Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 The Moon does have an atmosphere, but it is very tenuous. Gases in the lunar atmosphere are easily lost to space. Because of the Moon's low gravity, light atoms such as helium receive enough energy from solar heating so that they escape in just a few hours. Heavier atoms take longer to escape, but are ultimately ionised by the Sun's ultraviolet radiation, after which they are carried away from the Moon by the solar wind. This process takes a few months. Because of the rate at which atoms escape from the lunar atmosphere, there must be a continuous source of particles to maintain even a tenuous atmosphere. Sources for the lunar atmosphere include capture of particles from the solar wind and of material released from the impact of comets and meteorites. For some atoms, particularly helium-4 and argon-40, out-gassing from the Moon's interior may also be a source.
 

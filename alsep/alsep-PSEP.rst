@@ -22,7 +22,7 @@ Projekt eksperymentu
     Apollo 11 Passive Seismic Experiment. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 This instrument contained four seismometers powered by two panels of solar cells, which converted solar energy into electricity. It used three long-period seismometers and one short- period vertical seismometer for measuring meteorite impacts and moonquakes, recording about 100 to 200 hits by meteorites during its lifetime. Data regarding the strength, duration, and approximate direction of the seismic event were relayed to tracking stations on Earth. Because it was only powered by solar cells, the experiment only operated during the lunar days. During the 340 hour lunar night, when temperatures can plummet to minus 170ºC the instrument was kept to a minimum of minus 54ºC by a radioisotope heater, the first major use of nuclear energy in a NASA manned mission. Any temperature below this could damage the instrument.
 

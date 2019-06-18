@@ -27,7 +27,7 @@ Projekt eksperymentu
     Labeled diagram showing the SIDE and CCIG as configured for Apollo 12. Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 Two experiments, the Suprathermal Ion Detector Experiment (SIDE) and the Cold Cathode Ion Gauge (CCIG) were used to measure the number and types of ions (an electrically charged molecule, either positive or negative) on the Moon. These ions are chiefly hydrogen and helium and are largely derived from the solar wind. The SIDE was used to measure the flux, number, density, velocity, and relative energy of the positive ions near the lunar surface.
 

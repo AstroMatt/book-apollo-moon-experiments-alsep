@@ -22,7 +22,7 @@ Projekt eksperymentu
     Źródło: :cite:`Apollo12PressKit`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 A tri-axis fluxgate magnetometer measured the variations of the magnetic field of the Moon with time. Because the magnetic field of the Moon can change in amplitude, frequency, and direction, the magnetometer measures the field in three directions with sensors located on the end of three small booms. The electronics were contained in a box at the base of the three booms. It could measure magnetic flux in nanoTeslas (nT) in three ranges with a resolution of 0.2 nT:
 

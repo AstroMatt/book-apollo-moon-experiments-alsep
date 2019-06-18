@@ -22,7 +22,7 @@ Projekt eksperymentu
     The deployed Apollo 14 CPLEE from above.  Photo AS14-67-9364. Źródło: :cite:`Apollo12PressKit`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 Only used on one mission, this experiment measured the particle energies of solar protons and electrons that reach the lunar surface. It provided data on the energy distribution of these solar particles and their effect on the Earth/Moon system, as well as the relationship of the solar wind to Earth auroras; the Van Allen radiation belt; processes taking place at the shock front of the solar wind striking the lunar surface; characteristics of the earth’s magnetic field; and the effect of charged particles on the lunar environment.
 

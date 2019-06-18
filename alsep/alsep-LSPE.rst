@@ -37,7 +37,7 @@ Projekt eksperymentu
     Figure 10-2 from the Apollo 17 OPreliminary Science Report shows the layout of the LSPE geophones and other elements of the ALSEP. Jack Schmitt picked a location for the Central Station that would satisfy various constraints for the other experiments and then modified the geophone layout to avoid the the 3-meter-tall boulder now known as Geophone Rock. Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 This experiment is similar in principle to the previous ALSEP seismometers, but very different in design. It consists of a seismic data gathering network of 4 geophones, placed in the center and at each corner of a 90-meter equilateral triangle. Explosive charges on the surface generated seismic waves of varying strengths to provide a structural profile of the Apollo 17 site. The triangular arrangement of the geophones allowed measurement of the azimuths and velocities of the seismic waves more accurately than the Active Seismic Experiments on Apollo 14 and 16.
 

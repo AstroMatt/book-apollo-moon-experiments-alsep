@@ -27,7 +27,7 @@ Projekt eksperymentu
     Źródło: :cite:`ImageProjectApolloArchive`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 * Apollo 14: reflector had 100 silica cubes
 * Apollo 15: reflector had 300 silica cubes

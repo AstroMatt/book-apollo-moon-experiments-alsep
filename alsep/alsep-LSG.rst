@@ -32,7 +32,7 @@ Projekt eksperymentu
     Documentation photo of the deployed LSG taken late in EVA-3. The Central Station is in the background at center with the RTG to the left and the LM in the distance beyond the RTG. Before taking this photo, Jack Schmitt planted the tongs, temporarily, next to the LSG on the left. NASA photo AS17-134-20501. Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 Only flown on Apollo 17 ALSEP, the LSG’s major goal was to confirm the existence of gravity waves as predicted by Einstein; to measure the response of the Moon to the Earth’s tidal pull; and to detect free lunar oscillations in periods of 15 minutes or longer. It could also measure vertical components of seismic events with frequencies up to 16 cycles per second, thus supplementing the passive seismic network of Apollo 12, 14, 15 and 16 missions.
 

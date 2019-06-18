@@ -22,7 +22,7 @@ Projekt eksperymentu
     NASA photo S70-56721 shows the Apollo 14 LPM in a lab setting. The electronics box in the foreground included setting switches and three output dials and was attached to the Modular Equipment Transporter (MET or handcart). The sensor head was fitted onto the tripod, which was deployed 15 meters or so away from the MET during readings. A similar instrument was flown on Apollo 16, with the electronics box fitted to the back of the Lunar Roving Vehicle (LRV). NASA photo AS14-68-9393a shows the deployed Apollo 14 instrument. Ed Mitchell took this documentation photo while standing at the MET waiting for a measurement to finish. Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 * carried on the MET
 

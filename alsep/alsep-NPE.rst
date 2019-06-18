@@ -22,7 +22,7 @@ Projekt eksperymentu
     Figure 18-1 from the Apollo 17 Preliminary Science Report. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 The lunar regolith, or the uppermost few meters of the Moon, consists of soil and highly fragmented rocks formed by repeated impacts of meteoroids with the Moon's surface. These impacts eject material from the craters that are formed, and the ejecta are usually deposited nearby. The overall effect of many such impacts is a continual overturn of the regolith, which keeps it well mixed. This can be thought of as a sort of gardening, analogous to the mixing of soil performed by a farmer's plough. The NPE was performed on Apollo 17 to determine the rate at which the lunar regolith is overturned or mixed. It consisted of a 2.4 meter long rod, with several detectors, that was inserted into the hole left from drilling a deep core sample. These detectors measured the number of neutrons penetrating to different depths in the regolith. The Neutron Probe was deployed on the first EVA and retrieved at the end of the third EVA after being exposed to the lunar regolith for 49 hours. It was then returned to Earth for analysis.
 

@@ -27,7 +27,7 @@ Projekt eksperymentu
     This detail from AS17-134-20493 shows one of the two holes drilled for the Apollo 17 HFE. The holes were drilled using hollow drill stems, with a closed bit on the bottom stem to keep the string open. Once a hole was drilled to the desired depth, a multi-sensor probe was inserted and a thermal cap emplaced around the cable that connected the probe to the HFE electronics package. Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 Heat flows from hot regions to cooler regions. The interior of the Moon is warm compared to the surface, therefore heat flows from the interior to the surface where it is lost into space by radiation. This heat is mainly produced by the decay of natural radioactive elements thorium, uranium, and potassium, raising the heat of the interior of the Moon. The Heat Flow experiment was designed to measure the heat loss from the interior of the Moon.
 

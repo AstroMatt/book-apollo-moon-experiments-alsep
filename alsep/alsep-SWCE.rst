@@ -22,7 +22,7 @@ Projekt eksperymentu
     Źródło: :cite:`Apollo12PressKit`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 The Solar Wind Composition Experiment (SWC) was used to determine the elemental and isotopic composition of the noble gasses (helium, neon, and argon) in the solar wind. It was a simple experiment that used a sheet of 0.5 mm thick aluminium foil to trap individual particles of the solar wind to a depth of several hundred atomic layers, but allowed cosmic rays to pass through. The astronauts put the screens out on arrival and brought the foil back to Earth for analysis by Swiss scientists.
 

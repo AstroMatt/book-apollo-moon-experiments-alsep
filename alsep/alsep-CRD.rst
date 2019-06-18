@@ -21,7 +21,7 @@ Projekt eksperymentu
     Detail from AS16-107-17442 shows the Apollo 16 Cosmic Ray Detector sitting in the minus-Y (south) footpad early in EVA-2. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 Cosmic rays are just particles that have extremely large energies and very high velocities. Their velocity is almost, but not quite, the speed of light. They are mostly protons and alpha particles (helium nuclei). But 1 to 2% of the cosmic rays consist of the nuclei of heavier elements. The cosmic rays seem to arrive from all directions and, although their origin is not yet known with certainty, they come from outside our solar system. In addition to cosmic rays, the CRD equipment detected low energy solar wind particles. The range of energy of the particles is very great, but some have very low energy. One purpose of the CRD experiment was to investigate the low-energy particles. Another purpose was to investigate neutrons from the lunar surface.
 

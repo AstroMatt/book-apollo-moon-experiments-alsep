@@ -22,5 +22,5 @@ Projekt eksperymentu
     Źródło: :cite:`Apollo12PressKit`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================

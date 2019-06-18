@@ -22,7 +22,7 @@ Projekt eksperymentu
     Źródło: :cite:`Apollo12PressKit`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 :ref:`Aktywny eksperyment sejsmiczny <Active Seismic Experiment>` pozwalał na uzupełnienie danych zebranych podczas :ref:`pasywnego eksperymentu <Passive Seismic Experiment>`. :term:`ASE` od :term:`PSE` różnił się na dwa sposoby, tj. ze względu na mniejszą skalę i źródło energii.
 

@@ -27,7 +27,7 @@ Projekt eksperymentu
     NASA photo AS17-135-20543 shows the components of the SEP Receiver mounted behind the LMP's Rover seat. The electronics and data recorder are stowed in a bag designed to provide thermal protection. Failure of adhesive on the back of Velcro patches that held the bag cover closed led to overheating, which significantly limited the amount of useful data collected. Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 This experiment consisted of a transmitting antenna deployed near the Lunar Module and a receiving antenna on the Rover. At several different traverse stops, electrical signals were transmitted through the regolith and recorded on the Rover. Comparison of the transmitted and received signals allowed the electrical properties of the regolith to be determined. This information was intended to provide "ground truth" for the analysis of orbital observations by the Bistatic Radar and Lunar Sounder Experiments. In addition, the results of this experiment showed that the upper 2 kilometers of the lunar surface are extremely dry, which is consistent with measurements of lunar rock composition.
 

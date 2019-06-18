@@ -32,7 +32,7 @@ Projekt eksperymentu
     Detail from photo AS15-86-11593 showing the Solar Wind Spectrometer after deployment. Źródło: :cite:`Lindsay2008`.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 The solar wind is composed of matter ejected continuously from the Sun that spreads throughout the Solar System. The energy, density, direction of travel, and its variations were measured by the SWS. Seven sensors were located under dust shields, allowing a study of the solar wind at the lunar surface, the general properties of the solar wind and its interaction with the Moon. The solar wind stretches the Earth’s magnetic field out behind the Earth, beyond the Moon’s orbit, so the SWS also studied the Earth’s magnetic tail when the Moon passed through it.
 

@@ -1,6 +1,6 @@
-*********
-Narzędzia
-*********
+*************************************************
+Narzędzia używane do prac na powierzchni Księżyca
+*************************************************
 
 
 Universal Handling Tool

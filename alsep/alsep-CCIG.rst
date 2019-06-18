@@ -24,7 +24,7 @@ Projekt eksperymentu
 Podczas rozstawiania eksperymentu w trakcie misji Apollo 12, błędne ustawienie kabla łączeniowego sprawiło wiele problemów z pozycjonowaniem :term:`CCIG` i :term:`SIDE`. Zgodnie z pierwotnym założeniem, :term:`SIDE` był wsparty na trzech krótkich nogach. W misji Apollo 14 do urządzenia dodano stabilizator. Z tego względu Astronauta Ed Mitchell miał jeszcze większe trudności z ustawieniem :term:`CCIG`, bez zakłucania eksperymentu :term:`SIDE`. Przed misją Apollo 15 urządzenie poddano znacznej modyfikacji.
 
 
-Opis eksperymentu
+Przedmiot badania
 =================
 W celu pomiaru liczby oraz typu jonów na Księżycu wykonano dwa eksperymenty: :ref:`Suprathermal Ion Detector Experiment` (:term:`SIDE`) i :ref:`Cold Cathode Ion Gauge` (:term:`CCIG`). Badania te były ze sobą ściśle skorelowane i wykorzystywały jedno urządzenie połączone krótkim kablem elektrycznym.
 
