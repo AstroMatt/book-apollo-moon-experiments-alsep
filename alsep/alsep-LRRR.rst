@@ -1,17 +1,17 @@
-.. _Lunar Ranging Retro-Reflector:
+.. _Laser Ranging Retro-reflector:
 
 ************************************
-Lunar Ranging Retro-Reflector (LRRR)
+Laser Ranging Retro-reflector (LRRR)
 ************************************
 
 
-.. csv-table:: Lunar Ranging Retro-Reflector (LRRR)
+.. csv-table:: Laser Ranging Retro-reflector (LRRR)
     :stub-columns: 1
 
     "Ośrodek badawczy", ""
     "Misje", "Apollo 11, 14, 15"
-    "Nazwa eksperymentu (j. ang.)", "Lunar Ranging Retro-Reflector "
-    "Nazwa eksperymentu (j. pol.)", "Księżycowe zwierciadło do pomiaru odległości"
+    "Nazwa eksperymentu (j. ang.)", "Laser Ranging Retro-reflector"
+    "Nazwa eksperymentu (j. pol.)", "Zwierciadło pomiaru dla dalmierza laserowego"
 
 
 Projekt eksperymentu

@@ -8,7 +8,6 @@ Wstęp
     :hidden:
 
     /wstep/wprowadzenie.rst
-    /wstep/definicje.rst
     /wstep/problem-badawczy.rst
     /wstep/przedmiot-i-cel-pracy.rst
     /wstep/hipotezy-badawcze.rst

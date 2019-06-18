@@ -9,14 +9,16 @@ Celem misji Apollo 12 była wizyta miejsca lądowania sondy *Surveyor 3*, która
 
 Apollo 12 było pierwszą misją podczas, której wykonano eksperymenty z pakietu :term:`ALSEP`.
 
+
 Podstawowe informacje dotyczące misji
--------------------------------------
+=====================================
 .. csv-table:: Wybrane informacje dotyczące parametrów misji Apollo 12 :cite:`Garber2019`, :cite:`Johnston1975`, :cite:`Orloff2000`.
     :stub-columns: 1
     :file: data/apollo12-info.csv
 
+
 Załoga
-------
+======
 .. csv-table:: Lista członków załogi głównej i zapasowej dla misji Apollo 12 :cite:`Johnston1975`.
     :file: data/apollo12-crew.csv
     :header-rows: 1
@@ -26,30 +28,33 @@ Załoga
 
     Załoga misji Apollo 12. Od lewej astronauci: Conrad, Gordon, Bean
 
+
 Miejsce lądowania
------------------
+=================
 .. figure:: img/apollo12-map.png
     :name: figure-apollo12-map
 
     Mapa lokacji lądowania i rozstawienia eksperymentów naukowych podczas misji Apollo 12. Źródło: NASA/USGS/LPI/ASU, :cite:`Lindsay2008`, :cite:`Apollo12PressKit`.
 
+
 Eksploracja powierzchni Księżyca
---------------------------------
+================================
 .. csv-table:: Harmonogram spacerów kosmicznych na powierzchni księżyca podczas misji Apollo 12 :cite:`LPI2019`.
     :file: data/apollo12-eva.csv
     :header-rows: 1
 
+
 Lista eksperymentów
--------------------
+===================
 W trakcie misji Apollo 12 wykonano następujące eksperymenty :cite:`Lindsay2008` :cite:`Meyer2009`, :cite:`LPI2019`, :cite:`Apollo12PressKit`, :cite:`Calio1970`:
 
-    #. Cold Cathode Ion Gauge (CCIG)
-    #. Lunar Dust Detector (LDD)
-    #. Lunar Surface Magnetometer (LSM)
-    #. Passive Seismic Experiment (PSE)
-    #. Suprathermal Ion Detector Experiment (SIDE)
-    #. Solar Wind Composition (SWCE)*
-    #. Solar Wind Spectrometer (SWS)
+    #. :ref:`Cold Cathode Ion Gauge`
+    #. :ref:`Lunar Dust Detector`
+    #. :ref:`Lunar Surface Magnetometer`
+    #. :ref:`Passive Seismic Experiment`
+    #. :ref:`Suprathermal Ion Detector Experiment`
+    #. :ref:`Solar Wind Composition Experiment`\*
+    #. :ref:`Solar Wind Spectrometer`
 
 \* - Eksperyment dodatkowy, niebędący częścią ALSEP
 
@@ -59,38 +64,26 @@ W trakcie misji Apollo 12 wykonano następujące eksperymenty :cite:`Lindsay2008
     Źródło: :cite:`ImageProjectApolloArchive`.
 
 
-Eksperymenty wykonane podczas misji
-===================================
-
-Lunar Dust Detector (LDD)
--------------------------
-
-Lunar Surface Magnetometer (LSM)
---------------------------------
+Zdjęcia eksperymentów na powierzchni
+====================================
 .. figure:: img/apollo12-LSM.jpg
     :name: figure-apollo12-LSM
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    :ref:`Lunar Surface Magnetometer`. Źródło: :cite:`ImageProjectApolloArchive`.
 
-Passive Seismic Experiment (PSE)
---------------------------------
 .. figure:: img/apollo12-PSE.jpg
     :name: figure-apollo12-PSE
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    :ref:`Passive Seismic Experiment`. Źródło: :cite:`ImageProjectApolloArchive`.
 
-SIDE/CCIG
----------
 .. figure:: img/apollo12-SIDE_CCIG.jpg
     :name: figure-apollo12-SIDE_CCIG
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    :ref:`Suprathermal Ion Detector Experiment` / :ref:`Cold Cathode Ion Gauge`. Źródło: :cite:`ImageProjectApolloArchive`.
 
-Solar Wind Spectrometer (SWS)
------------------------------
 .. figure:: img/apollo12-SWS.jpg
     :name: figure-apollo12-SWS
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    :ref:`Solar Wind Spectrometer`. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
