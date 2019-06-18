@@ -1,3 +1,19 @@
+:root {
+    --title: #000;
+    --menu-background: #fff;
+    --menu-header: #000;
+    --menu-entry: #000;
+    --menu-entry-hover: #000;
+    --menu-entry-active: #000;
+    --header: #000;
+    --text: #000;
+    --links: #000;
+    --todo: #f00;
+    --warning: #f00;
+    --tip: #000;
+}
+
+
 @media print {
     @page {
         size: A4;
