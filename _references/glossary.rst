@@ -8,6 +8,9 @@ Słownik nazw
     Apollo Lunar Surface Exploration Package
         Zestaw narzędzi i badań naukowych przeprowadzanych podczas misji Apollo na powierzchni Księżyca.
 
+    EASEP
+        Early Apollo Surface Experiments Package
+
     CM
     Command Module
         Jedyna część Saturn V/CSM/LM, która powracała na Ziemię.
@@ -107,6 +110,11 @@ Słownik nazw
     SWS
         Solar Wind Spectrometer
 
-     TGE
+    TGE
         Traverse Gravimeter Experiment
 
+    SEQ
+        Scientific Equipment Bay
+
+    ALSEP Array
+        Konfiguracja zestawu ALSEP

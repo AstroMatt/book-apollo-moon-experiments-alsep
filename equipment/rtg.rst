@@ -1,3 +1,5 @@
+.. _Radioisotope Thermo-electric Generator:
+
 ********************************************
 Radioisotope Thermo-electric Generator (RTG)
 ********************************************

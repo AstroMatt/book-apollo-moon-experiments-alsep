@@ -19,7 +19,7 @@ Projekt eksperymentu
 .. figure:: img/alsep-CCIG-diagram.jpg
     :name: figure-alsep-CCIG-diagram
 
-    Źródło: :cite:`Apollo12PressKit`.
+    Diagram przedstawia eksperyment Cold Cathode Ion Gauge (CCIG). Źródło: :cite:`Apollo12PressKit`.
 
 Podczas rozstawiania eksperymentu w trakcie misji Apollo 12, błędne ustawienie kabla łączeniowego sprawiło wiele problemów z pozycjonowaniem :term:`CCIG` i :term:`SIDE`. Zgodnie z pierwotnym założeniem, :term:`SIDE` był wsparty na trzech krótkich nogach. W misji Apollo 14 do urządzenia dodano stabilizator. Z tego względu Astronauta Ed Mitchell miał jeszcze większe trudności z ustawieniem :term:`CCIG`, bez zakłucania eksperymentu :term:`SIDE`. Przed misją Apollo 15 urządzenie poddano znacznej modyfikacji.
 

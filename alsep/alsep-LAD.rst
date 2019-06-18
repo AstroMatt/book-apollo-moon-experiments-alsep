@@ -19,7 +19,7 @@ Projekt eksperymentu
 .. figure:: img/alsep-LAD-diagram.png
     :name: figure-alsep-LAD-diagram
 
-    Źródło: :cite:`Apollo12PressKit`.
+    Diagram przedstawia eksperyment Lunar Atmospheric Detector (LAD). Źródło: :cite:`Apollo12PressKit`.
 
 
 Przedmiot badania

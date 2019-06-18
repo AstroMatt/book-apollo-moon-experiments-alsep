@@ -19,7 +19,7 @@ Projekt eksperymentu
 .. figure:: img/alsep-LID-diagram.png
     :name: figure-alsep-LID-diagram
 
-    Źródło: :cite:`Apollo12PressKit`.
+    Diagram przedstawia eksperyment Lunar Ionosphere Detector (LID). Źródło: :cite:`Apollo12PressKit`.
 
 
 Przedmiot badania

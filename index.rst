@@ -69,16 +69,17 @@ Załączniki
     :caption: Załączniki
     :hidden:
 
-    /equipment/tools.rst
-    /equipment/central-station.rst
-    /equipment/rtg.rst
-    /equipment/lunar-roving-vehicle.rst
     /apollo/apollo-11.rst
     /apollo/apollo-12.rst
     /apollo/apollo-14.rst
     /apollo/apollo-15.rst
     /apollo/apollo-16.rst
     /apollo/apollo-17.rst
+    /equipment/tools.rst
+    /equipment/central-station.rst
+    /equipment/antenna.rst
+    /equipment/rtg.rst
+    /equipment/lunar-roving-vehicle.rst
 
 Bibliografia
 ============

@@ -1,5 +1,7 @@
+.. _Apollo 15:
+
 ***************
-Misji Apollo 15
+Misja Apollo 15
 ***************
 
 
@@ -58,7 +60,7 @@ W trakcie misji Apollo 15 wykonano następujące eksperymenty :cite:`Lindsay2008
 .. figure:: img/apollo15-setup.jpg
     :name: figure-apollo15-setup
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    Mapa schematyczna rozstawienia eksperymentów naukowych podczas misji Apollo 15. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
 Przygotowanie do misji

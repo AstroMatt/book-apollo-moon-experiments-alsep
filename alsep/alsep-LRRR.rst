@@ -19,21 +19,23 @@ Projekt eksperymentu
 .. figure:: img/alsep-LRRR-closed.gif
     :name: figure-alsep-LRRR-diagram1
 
-    Źródło: :cite:`Apollo12PressKit`.
+    Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji zamkniętej. Źródło: :cite:`Apollo12PressKit`.
 
 .. figure:: img/alsep-LRRR-open.gif
     :name: figure-alsep-LRRR-diagram2
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji otwartej. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
 Przedmiot badania
 =================
-* Apollo 14: reflector had 100 silica cubes
-* Apollo 15: reflector had 300 silica cubes
+.. todo::
+    * Apollo 14: reflector had 100 silica cubes
+    * Apollo 15: reflector had 300 silica cubes
 
-This passive experiment consisted of an array of 100 fused silica cubes on Apollo 11, arranged to reflect a beam of light back on a parallel path to its origin. The LRRR placed on the Moon was aligned precisely so that it faced the Earth. Scientists from around the world directed laser beams at the instrument which reflected them back to Earth; the elapsed time for the round trip allowed precise measurements of distances, down to an accuracy of 8 centimeters, between the Earth and the Moon. This instrument continued operating until June 1981.
+.. todo::
+    This passive experiment consisted of an array of 100 fused silica cubes on Apollo 11, arranged to reflect a beam of light back on a parallel path to its origin. The LRRR placed on the Moon was aligned precisely so that it faced the Earth. Scientists from around the world directed laser beams at the instrument which reflected them back to Earth; the elapsed time for the round trip allowed precise measurements of distances, down to an accuracy of 8 centimeters, between the Earth and the Moon. This instrument continued operating until June 1981.
 
-Apart from accurately determining the Moon's distance from the Earth, results have shown there is considerable warping of the lunar surface as it journeys around the Earth.
+    Apart from accurately determining the Moon's distance from the Earth, results have shown there is considerable warping of the lunar surface as it journeys around the Earth.
 
-These reflectors were also deployed on the Apollo 14 and 15 missions.  The Apollo 15 reflector had 300 silica cubes.
+    These reflectors were also deployed on the Apollo 14 and 15 missions.  The Apollo 15 reflector had 300 silica cubes.

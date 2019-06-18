@@ -1,5 +1,7 @@
+.. _Apollo 14:
+
 ***************
-Misji Apollo 14
+Misja Apollo 14
 ***************
 
 
@@ -59,7 +61,7 @@ W trakcie misji Apollo 14 wykonano następujące eksperymenty :cite:`Lindsay2008
 .. figure:: img/apollo14-setup.jpg
     :name: figure-apollo14-setup
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    Mapa schematyczna rozstawienia eksperymentów naukowych podczas misji Apollo 14. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
 Przygotowanie do misji

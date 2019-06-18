@@ -1,5 +1,7 @@
+.. _Apollo 17:
+
 ***************
-Misji Apollo 17
+Misja Apollo 17
 ***************
 
 
@@ -64,7 +66,7 @@ W trakcie misji Apollo 17 wykonano następujące eksperymenty :cite:`Lindsay2008
 .. figure:: img/apollo17-setup.jpg
     :name: figure-apollo17-setup
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    Mapa schematyczna rozstawienia eksperymentów naukowych podczas misji Apollo 17. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
 Przygotowanie do misji

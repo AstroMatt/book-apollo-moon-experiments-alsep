@@ -19,7 +19,7 @@ Projekt eksperymentu
 .. figure:: img/alsep-ASE-diagram.png
     :name: figure-alsep-ASE-diagram
 
-    Źródło: :cite:`Apollo12PressKit`.
+    Diagram przedstawia eksperyment Active Seismic Experiment (ASE). Źródło: :cite:`Apollo12PressKit`.
 
 
 Przedmiot badania

@@ -1,5 +1,7 @@
+.. _Apollo 12:
+
 ***************
-Misji Apollo 12
+Misja Apollo 12
 ***************
 
 
@@ -59,7 +61,7 @@ W trakcie misji Apollo 12 wykonano następujące eksperymenty :cite:`Lindsay2008
 .. figure:: img/apollo12-setup.jpg
     :name: figure-apollo12-setup
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    Mapa schematyczna rozstawienia eksperymentów naukowych podczas misji Apollo 12. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
 Zdjęcia eksperymentów na powierzchni

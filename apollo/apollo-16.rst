@@ -1,5 +1,7 @@
+.. _Apollo 16:
+
 ***************
-Misji Apollo 16
+Misja Apollo 16
 ***************
 
 
@@ -57,7 +59,7 @@ W trakcie misji Apollo 16 wykonano następujące eksperymenty :cite:`Lindsay2008
 .. figure:: img/apollo16-setup.png
     :name: figure-apollo16-setup
 
-    Źródło: :cite:`ImageProjectApolloArchive`.
+    Mapa schematyczna rozstawienia eksperymentów naukowych podczas misji Apollo 16. Źródło: :cite:`ImageProjectApolloArchive`.
 
 
 Przygotowanie do misji
