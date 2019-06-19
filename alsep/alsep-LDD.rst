@@ -14,14 +14,6 @@ Lunar Dust Detector (LDD)
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz pyłu księżycowego"
 
 
-Materiały i metody
-====================
-.. figure:: img/alsep-LDD-diagram.png
-    :name: figure-alsep-LDD-diagram
-
-    Diagram przedstawia eksperyment Lunar Dust Detector (LDD). Źródło: :cite:`Apollo12PressKit`.
-
-
 Przedmiot badania
 =================
 Eksperyment został zaprojektowany w celu
@@ -34,3 +26,17 @@ Eksperyment został zaprojektowany w celu
     The function of the experiment was to separate and measure high-energy radiation damage to the solar cells, to measure reduced solar cell output due to dust accumulation, and to measure reflected infrared energy and temperatures for use in computing lunar surface temperatures. The Dust Detector had two components -- a sensor package mounted to the top of the Central Station sun shield, and a printed circuit board located within the Central Station that interfaced with the power distribution unit of the ALSEP data subsystem.
 
 
+Materiały i metody
+==================
+.. figure:: img/alsep-LDD-diagram.png
+    :name: figure-alsep-LDD-diagram
+
+    Diagram przedstawia eksperyment Lunar Dust Detector (LDD). Źródło: :cite:`Apollo12PressKit`.
+
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

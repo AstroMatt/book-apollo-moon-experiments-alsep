@@ -28,7 +28,7 @@ Wyniki eksperymentu posłużyły do określenia poziomu radioaktywności jako ź
 
 
 Materiały i metody
-====================
+==================
 .. figure:: img/alsep-HFE-color.jpg
     :name: figure-alsep-HFE-color
 

@@ -13,15 +13,6 @@ Passive Seismic Experiment (PSE)
     "Nazwa eksperymentu (j. ang.)", "Passive Seismic Experiment"
     "Nazwa eksperymentu (j. pol.)", "Pasywny eksperyment sejsmiczny"
 
-
-Materiały i metody
-====================
-.. figure:: img/alsep-PSE-diagram.png
-    :name: figure-alsep-PSE-diagram
-
-    Diagram przedstawia eksperyment Passive Seismic Experiment (PSE). Źródło: :cite:`ImageProjectApolloArchive`.
-
-
 Przedmiot badania
 =================
 .. todo::
@@ -59,3 +50,18 @@ Przedmiot badania
 
     Dr Ross Taylor, a lunar scientist who had been on the team to examine the Apollo 11 samples in Houston, explains why the Moon rang for so long, "This was one of those extraordinary things. When you had the impact of these things on the Moon, unlike a terrestrial earthquake, which dies away quickly, the shock waves continued to reverberate around the Moon for a period of an hour or more, and this is attributed to the extremely dry nature of the lunar rock. As far as we know there is no moisture on the Moon, nothing to damp out these vibrations. The Moon’s surface is covered with rubble and this just transmits these waves without them being damped out in any way as they are on Earth. Basically, it’s a consequence of the Moon being extremely dry."
 
+
+Materiały i metody
+==================
+.. figure:: img/alsep-PSE-diagram.png
+    :name: figure-alsep-PSE-diagram
+
+    Diagram przedstawia eksperyment Passive Seismic Experiment (PSE). Źródło: :cite:`ImageProjectApolloArchive`.
+
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

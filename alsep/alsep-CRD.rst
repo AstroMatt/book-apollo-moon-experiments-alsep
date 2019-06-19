@@ -19,7 +19,7 @@ W kosmosie w bezpośrednim otoczeniu Ziemi zaobserwować można trzy główne ro
 
 
 Materiały i metody
-====================
+==================
 .. figure:: img/alsep-CRD-photo.jpg
     :name: figure-alsep-CRD-photo
 

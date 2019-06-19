@@ -14,14 +14,6 @@ Solar Wind Composition Experiment (SWCE)
     "Nazwa eksperymentu (j. pol.)", "Badanie składu wiatru słonecznego"
 
 
-Materiały i metody
-====================
-.. figure:: img/alsep-SWCE-diagram.png
-    :name: figure-alsep-SWCE-diagram
-
-    Diagram przedstawia eksperyment Solar Wind Composition Experiment (SWCE). Źródło: :cite:`Apollo12PressKit`.
-
-
 Przedmiot badania
 =================
 .. todo::
@@ -35,3 +27,18 @@ Przedmiot badania
     * Apollo 15: exposed for 41 hours 8 minutes
     * Apollo 16: exposed for 45 hours 5 minutes
 
+
+Materiały i metody
+==================
+.. figure:: img/alsep-SWCE-diagram.png
+    :name: figure-alsep-SWCE-diagram
+
+    Diagram przedstawia eksperyment Solar Wind Composition Experiment (SWCE). Źródło: :cite:`Apollo12PressKit`.
+
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

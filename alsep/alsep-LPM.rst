@@ -14,16 +14,6 @@ Lunar Portable Magnetometer (LPM)
     "Nazwa eksperymentu (j. pol.)", "Przenośny księżycowy magnetometr"
 
 
-Materiały i metody
-====================
-.. figure:: img/alsep-LPM-photo.jpg
-    :name: figure-alsep-LPM-photo
-
-    Zdjęcie przedstawia eksperyment Lunar Portable Magnetometer (LPM). Źródło: NASA/S70-56721 :cite:`Lindsay2008`.
-
-    .. todo:: NASA photo  the Apollo 14 LPM in a lab setting. The electronics box in the foreground included setting switches and three output dials and was attached to the Modular Equipment Transporter (MET or handcart). The sensor head was fitted onto the tripod, which was deployed 15 meters or so away from the MET during readings. A similar instrument was flown on Apollo 16, with the electronics box fitted to the back of the Lunar Roving Vehicle (LRV). NASA photo AS14-68-9393a shows the deployed Apollo 14 instrument. Ed Mitchell took this documentation photo while standing at the MET waiting for a measurement to finish.
-
-
 Przedmiot badania
 =================
 .. todo::
@@ -39,3 +29,20 @@ Przedmiot badania
 
     The tripod had to be erected a good distance from the Rover because of the inherent magnetism of the vehicle and the astronaut. So for the actual measurement, the sensors were set away from both the astronaut and the Rover.
 
+
+Materiały i metody
+==================
+.. figure:: img/alsep-LPM-photo.jpg
+    :name: figure-alsep-LPM-photo
+
+    Zdjęcie przedstawia eksperyment Lunar Portable Magnetometer (LPM). Źródło: NASA/S70-56721 :cite:`Lindsay2008`.
+
+    .. todo:: NASA photo  the Apollo 14 LPM in a lab setting. The electronics box in the foreground included setting switches and three output dials and was attached to the Modular Equipment Transporter (MET or handcart). The sensor head was fitted onto the tripod, which was deployed 15 meters or so away from the MET during readings. A similar instrument was flown on Apollo 16, with the electronics box fitted to the back of the Lunar Roving Vehicle (LRV). NASA photo AS14-68-9393a shows the deployed Apollo 14 instrument. Ed Mitchell took this documentation photo while standing at the MET waiting for a measurement to finish.
+
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

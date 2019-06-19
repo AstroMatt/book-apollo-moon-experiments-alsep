@@ -14,19 +14,6 @@ Laser Ranging Retro-reflector (LRRR)
     "Nazwa eksperymentu (j. pol.)", "Zwierciadło pomiaru dla dalmierza laserowego"
 
 
-Materiały i metody
-====================
-.. figure:: img/alsep-LRRR-closed.gif
-    :name: figure-alsep-LRRR-diagram1
-
-    Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji zamkniętej. Źródło: :cite:`Apollo12PressKit`.
-
-.. figure:: img/alsep-LRRR-open.gif
-    :name: figure-alsep-LRRR-diagram2
-
-    Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji otwartej. Źródło: :cite:`ImageProjectApolloArchive`.
-
-
 Przedmiot badania
 =================
 .. todo::
@@ -39,3 +26,25 @@ Przedmiot badania
     Apart from accurately determining the Moon's distance from the Earth, results have shown there is considerable warping of the lunar surface as it journeys around the Earth.
 
     These reflectors were also deployed on the Apollo 14 and 15 missions.  The Apollo 15 reflector had 300 silica cubes.
+
+
+Materiały i metody
+==================
+.. figure:: img/alsep-LRRR-closed.gif
+    :name: figure-alsep-LRRR-diagram1
+
+    Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji zamkniętej. Źródło: :cite:`Apollo12PressKit`.
+
+.. figure:: img/alsep-LRRR-open.gif
+    :name: figure-alsep-LRRR-diagram2
+
+    Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji otwartej. Źródło: :cite:`ImageProjectApolloArchive`.
+
+
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

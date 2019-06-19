@@ -14,13 +14,22 @@ Lunar Atmospheric Detector (LAD)
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz atmosfery Księżyca"
 
 
+Przedmiot badania
+=================
+
+
 Materiały i metody
-====================
+==================
 .. figure:: img/alsep-LAD-diagram.png
     :name: figure-alsep-LAD-diagram
 
     Diagram przedstawia eksperyment Lunar Atmospheric Detector (LAD). Źródło: :cite:`Apollo12PressKit`.
 
 
-Przedmiot badania
-=================
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

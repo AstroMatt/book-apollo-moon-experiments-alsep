@@ -14,14 +14,6 @@ Lunar Surface Magnetometer (LSM)
     "Nazwa eksperymentu (j. pol.)", "Magnetometryczny pomiar powierzchni Księżyca"
 
 
-Materiały i metody
-====================
-.. figure:: img/alsep-LSM-diagram.png
-    :name: figure-alsep-LSM-diagram
-
-    Diagram przedstawia eksperyment Lunar Surface Magnetometer (LSM). Źródło: :cite:`Apollo12PressKit`.
-
-
 Przedmiot badania
 =================
 .. todo::
@@ -44,3 +36,19 @@ Przedmiot badania
     Scientists think that the magnetism of the Moon's surface is left over from a time when the Moon's magnetic field was actively created by a dynamo within the lunar core, and that this remnant magnetism may gradually erode away. Theories also suggest that the Moon's magnetism may come from collisions with other celestial bodies such as asteroids and comets, which might have imparted to the Moon some magnetic properties.
 
     The LSM measured a steady 38 nanoteslas (nT) at the Apollo 12 site, and 6 nT at the Apollo 15 site.
+
+
+Materiały i metody
+==================
+.. figure:: img/alsep-LSM-diagram.png
+    :name: figure-alsep-LSM-diagram
+
+    Diagram przedstawia eksperyment Lunar Surface Magnetometer (LSM). Źródło: :cite:`Apollo12PressKit`.
+
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

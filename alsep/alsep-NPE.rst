@@ -14,14 +14,6 @@ Neutron Probe Experiment (NPE)
     "Nazwa eksperymentu (j. pol.)", "Sonda neutronowa"
 
 
-Materiały i metody
-====================
-.. figure:: img/alsep-NPE-diagram.jpg
-    :name: figure-alsep-NPE-diagram
-
-    Diagram przedstawia eksperyment Neutron Probe Experiment (NPE). Źródło: Fig. 18-1 :cite:`Parker1973`.
-
-
 Przedmiot badania
 =================
 .. todo::
@@ -32,3 +24,20 @@ Przedmiot badania
     The degree of mixing in the regolith depends on the size of an impacting body, with larger impacts mixing material to greater depths. Small impacts are much more common than larger impacts, and so mixing to small depths occurs more often than mixing to large depths. Current estimates are that mixing to a depth of 1 centimeter occurs on average every million years, while mixing to a depth of 1 meter occurs only about once every billion years. These estimates are based on measurements of radioactive element abundances in lunar core tubes as well as on a variety of other chemical measurements of these cores.
 
     This lunar neutron probe was designed to measure the rates of low-energy neutron capture as a function of depth in the lunar regolith. The experiment made use of two particle track detection systems. A cellulose triacetate plastic detector was used in conjunction with Boron 10 targets to record the alpha particles emitted with the neutron capture on Boron 10. The second system used mica detectors to detect the fission fragments from neutron-induced fission in uranium 235 targets. The neutron probe had the form of a rod which yielded an essentially continuous record of the neutron capture rate from the lunar surface down to a depth of over 2 meters. The probe was activated and deactivated by a rotational motion which brought the target and detector system in and out of alignment. An on-off mechanism was necessary to prevent accumulation of background events produced in flight by neutrons from the ALSEP power generator and from cosmic ray neutrons produced in the spacecraft. Point sources of uranium 238 were included at three positions along the probe to provide fiducial marks to verify that the probe was properly activated. In addition, cadmium absorbers were included in the center and bottom of the probe to obtain a neutron energy spectrum with a threshold of 0.35 eV. Further spectral information was obtained from analyses of krypton 80 and krypton 82 produced by bromide neutron capture in potassium bromide contained in evacuated capsules which were inserted at the top, middle, and bottom of the probe. The experiment performed normally from activation on  December 12 1972 to termination at the end of the third EVA on December 13 1972.
+
+
+Materiały i metody
+==================
+.. figure:: img/alsep-NPE-diagram.jpg
+    :name: figure-alsep-NPE-diagram
+
+    Diagram przedstawia eksperyment Neutron Probe Experiment (NPE). Źródło: Fig. 18-1 :cite:`Parker1973`.
+
+
+
+Przebieg eksperymentu
+=====================
+
+
+Rezultaty
+=========

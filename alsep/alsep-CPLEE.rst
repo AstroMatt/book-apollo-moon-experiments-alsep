@@ -20,7 +20,7 @@ Eksperyment :ref:`Charged Particle Lunar Environmental Experiment` polegał na p
 
 
 Materiały i metody
-====================
+==================
 .. figure:: img/alsep-CPLEE-photo.jpg
     :name: figure-alsep-CPLEE-photo
 
