@@ -37,6 +37,44 @@ Przedmiot badania
 
     The LSM measured a steady 38 nanoteslas (nT) at the Apollo 12 site, and 6 nT at the Apollo 15 site.
 
+.. todo::
+    The scientific objective of the magnetometer experiment is to measure the magnetic field at .the lunar surface.
+    Charged particles and the magnetic field of the solar wind
+    impact directly oa the lunar surface. Some of the solar wind particles are absorbed by the surface layer of the Moon. Others may be deflected around the Moon. The electrical properties of
+    the material making up the Moon determine what happens to the magnetic field when it hits the Moon. If the Moon is a perfect insulator the magnetic field will pass through the Moon undisturbed. If there is material present which acts as a conductor, electric currents will flow in the Moon.
+    Two possible models are shown in the next drawing. The electric current carried by the solar wind goes through the
+    Moon and "closes" in the space surrounding the Moon, (figure a). This current (E) generates a magnetic field (M) as shown. The magnetic field carried in the solar wind will set up a system of electric currents in the Moon or along the surface. These currents will generate another magnetic field which tries to counteract the solar wind field, (figure b). This results in
+    a change in the total magnetib field measured at the lunar surface.
+
+    The magnitude of this difference can be determined by independently measuring the magnetic field in the undisturbed solar wind nearby, yet away from the Moon's surface. It is planned to obtain this data from Explorer 35, the unmanned spacecraft now in lunar orbit. The value of the magnetic field change at the Moon's surface can then be used to deduce information on the electrical properties of the Moon. This, in turn, can be used to better understand the internal temperature of the Moon and contribute to better understanding of the origin and history of the Moon.
+
+    The design of the tri-axis flux-gate magnetometer and analysis of experiment data are the responsibility of Dr. Charles P. Sonett - NASA/Ames Research Center; Dr.' Jerry Modisette - NASA/Manned Spacecraft Center; and Dr. Palmer Dyal - NASA/Ames Research Center,
+
+    The magnetometer consists of three magnetic sensors aligned in three orthogonal sensing axes, each located at the end of a fiberglass support arm extending from a central structure. This structure houses both the experiment electronics and the electro-mechanical gimbal/flip unit which allows the sensor to be pointed in any direction for site survey and calibration modes. The astronaut aligns the magnetometer experiment to within +3° East-West using a shadwograph on the central structure, and to within +3° of the vertical using a bubble level mounted on the Y sensor boom arm.
+
+    Size, weight and power are as follows:
+        Size (inches) deployed      40 high with 60 between sensor heads
+        Weight (pounds)             17.5
+        Peak Power Requirements (watts):
+
+            Site Survey Mode 11.5
+            Scientific Mode 6.2 12.3 (night)
+            Calibration Mode 10.8
+
+    The magnetometer experiment operates in three modes:
+
+        Site Survey Mode - An initial site survey is performed in each of the three sensing modes for the purpose of locating and identifying any magnetic influences permanently inherent in the deployment site so that they will not affect the interpretation of the ME sensing of magnetic flux at the lunar surface. Although no measurable lunar magnetic field has been detected to date, the possibility of localized magnetism remains; thus this precaution must be taken.
+
+        Scientific Mode - This is the normal operating mode wherein the strength and direction of the lunar magnetic field are measured continuously. The three magnetic sensors provide signal outputs proportional to the incidence of magnetic field components parallel to their respective axes. Each sensor will record the intensity three times per second which is faster than the magnetic field is expected to change. All sensors have the capability to sense over any one of three dynamic ranges with a resolution of 0.2 gamma (*):
+
+        -100 to +100 gamma
+        -200 to +200 gamma
+        -400 to +400 gamma
+
+        (*) Gamma is a unit of intensity of a magnetic field. The Earth at the equator, for example, is 35,000 gamma. The interplanetary magnetic field from the Sun has been recorded at 5 to 10 gamma.
+
+        Calibration Mode - This is performed automatically at 12- hour intervals to determine the absolute accuracy of the magnetometer sensors and to correct any drift from their laboratory calibration.
+
 
 Materiały i metody
 ==================

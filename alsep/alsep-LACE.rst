@@ -31,7 +31,7 @@ Materiały i metody
 
 Przebieg eksperymentu
 =====================
-Eksperyment :ref:`Lunar Atmospheric Composition Experiment` został wykonany przez załogę misji :ref:`Apollo 17`. Zawierał spektrometr masowy, który pozwolił na określenie składu atmosfery księżycowej. Podczas wcześniejszych misji wykazano obecność takiej warstwy za pomocą eksperymentu :ref:`Cold Cathode Gauge`.
+Eksperyment :ref:`Lunar Atmospheric Composition Experiment` został wykonany przez załogę misji :ref:`Apollo 17`. Zawierał spektrometr masowy, który pozwolił na określenie składu atmosfery księżycowej. Podczas wcześniejszych misji wykazano obecność takiej warstwy za pomocą eksperymentu :ref:`Cold Cathode Ion Gauge`.
 
 
 Rezultaty
