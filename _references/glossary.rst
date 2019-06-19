@@ -118,3 +118,15 @@ Słownik nazw
 
     ALSEP Array
         Konfiguracja zestawu ALSEP
+
+    SPE
+        Solar Particle Event
+
+    UHECR
+        Ultra-High-Energy Cosmic Rays
+
+    GCR
+        Galactic Cosmic Rays
+
+    LM
+        Lunar Module
