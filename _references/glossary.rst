@@ -130,3 +130,6 @@ Słownik nazw
 
     LM
         Lunar Module
+
+    Pas Van Allena
+        obszar intensywnego promieniowania korpuskularnego, otaczającego Ziemię. Składa się z naładowanych cząstek o wielkiej energii, schwytanych w pułapkę przez ziemskie pole magnetyczne, w którym poruszają się one po trajektoriach zbliżonych do helis, których osie są równoległe do linii pola magnetycznego, łączących obydwa ziemskie bieguny magnetyczne.
