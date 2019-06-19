@@ -18,7 +18,7 @@ Przedmiot badania
 =================
 Przebieg ciepła określa II zasada termodynamiki. Ciepło przebiega z obszarów o większej temperaturze do obszarów o mniejszej temperaturze w celu osiągnięcia równowagi termodynamicznej.
 
-Wnętrze Księżyca jest znacznie cieplejsze niż jego powierzchnia. Z tego powodu znaczna ilość ciepła z wnętrza jest wypromieniowywana w kosmos. Źródłem ciepła jest głównie rozpad radioizotopów pochodzenia naturalnego takich jak tor, uran czy potas. Proces ten jest odpowiedzialny za zwiększanie temperatury we wnętrzu Księżyca.
+Wnętrze Księżyca jest znacznie cieplejsze niż jego powierzchnia. Z tego powodu znaczna ilość ciepła z wnętrza jest wypromieniowywana w kosmos. Źródłem ciepła jest głównie rozpad radionukleotydów pochodzenia naturalnego takich jak tor, uran czy potas. Proces ten jest odpowiedzialny za zwiększanie temperatury we wnętrzu Księżyca.
 
 Prędkość utraty ciepła w postaci wypromieniowywania w kosmos jest znaczącym czynnikiem wpływającym na tektonikę (tworzenie się uskoków i fałdowań powierzchni na skutek deformacji wewnętrznej) oraz na aktywność wulkaniczną.
 
