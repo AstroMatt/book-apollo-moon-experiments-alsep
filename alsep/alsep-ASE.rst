@@ -18,7 +18,7 @@ Przedmiot badania
 =================
 :ref:`Aktywny eksperyment sejsmiczny <Active Seismic Experiment>` pozwalał na uzupełnienie danych zebranych podczas :ref:`pasywnego eksperymentu <Passive Seismic Experiment>`. :term:`ASE` od :term:`PSE` różnił się na dwa sposoby, tj. ze względu na mniejszą skalę i źródło energii.
 
-Dwa :ref:`aktywne eksperymenty sejsmiczne <Active Seismic Experiment>` zostały wykonane podczas misji :term:`Apollo 14` i :term:`16 <Apollo 16>`. W trakcie misji :term:`Apollo 17` wykonano :ref:`eksperyment profilowania sejsmicznego <Lunar Seismic Profiling Experiment>` w celu określenia struktury górnej warstwy powierzchni Księżyca do głębokości 1000 m.
+Dwa :ref:`aktywne eksperymenty sejsmiczne <Active Seismic Experiment>` zostały wykonane podczas misji :ref:`Apollo 14` i :ref:`16 <Apollo 16>`. W trakcie misji :ref:`Apollo 17` wykonano :ref:`eksperyment profilowania sejsmicznego <Lunar Seismic Profiling Experiment>` w celu określenia struktury górnej warstwy powierzchni Księżyca do głębokości 1000 m.
 
 
 Materiały i metody

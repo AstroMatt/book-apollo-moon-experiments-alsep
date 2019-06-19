@@ -31,7 +31,7 @@ Za pomocą zestawu wykorzystującego dwa spectrometry zorientowane dla minimalne
 
 Przebieg eksperymentu
 =====================
-Eksperyment wykonano raz podczas całego programu Apollo w trakcie misji :ref:`Apollo 14`. Eksperyment :term:`CPLEE` był rozstawiony 3 metry na północny wschód od :ref:`Centralnej Stacji <Centralna Stacja>` :ref:`Apollo 14`. Cząsteczki o określonym ładunku i różnych energiach wpadające do spektrometru były poddane oddziaływaniu prądu o różnym napięciu, który powodował ugięcie ich toru i kierował je do pięciu powielaczy elektronowych, a cząsteczki o przeciwnym ładunku były odbijane i kierowane do spiralnej dynody o kształcie lejka. Z tego względu istniała możliwość wykonania równoległych pomiarów właściwości fizycznych protonów i elektronów na pięciu różnych poziomach energii.
+Eksperyment wykonano raz podczas całego programu Apollo w trakcie misji :ref:`Apollo 14`. Eksperyment :term:`CPLEE` był rozstawiony 3 metry na północny wschód od :ref:`Centralnej Stacji <Central Station>` :ref:`Apollo 14`. Cząsteczki o określonym ładunku i różnych energiach wpadające do spektrometru były poddane oddziaływaniu prądu o różnym napięciu, który powodował ugięcie ich toru i kierował je do pięciu powielaczy elektronowych, a cząsteczki o przeciwnym ładunku były odbijane i kierowane do spiralnej dynody o kształcie lejka. Z tego względu istniała możliwość wykonania równoległych pomiarów właściwości fizycznych protonów i elektronów na pięciu różnych poziomach energii.
 
 
 Rezultaty

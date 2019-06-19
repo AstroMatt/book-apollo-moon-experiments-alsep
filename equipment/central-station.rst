@@ -1,6 +1,8 @@
-***************
-Central Station
-***************
+.. _Central Station:
+
+****************
+Stacja Centralna
+****************
 
 .. figure:: img/equipment-central-station-diagram.jpg
     :name: figure-equipment-central-station-diagram

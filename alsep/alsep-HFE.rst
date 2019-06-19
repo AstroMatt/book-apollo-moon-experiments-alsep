@@ -22,7 +22,7 @@ Wnętrze Księżyca jest znacznie cieplejsze niż jego powierzchnia. Z tego powo
 
 Prędkość utraty ciepła w postaci wypromieniowywania w kosmos jest znaczącym czynnikiem wpływającym na tektonikę (tworzenie się uskoków i fałdowań powierzchni na skutek deformacji wewnętrznej) oraz na aktywność wulkaniczną.
 
-Eksperyment :ref:`Heat Flow Experiment (HFE)` wykonany w trakcie :ref:`Apollo 15` i :ref:`Apollo 17` miał na celu pomiar utraty ciepła przez Księżyc na skutek promenowania. Eksperyment próbowano wykonać również podczas misji :ref:`Apollo 16`, lecz ze względu na przerwany kabel łączący urządzenie nie funkcjonowało.
+Eksperyment :ref:`Heat Flow Experiment` wykonany w trakcie :ref:`Apollo 15` i :ref:`Apollo 17` miał na celu pomiar utraty ciepła przez Księżyc na skutek promenowania. Eksperyment próbowano wykonać również podczas misji :ref:`Apollo 16`, lecz ze względu na przerwany kabel łączący urządzenie nie funkcjonowało.
 
 Wyniki eksperymentu posłużyły do określenia poziomu radioaktywności jako źródła długotrwałego generowania temperatury we wnętrzu oraz określenia parametrów dla modelu termicznej historii Księżyca.
 
