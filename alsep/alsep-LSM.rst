@@ -17,7 +17,7 @@ Lunar Surface Magnetometer (LSM)
 Przedmiot badania
 =================
 .. todo::
-    A tri-axis fluxgate magnetometer measured the variations of the magnetic field of the Moon with time. Because the magnetic field of the Moon can change in amplitude, frequency, and direction, the magnetometer measures the field in three directions with sensors located on the end of three small booms. The electronics were contained in a box at the base of the three booms. It could measure magnetic flux in nanoTeslas (nT) in three ranges with a resolution of 0.2 nT:
+    A tri-axis fluxgate magnetometer measured the variations of the magnetic field of the Moon with time. Because the magnetic field of the Moon can change in amplitude, frequency, and direction, the magnetometer measures the field in three directions with sensors located on the end of three small booms. The electronics were contained in a box at the base of the three booms. It could measure magnetic flux in nanoteslas (nT) in three ranges with a resolution of 0.2 nT:
 
     -100 to +100 nT
     -200 to +200 nT
@@ -38,13 +38,10 @@ Przedmiot badania
     The LSM measured a steady 38 nanoteslas (nT) at the Apollo 12 site, and 6 nT at the Apollo 15 site.
 
 .. todo::
-    The scientific objective of the magnetometer experiment is to measure the magnetic field at .the lunar surface.
-    Charged particles and the magnetic field of the solar wind
-    impact directly oa the lunar surface. Some of the solar wind particles are absorbed by the surface layer of the Moon. Others may be deflected around the Moon. The electrical properties of
-    the material making up the Moon determine what happens to the magnetic field when it hits the Moon. If the Moon is a perfect insulator the magnetic field will pass through the Moon undisturbed. If there is material present which acts as a conductor, electric currents will flow in the Moon.
+    The scientific objective of the magnetometer experiment is to measure the magnetic field at .the lunar surface. Charged particles and the magnetic field of the solar wind impact directly oa the lunar surface. Some of the solar wind particles are absorbed by the surface layer of the Moon. Others may be deflected around the Moon. The electrical properties of the material making up the Moon determine what happens to the magnetic field when it hits the Moon. If the Moon is a perfect insulator the magnetic field will pass through the Moon undisturbed. If there is material present which acts as a conductor, electric currents will flow in the Moon.
+
     Two possible models are shown in the next drawing. The electric current carried by the solar wind goes through the
-    Moon and "closes" in the space surrounding the Moon, (figure a). This current (E) generates a magnetic field (M) as shown. The magnetic field carried in the solar wind will set up a system of electric currents in the Moon or along the surface. These currents will generate another magnetic field which tries to counteract the solar wind field, (figure b). This results in
-    a change in the total magnetib field measured at the lunar surface.
+    Moon and "closes" in the space surrounding the Moon, (figure a). This current (E) generates a magnetic field (M) as shown. The magnetic field carried in the solar wind will set up a system of electric currents in the Moon or along the surface. These currents will generate another magnetic field which tries to counteract the solar wind field, (figure b). This results in a change in the total magnetic field measured at the lunar surface.
 
     The magnitude of this difference can be determined by independently measuring the magnetic field in the undisturbed solar wind nearby, yet away from the Moon's surface. It is planned to obtain this data from Explorer 35, the unmanned spacecraft now in lunar orbit. The value of the magnetic field change at the Moon's surface can then be used to deduce information on the electrical properties of the Moon. This, in turn, can be used to better understand the internal temperature of the Moon and contribute to better understanding of the origin and history of the Moon.
 
