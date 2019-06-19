@@ -14,7 +14,7 @@ Traverse Gravimeter Experiment (TGE)
     "Nazwa eksperymentu (j. pol.)", "Trawersowy pomiar sejsmiczny"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-TGE-photo.jpg
     :name: figure-alsep-TGE-photo

@@ -14,7 +14,7 @@ Lunar Ejecta and Meteorite Experiment (LEAM)
     "Nazwa eksperymentu (j. pol.)", "Badanie księżycowego i meteorytowego materiału piroklastycznego"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-LEAM-diagram.gif
     :name: figure-alsep-LEAM-diagram

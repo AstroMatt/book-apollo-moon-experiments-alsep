@@ -14,7 +14,7 @@ Lunar Dust Detector (LDD)
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz pyłu księżycowego"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-LDD-diagram.png
     :name: figure-alsep-LDD-diagram

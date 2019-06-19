@@ -9,12 +9,25 @@ Heat Flow Experiment (HFE)
     :stub-columns: 1
 
     "Ośrodek badawczy", "Columbia University"
-    "Misje", "Apollo 15, 16 (accidentally disabled), 17"
+    "Misje", "Apollo 15, Apollo 16 (nieskutecznie), Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Heat Flow Experiment"
-    "Nazwa eksperymentu (j. pol.)", "Eksperyment przepływu ciepła"
+    "Nazwa eksperymentu (j. pol.)", "Badanie przepływu ciepła"
 
 
-Projekt eksperymentu
+Przedmiot badania
+=================
+Przebieg ciepła określa II zasada termodynamiki. Ciepło przebiega z obszarów o większej temperaturze do obszarów o mniejszej temperaturze w celu osiągnięcia równowagi termodynamicznej.
+
+Wnętrze Księżyca jest znacznie cieplejsze niż jego powierzchnia. Z tego powodu znaczna ilość ciepła z wnętrza jest wypromieniowywana w kosmos. Źródłem ciepła jest głównie rozpad radioizotopów pochodzenia naturalnego takich jak tor, uran czy potas. Proces ten jest odpowiedzialny za zwiększanie temperatury we wnętrzu Księżyca.
+
+Prędkość utraty ciepła w postaci wypromieniowywania w kosmos jest znaczącym czynnikiem wpływającym na tektonikę (tworzenie się uskoków i fałdowań powierzchni na skutek deformacji wewnętrznej) oraz na aktywność wulkaniczną.
+
+Eksperyment :ref:`Heat Flow Experiment (HFE)` wykonany w trakcie :ref:`Apollo 15` i :ref:`Apollo 17` miał na celu pomiar utraty ciepła przez Księżyc na skutek promenowania. Eksperyment próbowano wykonać również podczas misji :ref:`Apollo 16`, lecz ze względu na przerwany kabel łączący urządzenie nie funkcjonowało.
+
+Wyniki eksperymentu posłużyły do określenia poziomu radioaktywności jako źródła długotrwałego generowania temperatury we wnętrzu oraz określenia parametrów dla modelu termicznej historii Księżyca.
+
+
+Materiały i metody
 ====================
 .. figure:: img/alsep-HFE-color.jpg
     :name: figure-alsep-HFE-color
@@ -31,13 +44,15 @@ Projekt eksperymentu
     .. todo:: This detail from AS17-134-20493 shows one of the two holes drilled for the Apollo 17 HFE. The holes were drilled using hollow drill stems, with a closed bit on the bottom stem to keep the string open. Once a hole was drilled to the desired depth, a multi-sensor probe was inserted and a thermal cap emplaced around the cable that connected the probe to the HFE electronics package. Źródło: :cite:`Lindsay2008`.
 
 
-Przedmiot badania
-=================
-.. todo::
-    Heat flows from hot regions to cooler regions. The interior of the Moon is warm compared to the surface, therefore heat flows from the interior to the surface where it is lost into space by radiation. This heat is mainly produced by the decay of natural radioactive elements thorium, uranium, and potassium, raising the heat of the interior of the Moon. The Heat Flow experiment was designed to measure the heat loss from the interior of the Moon.
+Przebieg eksperymentu
+=====================
+Eksperyment polegał na stworzeniu dwóch otworów wiertniczych w regolicie księżycowym o głębokości od 1,6 m do 2,3 m. Drugi otwór wiertniczy miał za zadanie potwierdzić pomiary pierwszego. Za pomocą platynowych termometrów oporowych dokonano pomiarów temperatury na wielu poziomach każdego z otworów. Część termometrów umieszczono w dolnych częściach otworu a część znajdowała się w górnej części.
 
-    The results of the Heat Flow Experiment were used to set the limits on the amount of radioactivity - the long-term source of internal heating of the Moon - and to set limits on models of the thermal history of the Moon. The rate at which a planet loses its internal heat to space is an important control on the level of tectonism (faulting and folding of the planet's surface due to internal deformation) and volcanic activity on the planet. This loss of internal heat was measured by the Heat Flow Experiments on Apollo 15 and 17. This experiment was also attempted on Apollo 16, but failed due to a broken cable connection.
+Za pomocą termopar określono prędkość wzrostu temperatury wraz zgłębogością
 
-    The HFE involved drilling two holes into the regolith to depths of 1.6 to 2.3 meters. The second hole and measurement was to confirm the readings from the first hole. The temperature was measured at several depths within each hole by platinum resistance thermometers placed at several points in the lower parts of the holes and several thermocouples placed in the upper part of the holes. The rate at which temperature increases with depth is a measure of the heat flowing from the Moon's interior. The drilling caused some heating within the hole, although the effects of this heating decayed with time. Also, temperatures in the upper part of the regolith vary as the amount of incident sunlight changes throughout the lunar day and night. By monitoring temperatures in the drill holes over a long period of time, these effects can be accounted for, allowing a determination of the average heat flow rate at the landing site.
+    The rate at which temperature increases with depth is a measure of the heat flowing from the Moon's interior. The drilling caused some heating within the hole, although the effects of this heating decayed with time. Also, temperatures in the upper part of the regolith vary as the amount of incident sunlight changes throughout the lunar day and night. By monitoring temperatures in the drill holes over a long period of time, these effects can be accounted for, allowing a determination of the average heat flow rate at the landing site.
+
+Rezultaty
+=========
 
     The HFE found that the surface layer temperature during the night was 76ºK (-197ºC) rising to a maximum of 358ºK (+85ºC) during the day. The temperature at 1.5 meters under the surface was a constant 253ºK (-20ºC), indicating the regolith is an excellent thermal insulator.  The results of these measurements indicate a heat flow of 21 milliwatts per square meter at the Apollo 15 landing site and of 16 milliwatts per square meter at the Apollo 17 landing site. The Earth's average heat flux is 87 milliwatts per square meter. The small value of the lunar heat flow was expected, given the Moon's small size and the observation that it has been nearly dead volcanically for the last 3 billion years. Because the heat flow was measured at only two locations, it is not known how representative these values are for the Moon as a whole. However, because both measurements were obtained near boundaries between mare and highland regions, it is thought that the measured heat flows are probably 10-20% higher than the average value for the entire Moon.

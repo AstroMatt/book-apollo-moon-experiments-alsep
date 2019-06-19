@@ -14,7 +14,7 @@ Passive Seismic Experiment (PSE)
     "Nazwa eksperymentu (j. pol.)", "Pasywny eksperyment sejsmiczny"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-PSE-diagram.png
     :name: figure-alsep-PSE-diagram

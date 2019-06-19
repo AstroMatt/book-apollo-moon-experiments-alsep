@@ -14,7 +14,7 @@ Laser Ranging Retro-reflector (LRRR)
     "Nazwa eksperymentu (j. pol.)", "Zwierciadło pomiaru dla dalmierza laserowego"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-LRRR-closed.gif
     :name: figure-alsep-LRRR-diagram1

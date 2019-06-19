@@ -14,7 +14,7 @@ Solar Wind Spectrometer (SWS)
     "Nazwa eksperymentu (j. pol.)", "Pomiar spektrometryczny wiatru słonecznego"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-SWS-diagram.png
     :name: figure-alsep-SWS-diagram

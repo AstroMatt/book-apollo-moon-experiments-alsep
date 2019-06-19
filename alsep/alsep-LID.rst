@@ -14,7 +14,7 @@ Lunar Ionosphere Detector (LID)
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz jonosfery księżycowej"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-LID-diagram.png
     :name: figure-alsep-LID-diagram

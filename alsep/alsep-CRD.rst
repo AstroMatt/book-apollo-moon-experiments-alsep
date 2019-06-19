@@ -13,7 +13,12 @@ Cosmic Ray Detector (CRD)
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz promieniowania kosmicznego"
 
 
-Projekt eksperymentu
+Przedmiot badania
+=================
+W kosmosie w bezpośrednim otoczeniu Ziemi zaobserwować można trzy główne rodzaje promieniowania: wiatr słoneczny o stałym natężeniu, cząstki pochodzące z rozbłysków słonecznych (ang. *Solar Particle Event*, :term:`SPE`) oraz promieniowanie kosmiczne (ang. *Galactic Cosmic Rays*, :term:`GCR`). Mimo iż promieniowanie kosmiczne stanowi 1% całości spektrum, to są najbardziej zagrażające życiu i zdrowiu astronautów. :term:`GCR` złożone są z cząstek o ekstremalnie dużych energiach (od 100 MeV do 1 GeV) i prędkościach zbliżonych do prędkości światła. Zaobserwowano również cząstki :term:`UHECR` (ang. *Ultra-High-Energy Cosmic Rays*) o energii 3 x 10E20 eV. Promieniowanie kosmiczne ma złożony charakter w postaci zarówno korpuskularnej jak i elektromagnetycznej. Cząsteczkowa składowa promieniowania zawiera: protony (90%), cząstki alfa, głównie (jądra helu) - 9%, elektrony (ok. 1%). 1-2% promieni kosmicznych składa się z jąder cięższych pierwiastków. Promieniowanie kosmiczne oddziałuje ze wszystkich kierunków, a ich źródło na chwilę obecną jest nieokreślone. Obecnie najpopularniejszą teorią pochodzenia promieniowania kosmicznego są wybuchy supernowych, występujące nierzadko poza galaktyką Drogi Mlecznej.
+
+
+Materiały i metody
 ====================
 .. figure:: img/alsep-CRD-photo.jpg
     :name: figure-alsep-CRD-photo
@@ -25,9 +30,7 @@ Kolektor cząstek składał się z zestawu czterech paneli. Pierwszy i drugi pa
 Ponadto panele różnych materiałów o strukturze podobnej do plexiglas były wystawiane na powierzchnię Księżyca poza lądownik księżycowy :term:`LM` w celu ekspozycji na działanie promieniowania kosmicznego. Cząsteczki padające na powierzchnię panelu pozostawiały ślady mikrościeżek. Charakterystyka tych zapisów obserwowanych przy dużym przybliżeniu pozwoliła na określenie składu i kierunku padania promieniowania kosmicznego. Badano również podatność różnych materiałów na  penetrację przez promieniowanie kosmiczne.
 
 
-Przedmiot badania
-=================
-W kosmosie w bezpośrednim otoczeniu Ziemi zaobserwować można trzy główne rodzaje promieniowania: wiatr słoneczny o stałym natężeniu, cząstki pochodzące z rozbłysków słonecznych (ang. *Solar Particle Event*, *SPE*) oraz promieniowanie kosmiczne (ang. *Galactic Cosmic Rays*, :term:`GCR`). Mimo iż promieniowanie kosmiczne stanowi 1% całości spektrum, to są najbardziej zagrażające życiu i zdrowiu astronautów. :term:`GCR` złożone są z cząstek o ekstremalnie dużych energiach (od 100 MeV do 1 GeV) i prędkościach zbliżonych do prędkości światła. Zaobserwowano również cząstki :term:`UHECR` (ang. *Ultra-High-Energy Cosmic Rays*) o energii 3 x 10E20 eV. Promieniowanie kosmiczne ma złożony charakter w postaci zarówno korpuskularnej jak i elektromagnetycznej. Cząsteczkowa składowa promieniowania zawiera: protony (90%), cząstki alfa, głównie (jądra helu) - 9%, elektrony (ok. 1%). 1-2% promieni kosmicznych składa się z jąder cięższych pierwiastków. Promieniowanie kosmiczne oddziałuje ze wszystkich kierunków, a ich źródło na chwilę obecną jest nieokreślone. Obecnie najpopularniejszą teorią pochodzenia promieniowania kosmicznego są wybuchy supernowych, występujące nierzadko poza galaktyką Drogi Mlecznej.
-
-Urządzenie do przeprowadzania eksperymentu :term:`CRD` potrafiło wykryć promieniowanie kosmiczne oraz niskoenergetyczne cząstki wiatru słonecznego. Zakresy energetyczne zjawisk :term:`SPE` są różne i rozciągają się w szerokim spektrum od bardzo niskich wartości do ekstremalnie wysokich. Jednym z celów :term:`Cosmic Ray Detector <CRD>` było badanie cząstek niskoenergetycznych oraz pomiar neutronów pochodzących z powierzchni Księżyca, których w eksperymencie zanotowano rekordowo wysokie wartości.
+Przebieg eksperymentu
+=====================
+Urządzenie do przeprowadzania eksperymentu :term:`CRD` potrafiło wykryć promieniowanie kosmiczne oraz niskoenergetyczne cząstki wiatru słonecznego. Zakresy energetyczne zjawisk :term:`SPE` są różne i rozciągają się w szerokim spektrum od bardzo niskich wartości do ekstremalnie wysokich. Jednym z celów :ref:`Cosmic Ray Detector` było badanie cząstek niskoenergetycznych oraz pomiar neutronów pochodzących z powierzchni Księżyca, których w eksperymencie zanotowano rekordowo wysokie wartości.
 

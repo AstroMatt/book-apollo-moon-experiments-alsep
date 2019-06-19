@@ -14,7 +14,7 @@ Solar Wind Composition Experiment (SWCE)
     "Nazwa eksperymentu (j. pol.)", "Badanie składu wiatru słonecznego"
 
 
-Projekt eksperymentu
+Materiały i metody
 ====================
 .. figure:: img/alsep-SWCE-diagram.png
     :name: figure-alsep-SWCE-diagram
