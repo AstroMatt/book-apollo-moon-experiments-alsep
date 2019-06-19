@@ -22,7 +22,7 @@ Wnętrze Księżyca jest znacznie cieplejsze niż jego powierzchnia. Z tego powo
 
 Prędkość utraty ciepła w postaci wypromieniowywania w kosmos jest znaczącym czynnikiem wpływającym na tektonikę (tworzenie się uskoków i fałdowań powierzchni na skutek deformacji wewnętrznej) oraz na aktywność wulkaniczną.
 
-Eksperyment :ref:`Heat Flow Experiment` wykonany w trakcie :ref:`Apollo 15` i :ref:`Apollo 17` miał na celu pomiar utraty ciepła przez Księżyc na skutek promenowania. Eksperyment próbowano wykonać również podczas misji :ref:`Apollo 16`, lecz ze względu na przerwany kabel łączący urządzenie nie funkcjonowało.
+Eksperyment :ref:`Heat Flow Experiment` wykonany w trakcie :ref:`Apollo 15` i :ref:`Apollo 17` miał na celu pomiar utraty ciepła przez Księżyc na skutek promenowania. Eksperyment próbowano wykonać również podczas misji :ref:`Apollo 16`, lecz ze względu na przerwany kabel łączący urządzenie nie funkcjonowało :cite:`Brett1972`.
 
 Wyniki eksperymentu posłużyły do określenia poziomu radioaktywności jako źródła długotrwałego generowania temperatury we wnętrzu oraz określenia parametrów dla modelu termicznej historii Księżyca.
 
@@ -53,10 +53,10 @@ Za pomocą termopar określono prędkość wzrostu temperatury wraz z głęboko�
 
 Rezultaty
 =========
-Eksperyment :ref:`Heat Flow Experiment` pozwolił na określenie temperatury powierzchni Księżyca w trakcie cyklu nocy i dnia. Wartość ta wyniosła odpowiednio 76 K (-197ºC) w trakcie nocy, oraz 358 K (+85ºC) w ciągu dnia. Temperatura pod powierzchnią regolitu księżycowego na głębokości 1,5 m była stała i wynosiła 253 K (-20ºC). Pozwoliło to na określenie właściwości regolitu księżycowego jako izolatora termicznego o bardzo dobrej sprawności.
+Eksperyment :ref:`Heat Flow Experiment` pozwolił na określenie temperatury powierzchni Księżyca w trakcie cyklu nocy i dnia. Wartość ta wyniosła odpowiednio 76 K (-197ºC) w trakcie nocy, oraz 358 K (+85ºC) w ciągu dnia. Temperatura pod powierzchnią regolitu księżycowego na głębokości 1,5 m była stała i wynosiła 253 K (-20ºC). Pozwoliło to na określenie właściwości regolitu księżycowego jako izolatora termicznego o bardzo dobrej sprawności :cite:`Allen1972`, :cite:`Parker1973`.
 
-Wynik pomiarów generowane były w jednostkach mili Wat na metr kwadrat (mW/m2). Podczas eksperymentu określono wartości przepływu ciepła na poziomie 21 mW/m2 dla miejsca lądowania :term:`Apollo 15`, 16 mW/m2 dla obszaru Taurus-Littrow z misji :term:`Apollo 17`. Średni strumień cieplny dla Ziemi wynosi 87 mW/m2.
+Wynik pomiarów generowane były w jednostkach mili Wat na metr kwadrat (mW/m2). Podczas eksperymentu określono wartości przepływu ciepła na poziomie 21 mW/m2 dla miejsca lądowania :ref:`Apollo 15`, 16 mW/m2 dla obszaru Taurus-Littrow z misji :ref:`Apollo 17`. Średni strumień cieplny dla Ziemi wynosi 87 mW/m2 :cite:`Allen1972`, :cite:`Parker1973`.
 
-Niski poziom przepływu cieplnego był oczekiwany, ze względu na mniejszy rozmiar Księżyca w porównaniu z Ziemią. Ponadto wpływ na takie wartości ma również brak procesów wulkanicznych w ciągu ostatniich 3 mld. lat.
+Niski poziom przepływu cieplnego był oczekiwany, ze względu na mniejszy rozmiar Księżyca w porównaniu z Ziemią. Ponadto wpływ na takie wartości ma również brak procesów wulkanicznych w ciągu ostatnich 3 mld. lat.
 
-Ze względu na to, iż pomiarów dokonano jedynie w dwóch miejscach, brak jest statystycznie znaczących danych aby móc określić średnią wartość dla całości powierzchni. Obydwie wartości zostały określone w pobliżu stuku mórz księżycowych oraz wyżyn. Z tego powodu przypuszcza się, iż wartość średnia przepływu cieplnego może być wyższa o 10-20% od przeciętnej dla pozostałych terenów.
+Ze względu na to, iż pomiarów dokonano jedynie w dwóch miejscach, brak jest statystycznie znaczących danych aby móc określić średnią wartość dla całości powierzchni. Obydwie wartości zostały określone w pobliżu stuku mórz księżycowych oraz wyżyn. Z tego powodu przypuszcza się, iż wartość średnia przepływu cieplnego może być wyższa o 10-20% od przeciętnej dla pozostałych terenów :cite:`Lindsay2008`.

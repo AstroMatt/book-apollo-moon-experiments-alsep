@@ -20,8 +20,8 @@ language = 'pl'
 numfig_format = {
     'section': 'Rozdz. %s.',
     'figure': 'Ryc. %s.',
-    'table': 'Tabela %s.',
-    'code-block': 'Listing %s.',
+    'table': 'Tab. %s.',
+    'code-block': 'List. %s.',
 }
 
 exclude_patterns = [
