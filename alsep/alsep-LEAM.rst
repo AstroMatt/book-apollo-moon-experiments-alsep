@@ -20,7 +20,7 @@ Księżyc jest ciałem niebieskim posiadającym pole grawitacyjne i zaniedbywaln
 
 Eksperyment :ref:`Lunar Ejecta and Meteorite Experiment` był przeprowadzony podczas misji :ref:`Apollo 17`. Wykonano go w celu zbadania częstotliwości i charakteru uderzania małych obiektów o powierzchnię Księżyca i pomiaru materiału wyrzucanego w skutek takiego zdarzenia.
 
-Oczekiwano, iż eksperyment będzie w stanie wykryć zarówno obiekty pochodzenia zewnętrznego, tj. odłamki komet czy pył międzygwiezdny, jak również cząstki wyniesione w skutek kolizji innych obiektów o powierzchnię Księżyca, np. człony rakiety :ref:`Saturn`, odrzucony moduł :ref:`LM`, itp.
+Oczekiwano, iż eksperyment będzie w stanie wykryć zarówno obiekty pochodzenia zewnętrznego, tj. odłamki komet czy pył międzygwiezdny, jak również cząstki wyniesione w skutek kolizji innych obiektów o powierzchnię Księżyca, np. człony rakiety :term:`Saturn`, odrzucony moduł :term:`LM`, itp.
 
 
 Materiały i metody

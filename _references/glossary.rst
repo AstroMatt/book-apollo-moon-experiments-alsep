@@ -13,11 +13,17 @@ Słownik nazw
 
     CM
     Command Module
-        Jedyna część Saturn V/CSM/LM, która powracała na Ziemię.
+        Jedyna część :term:`Saturn V`/:term:`CSM`/:term:`LM`, która powracała na Ziemię.
 
     CSM
     Command and Service Module
         Część statku Apollo, która po odłączeniu lądownika pozostała na orbicie.
+
+    LM
+    LEM
+    Lunar Module
+    Lunar Excursion Module
+        Załogowy lądownik księżycowy użyty podczas programu Apollo
 
     A7L
         Skafander kosmiczny używany podczas wyjść na powierzchnię Księżyca.
@@ -128,8 +134,9 @@ Słownik nazw
     GCR
         Galactic Cosmic Rays
 
-    LM
-        Lunar Module
+    Saturn
+    Saturn V
+        Rakieta nośna użyta do wystrzelenia statku CSM Apollo oraz lądownika LM
 
     Pas Van Allena
         obszar intensywnego promieniowania korpuskularnego, otaczającego Ziemię. Składa się z naładowanych cząstek o wielkiej energii, schwytanych w pułapkę przez ziemskie pole magnetyczne, w którym poruszają się one po trajektoriach zbliżonych do helis, których osie są równoległe do linii pola magnetycznego, łączących obydwa ziemskie bieguny magnetyczne.

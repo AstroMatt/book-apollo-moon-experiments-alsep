@@ -16,7 +16,7 @@ Lunar Atmospheric Detector (LAD)
 
 Przedmiot badania
 =================
-Naukowym celem :ref:`Lunar Atmospheric Detector` było określenie gęstości, temperatury i zmian w atmosferze Księżyca. Eksperyment :ref:`LAD` polegał na pomiarze ciśnienia całkowitego neutralnych (nieaktywnych) cząstek, a następnie za pomocą urządzenia wykrywacza jonosfery (ang. *Ionosphere Detector*) pomiar składu zjonizowanych (aktywnych) cząsteczek. Oczekiwano, iż rozkład gęstości będzie się zwiększał podczas dnia księżycowego oraz spadał w trakcie nocy. Pomiary te miały na celu poszerzenie zrozumienia procesów zachodzących na powierzchni Księżyca. Procesy erozyjne widoczne w próbkach pobranych podczas :term:`EVA` w trakcie :ref:`Apollo 11` były wskaźnikiem do zjawisk odmiennych do tych zachodzących na Ziemi.
+Naukowym celem :ref:`Lunar Atmospheric Detector` było określenie gęstości, temperatury i zmian w atmosferze Księżyca. Eksperyment :term:`LAD` polegał na pomiarze ciśnienia całkowitego neutralnych (nieaktywnych) cząstek, a następnie za pomocą urządzenia wykrywacza jonosfery (ang. *Ionosphere Detector*) pomiar składu zjonizowanych (aktywnych) cząsteczek. Oczekiwano, iż rozkład gęstości będzie się zwiększał podczas dnia księżycowego oraz spadał w trakcie nocy. Pomiary te miały na celu poszerzenie zrozumienia procesów zachodzących na powierzchni Księżyca. Procesy erozyjne widoczne w próbkach pobranych podczas :term:`EVA` w trakcie :ref:`Apollo 11` były wskaźnikiem do zjawisk odmiennych do tych zachodzących na Ziemi.
 
 
 Materiały i metody
