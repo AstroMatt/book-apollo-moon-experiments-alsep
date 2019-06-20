@@ -39,6 +39,7 @@ Podczas użytkowania, trójnóg był rozstawiany 15 metrów od :term:`LRV`. Koni
 
 Odczyt dokonywany był z urządzenia zamontowanego w :term:`LRV`. Panel składał się z trzech cyfrowych mierników przypominających zegary. Każdy ze wskaźników pokazywał wartości pola magnetycznego dla jednej osi, składających się na Księżycowe pole magnetyczne. Astronauci przekazywali głosowo odczytane wartości.
 
+
 Rezultaty
 =========
 Instrument :ref:`Lunar Portable Magnetometer` podczas misji :ref:`Apollo 14` zarejestrował jedynie dwie wartości lokalnego pola magnetycznego. Oba pomiary były zaskakujące dla badanych. Pierwszy pomiar dokonano w niewielkiej odległości od punktu lądowania, ale poza zasięgiem wpływu pola magnetycznego lądownika :term:`LM`. Wartość wynosiła 43nT. Drugiego pomiaru dokonano w na krawędzi krateru Cone (ang. *Cone Crater*). Wartość wynosiła 103nT.
