@@ -32,7 +32,7 @@ Materiały i metody
 
     Diagram przedstawia eksperyment Lunar Ionosphere Detector (LID). Źródło: :cite:`Apollo12PressKit`.
 
-:term:`LID` używał :ref:`Suprathermal Ion Detector Experiment` w celu detekcji i zliczenia dodatnio naładowanych jonów. Składał się z dwóch wykrzywionych płytek analizatora, mierzących energię dodatnich jonów. Jedna płytka mierzyła jony z energiami w zakresie od 0,2 eV do 48,6 eV. Zawierała filtr prędkości w postaci skrzyżowanego pola magnetycznego i elektrycznego, który był zaprojektowany do spowalniania jonów z prędkościami rzędu od 4 x 10E4 do 9,35 x 10E6 cm/sec.
+:term:`LID` używał :ref:`Suprathermal Ion Detector Experiment` w celu detekcji i zliczenia dodatnio naładowanych jonów. Składał się z dwóch wykrzywionych płytek analizatora, mierzących energię dodatnich jonów. Jedna płytka mierzyła jony z energiami w zakresie od 0,2 eV do 48,6 eV. Zawierała filtr prędkości w postaci skrzyżowanego pola magnetycznego i elektrycznego, który był zaprojektowany do spowalniania jonów z prędkościami rzędu od 4 km/s do 935 km/s.
 
 Instrument badawczy ważył 8,62 kg i pracował przy poborze mocy na poziomie 60 W i napięciu wejściowym prądu stałego +29 V.
 
