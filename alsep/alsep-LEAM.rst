@@ -16,8 +16,11 @@ Lunar Ejecta and Meteorite Experiment (LEAM)
 
 Przedmiot badania
 =================
-.. todo::
-    The Lunar Ejecta and Meteorites Experiment was flown on Apollo 17 to study the frequency and nature of small particles striking the Moon, and the effect of the ejecta they fling out. It contained three sensor plates oriented in different directions, allowing it to measure the velocity and direction of motion of impacting particles. It was expected that this experiment would detect both particles arriving from external sources, such as cometary debris and interstellar grains, as well as particles ejected from the Moon by other impacts. However, analysis of the results indicated that it primarily detected fine lunar dust grains being transported at slow speeds across the lunar surface at local sunrise.
+Księżyc jest ciałem niebieskim posiadającym pole grawitacyjne i zaniedbywalną warstwę atmosfery. Trajektoria obiektów kosmicznych przelatujących w pobliżu Księżyca jest zakrzywiana w polu grawitacyjnym i może prowadzić do zderzenia mniejszych odłamków z jego powierzchnią. Ze względu na cienką warstwę atmosfery nie będącą w stanie w skutek tarcia zniszczyć tych obiektów, uderzają one z dużymi prędkościami w powierzchnię. Przyczynia się to do wyrzucenia regolitu, oraz materiału z innych warstw skorupy Księżyca. Niewielkie cząsteczki pyłu przyciągane niewielkim polem grawitacyjnym powoli opadają na powierzchnię tworząc drobnoziarnistą warstwę regolitu.
+
+Eksperyment :ref:`Lunar Ejecta and Meteorite Experiment` był przeprowadzony podczas misji :ref:`Apollo 17`. Wykonano go w celu zbadania częstotliwości i charakteru uderzania małych obiektów o powierzchnię Księżyca i pomiaru materiału wyrzucanego w skutek takiego zdarzenia.
+
+Oczekiwano, iż eksperyment będzie w stanie wykryć zarówno obiekty pochodzenia zewnętrznego, tj. odłamki komet czy pył międzygwiezdny, jak również cząstki wyniesione w skutek kolizji innych obiektów o powierzchnię Księżyca, np. człony rakiety :ref:`Saturn`, odrzucony moduł :ref:`LM`, itp.
 
 
 Materiały i metody
@@ -32,11 +35,9 @@ Materiały i metody
 
     Diagram przedstawia eksperyment Lunar Ejecta and Meteorite Experiment (LEAM). Źródło: :cite:`ImageProjectApolloArchive`.
 
-
-
-Przebieg eksperymentu
-=====================
+Eksperyment składał się z trzech płyt sensorów skierowanych w różne kierunki. Pozwalało to na pomiar prędkości i kierunku poruszania się uderzających obiektów.
 
 
 Rezultaty
 =========
+Analiza rezultatów wykazała, że drobny pył stanowiący warstwę regolitu księżycowego jest transportowany z niewielką prędkością pomiędzy różnymi regionami w trakcie księżycowego wschodu słońca.
