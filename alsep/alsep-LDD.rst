@@ -16,14 +16,9 @@ Lunar Dust Detector (LDD)
 
 Przedmiot badania
 =================
-Eksperyment został zaprojektowany w celu
+Część eksperymentów wykonywanych w ramach programu Apollo miała działać również po opuszczeniu Księżyca przez astronautów. Przed lądowaniami w ramach programu Apollo sądzono, że urządzenia w ramach pakietu ALSEP pokryte zostaną warstwą pyłu uniesionego po starcie lądownika :term:`LM`. Przyczyną zanieczyszczenia miały być również inne źródła w wyniku długotrwałej ekspozycji na szkodliwe czynniki środowiskowe.
 
-.. todo::
-    This experiment measured the amount of dust accumulating on the lunar surface, which translated into the solar illumination detected by the cells. It also measured the damage to solar cells by high-energy radiation as well as the reflected infrared energy and temperatures of the lunar surface. It consisted of three photocells mounted on the Central Station.
-
-    Prior to the Apollo landings, it was thought that there would be a heavy dust layer deposited on the ALSEP experiment package during LM ascent and possibly from other long-term sources. This experiment was designed to measure this dust layer deposition and was performed on Apollo 11, 12, 14, and 15 missions. It was housed in the ALSEP central station and measured the power output and temperature of the three solar cells. The dust accumulation proved to be much lower than expected, and the results from this experiment were also used to monitor the long-term degradation of solar cells from radiation and thermal effects. This was considered to be an engineering rather than a scientific experiment.
-
-    The function of the experiment was to separate and measure high-energy radiation damage to the solar cells, to measure reduced solar cell output due to dust accumulation, and to measure reflected infrared energy and temperatures for use in computing lunar surface temperatures. The Dust Detector had two components -- a sensor package mounted to the top of the Central Station sun shield, and a printed circuit board located within the Central Station that interfaced with the power distribution unit of the ALSEP data subsystem.
+Eksperyment :ref:`Lunar Dust Detector` wykonano podczas misji :ref:`Apollo 11`, :ref:`12 <Apollo 12>`,  :ref:`14 <Apollo 14>` i :ref:`15 <Apollo 15>`. Badanie zostało zaprojektowane w celu pomiaru złogów regolitu Księżycowego na urządzeniach elektronicznych i mechanicznych. Informacja ta była wyliczana na podstawie różnicy w wartości luminacji zarejestrowanej przez fotokomórki paneli fotowoltaicznych w czasie. Obserwowano również poziom zniszczeń paneli przez wysokoenergetyczne promieniowanie jak również poziom odbitego promieniowania podczerwonego i temperaturę powierzchni Księżyca.
 
 
 Materiały i metody
@@ -34,9 +29,24 @@ Materiały i metody
     Diagram przedstawia eksperyment Lunar Dust Detector (LDD). Źródło: :cite:`Apollo12PressKit`.
 
 
+:ref:`Lunar Dust Detector` zbudowany był z dwóch komponentów:
+
+    - pakietu sensorów fotokomórek,
+    - drukowanego układu obwodów.
+
+Pakietu sensorów składał się z trzech fotokomórek zamontowanych górze osłony przeciwsłonecznej :ref:`stacji centralnej <Central Station>`.
+
+Drukowany układ obwodów umieszczono wewnątrz :ref:`stacji centralnej <Central Station>`. Był częścią interfejsu rozdzielania mocy dla podsystemów eksperymentów naukowych w ramach pakietu :term:`ALSEP`.
+
+
 Przebieg eksperymentu
 =====================
+Eksperyment dokonywał pomiaru mocy wyjściowej i temperatury trzech paneli fotowoltaicznych. Na skutek uszkodzeń wywołanych ekspozycją na promieniowanie oraz pokrywę pyłu parametry wyjściowe urządzenia się obniżały co pozwoliło na obliczenie temperatury powierzchniowej i stopnia zanieczyszczenia paneli.
 
 
 Rezultaty
 =========
+Warstwa pyłu zgromadzona na urządzenia okazała się być znacznie niższa od oczekiwanej. Eksperyment był również wykorzystywany do monitorowania długotrwałej deterioracji fotokomórek paneli na skutek promieniowania oraz fluktuacji termicznej.
+
+Eksperyment był uznawany za inżynieryjny w naturze i nie klasyfikował się w zestawieniu eksperymentów naukowych.
+
