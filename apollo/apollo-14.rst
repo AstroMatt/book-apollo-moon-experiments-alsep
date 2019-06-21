@@ -1,8 +1,8 @@
 .. _Apollo 14:
 
-***************
-Misja Apollo 14
-***************
+*********
+Apollo 14
+*********
 
 
 Charakterystyka misji

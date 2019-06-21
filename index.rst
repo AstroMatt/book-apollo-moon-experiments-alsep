@@ -46,7 +46,6 @@ Eksperymenty geofizyczne na powierzchni Księżyca
     /alsep/alsep-SWCE.rst
     /alsep/alsep-SWS.rst
     /alsep/alsep-TGE.rst
-    /alsep/najwazniejsze-odkrycia.rst
 
 
 Zakończenie
@@ -57,9 +56,7 @@ Zakończenie
     :caption: Zakończenie
     :hidden:
 
-    /zakonczenie/podsumowanie.rst
-    /zakonczenie/weryfikacja-celu.rst
-    /zakonczenie/wnioski.rst
+    /alsep/najwazniejsze-odkrycia.rst
 
 Załączniki
 ==========

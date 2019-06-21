@@ -28,7 +28,7 @@ Pakiet :term:`EASEP` był wykorzystany podczas misji :ref:`Apollo 11`. W kolejny
 .. csv-table:: Warianty pakietu ALSEP w poszczególnych misjach
     :header-rows: 1
 
-    "Mission", "Array #"
+    "Misja", "Nazwa zestawu"
     "Apollo 11", "EASEP"
     "Apollo 12", "ALSEP Array A"
     "Apollo 13", "ALSEP Array B"
@@ -61,3 +61,11 @@ Scientific Equipment Bay (SEQ)
     :name: figure-alsep-SEQ-open
 
     Alan Bean w trakcie rozpakowywania zestawu ALSEP. W tym celu astronauta użył zmiennej długości wysięgnika, rolki i taśm. Po prawej stronie od kolana Alan Beana można zobaczyć elementy generatora :ref:`Radioisotope Thermo-electric Generator`. Źródło: NASA/AS12-46-6783 :cite:`Lindsay2008`.
+
+
+Lista eksperymentów
+===================
+.. csv-table:: Lista eksperymentów zrealizowanych w trakcie misji Apollo
+    :file: data/alsep-experiments.csv
+    :header-rows: 1
+    :widths: 10, 40, 20, 30

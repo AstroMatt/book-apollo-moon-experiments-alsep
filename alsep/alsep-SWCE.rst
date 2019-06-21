@@ -12,11 +12,12 @@ Solar Wind Composition Experiment (SWCE)
     "Misje", "Apollo 11, 12, 14, 15, 16"
     "Nazwa eksperymentu (j. ang.)", "Solar Wind Composition Experiment"
     "Nazwa eksperymentu (j. pol.)", "Badanie składu wiatru słonecznego"
+    "Dziedzina", "Elektromagnetyzm"
 
 
 Przedmiot badania
 =================
-Eksperyment :ref:`Solar Wind Composition Experiment` został wykonany w celu określenia składu pierwiastków oraz izotopów szlachetnych gazów, tj. hel, neon i argon, we wietrze słonecznym.
+Eksperyment :ref:`Solar Wind Composition Experiment` został wykonany w celu określenia składu pierwiastków oraz izotopów gazów szlachetnych, tj. hel, neon i argon, we wietrze słonecznym.
 
 
 Materiały i metody
@@ -31,9 +32,9 @@ Eksperyment składał się z folii aluminiowej o grubości 0,5 mm. Folia miała
 
 Przebieg eksperymentu
 =====================
-Astronauci rozwijali folię zaraz po przybyciu podczas pierwszego :term:`EVA` i zwijali przed odlotem. Folia była transportowana na Ziemię w celu analizy przez Szwajcarskich naukowców.
+Astronauci rozwijali folię zaraz po przybyciu podczas pierwszego :term:`EVA` i zwijali przed odlotem. Folię transportowano na Ziemię w celu analizy przez Szwajcarskich naukowców z uniwersytetu w Bernie.
 
-Czasy ekspozycji eksperymentu były następujące:
+Czasy ekspozycji eksperymentu były następujące :cite:`Jones1995`:
 
     * :ref:`Apollo 11`: 1 godzina 17 minut,
     * :ref:`Apollo 12`: 18 godzin 42 minut,

@@ -37,7 +37,7 @@ Lista najważniejszych odkryć geologicznych i geofizycznych programu Apollo wg.
 
         .. todo:: The large, dark basins such as Mare Imbrium are gigantic impact craters, formed early in lunar history, that were later filled by lava flows about 3.2-3.9 billion years ago. Lunar volcanism occurred mostly as lava floods that spread horizontally; volcanic fire fountains produced deposits of orange and emerald-green glass beads.
 
-    #. Księżyc jest nieznacznie asymetryczny w masie. Prawdopodobnie jest to spowodowane wpływem pola grawitacyjnego Ziemi w trakcie ewolucji Księżyca. Jego skorupa jest grubsza po niewidocznej z Ziemi stronie, lecz większość basenów wulkanicznych i punktów znacznej koncentracji masy znajduje się po bliższej stronie.
+    #. Księżyc jest nieznacznie masowo asymetryczny. Prawdopodobnie jest to spowodowane wpływem pola grawitacyjnego Ziemi w trakcie ewolucji Księżyca. Jego skorupa jest grubsza po niewidocznej z Ziemi stronie, lecz większość basenów wulkanicznych i punktów znacznej koncentracji masy znajduje się po bliższej stronie.
 
         .. todo:: Mass is not distributed uniformly inside the Moon. The large mass concentrations ("Mascons") that lie beneath the surface of many large lunar basins are due mainly to mantle uplift under the basins caused by rebound following the impact, together with some lava fill. Relative to its geometric center, the Moon's center of mass is displaced toward Earth by several kilometers.
 

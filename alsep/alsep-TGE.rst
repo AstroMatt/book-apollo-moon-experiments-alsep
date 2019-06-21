@@ -12,6 +12,7 @@ Traverse Gravimeter Experiment (TGE)
     "Misje", "Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Traverse Gravimeter Experiment"
     "Nazwa eksperymentu (j. pol.)", "Trawersowy pomiar sejsmiczny"
+    "Dziedzina", "Grawimetria"
 
 
 Przedmiot badania
@@ -34,11 +35,11 @@ Materiały i metody
 
 Przebieg eksperymentu
 =====================
-Pomiary grawimetryczne były wykonane w 12 miejscach pomiarowych podczas trzeciego :term:`EVA`. W każdej stacji geologicznej, Gene Cernan zdejmował :term:`TGE` z tyłu łazika i rozstawiał go na podłożu. Po ustawieniu pozycji horyzontalnej dokonywał pomiaru. Po ukończeniu pracy odczytywał wynik na wskaźniku. Wyniki były przekazane drogą radiową przez załogę na Ziemię do centrum kontroli misji.
+Pomiary grawimetryczne były wykonane w 12 miejscach pomiarowych podczas trzeciego :term:`EVA`. W każdej stacji geologicznej, Gene Cernan zdejmował :term:`TGE` z tyłu łazika i rozstawiał na podłożu w pozycji horyzontalnej dokonywał pomiaru. Po ukończeniu rejestracji odczytywał wynik na wskaźniku. Wyniki były przekazane drogą radiową przez załogę na Ziemię do centrum kontroli misji.
 
-Interpretacja wyników wymagała znajomości topografii miejsca lądowania. Dane te zostały uzyskane za pomocą stereofotografii z orbity Księżyca.
+Interpretacja wyników wymagała znajomości topografii miejsca lądowania. Dane te zostały uzyskane za pomocą zdjęć stereofotograficznych z orbity Księżyca.
 
 
 Rezultaty
 =========
-Analiza wyników wykazała, że warstwa morza bazaltowego znajdującego się w pobliżu miejsca lądowania ma miąższość 1 km. Wartość ta jest mniejsza niż wykazał to :ref:`Lunar Seismic Profiling Experiment`.
+Analiza wyników wykazała, że warstwa morza bazaltowego znajdującego się w pobliżu miejsca lądowania ma miąższość 1 km. Wartość ta jest mniejsza niż określona w :ref:`Lunar Seismic Profiling Experiment`, :cite:`Jones1995`.

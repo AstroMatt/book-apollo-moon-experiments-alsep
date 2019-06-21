@@ -1,8 +1,8 @@
 .. _Apollo 15:
 
-***************
-Misja Apollo 15
-***************
+*********
+Apollo 15
+*********
 
 
 Charakterystyka misji

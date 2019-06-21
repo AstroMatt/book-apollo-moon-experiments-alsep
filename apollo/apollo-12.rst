@@ -1,8 +1,8 @@
 .. _Apollo 12:
 
-***************
-Misja Apollo 12
-***************
+*********
+Apollo 12
+*********
 
 
 Charakterystyka misji

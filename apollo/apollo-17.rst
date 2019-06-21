@@ -1,8 +1,8 @@
 .. _Apollo 17:
 
-***************
-Misja Apollo 17
-***************
+*********
+Apollo 17
+*********
 
 
 Charakterystyka misji

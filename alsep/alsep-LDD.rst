@@ -12,13 +12,14 @@ Lunar Dust Detector (LDD)
     "Misje", "Apollo 11, 12, 14, 15"
     "Nazwa eksperymentu (j. ang.)", "Lunar Dust Detector"
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz pyłu księżycowego"
+    "Dziedzina", "Petrofizyka"
 
 
 Przedmiot badania
 =================
-Część eksperymentów wykonywanych w ramach programu Apollo miała działać również po opuszczeniu Księżyca przez astronautów. Przed lądowaniami w ramach programu Apollo sądzono, że urządzenia w ramach pakietu ALSEP pokryte zostaną warstwą pyłu uniesionego po starcie lądownika :term:`LM`. Przyczyną zanieczyszczenia miały być również inne źródła w wyniku długotrwałej ekspozycji na szkodliwe czynniki środowiskowe.
+Część eksperymentów wykonywanych w ramach programu Apollo miała działać również po opuszczeniu Księżyca przez astronautów. Przed lądowaniami w ramach programu Apollo sądzono, że urządzenia w ramach pakietu ALSEP pokryte zostaną warstwą pyłu uniesionego w skutek startu :term:`LM`. Przyczyną zanieczyszczenia miały być również inne źródła w wyniku długotrwałej ekspozycji na szkodliwe czynniki środowiskowe.
 
-Eksperyment :ref:`Lunar Dust Detector` wykonano podczas misji :ref:`Apollo 11`, :ref:`12 <Apollo 12>`,  :ref:`14 <Apollo 14>` i :ref:`15 <Apollo 15>`. Badanie zostało zaprojektowane w celu pomiaru złogów regolitu Księżycowego na urządzeniach elektronicznych i mechanicznych. Informacja ta była wyliczana na podstawie różnicy w wartości luminacji zarejestrowanej przez fotokomórki paneli fotowoltaicznych w czasie. Obserwowano również poziom zniszczeń paneli przez wysokoenergetyczne promieniowanie jak również poziom odbitego promieniowania podczerwonego i temperaturę powierzchni Księżyca.
+Eksperyment :ref:`Lunar Dust Detector` wykonano podczas misji :ref:`Apollo 11`, :ref:`12 <Apollo 12>`,  :ref:`14 <Apollo 14>` i :ref:`15 <Apollo 15>`. Badanie zostało zaprojektowane w celu pomiaru złogów regolitu Księżycowego na urządzeniach elektronicznych i mechanicznych. Informacja ta była wyliczana na podstawie różnicy w wartości luminacji zarejestrowanej przez fotokomórki paneli fotowoltaicznych w czasie. Obserwowano również poziom zniszczeń paneli przez wysokoenergetyczne promieniowanie jak również poziom odbitego promieniowania podczerwonego i temperaturę powierzchni Księżyca :cite:`Apollo12PressKit`.
 
 
 Materiały i metody
@@ -41,7 +42,9 @@ Drukowany układ obwodów umieszczono wewnątrz :ref:`stacji centralnej <Central
 
 Przebieg eksperymentu
 =====================
-Eksperyment dokonywał pomiaru mocy wyjściowej i temperatury trzech paneli fotowoltaicznych. Na skutek uszkodzeń wywołanych ekspozycją na promieniowanie oraz pokrywę pyłu parametry wyjściowe urządzenia się obniżały co pozwoliło na obliczenie temperatury powierzchniowej i stopnia zanieczyszczenia paneli.
+Eksperyment dokonywał pomiaru mocy wyjściowej i temperatury trzech paneli fotowoltaicznych. Na skutek uszkodzeń wywołanych ekspozycją na promieniowanie oraz pokrywę pyłu parametry wyjściowe urządzenia się obniżały. Pozwoliło to na obliczenie temperatury powierzchniowej i stopnia zanieczyszczenia paneli.
+
+Ponadto podczas misji :ref:`Apollo 12` pobrano również próbki zanieczyszczeń amerykańskiej bezzałogowej sondy kosmicznej *Surveyor 3* w celu analizy długotrwałej ekspozycji na promieniowanie kosmiczne.
 
 
 Rezultaty

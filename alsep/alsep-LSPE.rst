@@ -12,11 +12,12 @@ Lunar Seismic Profiling Experiment (LSPE)
     "Misje", "Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Lunar Seismic Profiling Experiment"
     "Nazwa eksperymentu (j. pol.)", "Profilowanie sejsmiczne powierzchni Księżyca"
+    "Dziedzina", "Sejsmika"
 
 
 Przedmiot badania
 =================
-:ref:`Lunar Seismic Profiling Experiment` jest podobny w założeniu do innych eksperymentów sejsmicznych wykonywanych w ramach pakietu :term:`ALSEP`, lecz różni się od nich pod względem projektowym. Zbiera dane sejsmiczne z sieci 4 :term:`geofonów <geofon>` ułożonych w centrum, oraz w każdym kącie 90-cio metrowego metrowego trójkąta równobocznego. Ładunki wybuchowe na powierzchni wywoływały fale sejsmiczną o różnej mocy w celu profilowania sejsmicznego punktu lądowania :ref:`Apollo 17`.
+:ref:`Lunar Seismic Profiling Experiment` jest podobny w założeniu do innych eksperymentów sejsmicznych wykonywanych w ramach pakietu :term:`ALSEP`. Niewielkie zmiany dotyczą kwestii projektowych. Urządzenie zbierało dane sejsmiczne z sieci 4 :term:`geofonów <geofon>` ułożonych w centrum, oraz w kątach 90-cio metrowego metrowego trójkąta równobocznego. Ładunki wybuchowe na powierzchni wywoływały fale sejsmiczną o różnej mocy w celu profilowania sejsmicznego punktu lądowania :ref:`Apollo 17` :cite:`Jones1995`.
 
 
 Materiały i metody

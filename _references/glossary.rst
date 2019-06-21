@@ -173,3 +173,14 @@ Słownik nazw
 
     Apollo 13
         Misja Apollo, która ze względu na problemy techniczne nie dotarła do powierzchni Księżyca. Po kilku dniach udało się sprowadzić astronautów na Ziemię wykorzystując manewr Free Return Trajectory.
+
+
+    MPA
+    Mortar Package Assembly
+        Moździerzowy Zespół Opakowaniowy
+
+    Lunar Earthrise
+        ikoniczne zdjęcie wschodu Ziemi
+
+    Surveyor 3
+        Sonda badająca powierzchnię Księżyca. Data lądowania 20 kwietnia 1967. Była celem misji Apollo 12

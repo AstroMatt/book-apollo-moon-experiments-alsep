@@ -12,6 +12,7 @@ Suprathermal Ion Detector Experiment (SIDE)
     "Misje", "Apollo 12, 14, 15"
     "Nazwa eksperymentu (j. ang.)", "Suprathermal Ion Detector Experiment"
     "Nazwa eksperymentu (j. pol.)", ""
+    "Dziedzina", "Elektromagnetyzm"
 
 
 Przedmiot badania
@@ -42,6 +43,6 @@ Przebieg eksperymentu
 
     Zdjęcie przedstawia rozstawione urządzenie :term:`SIDE` (po lewej stronie) i :term:`CCIG` (podłączone po prawej stronie). Źródło: NASA/AS15-86-11596 :cite:`ImageProjectApolloArchive`.
 
-Nachylenie urządzenia eksperymentu :term:`SIDE` przedstawione na :numref:`figure-alsep-SIDE-photo`, było spowodowane charakterystyką szerokości geograficznej miejsca lądowania :ref:`Apollo 15`.
+Nachylenie urządzenia eksperymentu :term:`SIDE` przedstawione na :numref:`figure-alsep-SIDE-photo`, jest wynikiem charakterystyki szerokości geograficznej miejsca lądowania :ref:`Apollo 15`.
 
-Urządzenie pomiarowe SIDE/CCIG było wyposażone w kierunkowy sensor zorientowany w płaszczyźnie ekliptycznej pod kontem 15 stopni od Księżycowego lokalnego południka. Ze względu na znaczną różnicę w długościach geograficznych miejsc lądowań, anteny urządzenia skierowane były 38 stopni na zachód (:ref:`Apollo 12`), 2 stopnie na wschód (:ref:`Apollo 14`) i 19 stopni na zachód (:ref:`Apollo 15`). W trakcie pomiarów urządzenie nie było bezpośrednio skierowane w stronę nadchodzącego wiatru słonecznego.
+Urządzenie pomiarowe SIDE/CCIG wyposażono w kierunkowy sensor zorientowany w płaszczyźnie ekliptycznej pod kontem 15 stopni od Księżycowego lokalnego południka. Ze względu na znaczną różnicę w długościach geograficznych miejsc lądowań, anteny urządzenia skierowano pod kątem 38 stopni na zachód (:ref:`Apollo 12`), 2 stopnie na wschód (:ref:`Apollo 14`) i 19 stopni na zachód (:ref:`Apollo 15`). W trakcie pomiarów urządzenie nie było bezpośrednio skierowane w stronę nadchodzącego wiatru słonecznego.

@@ -12,6 +12,7 @@ Surface Electrical Properties Experiment (SEP)
     "Misje", "Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Surface Electrical Properties Experiment"
     "Nazwa eksperymentu (j. pol.)", "Pomiar właściwości elektrycznych powierzchni Księżyca"
+    "Dziedzina", "Elektromagnetyzm"
 
 
 Przedmiot badania
@@ -33,24 +34,24 @@ Materiały i metody
 
     Zdjęcie przedstawia odbiornik :ref:`Surface Electrical Properties Experiment` zamontowany na tyle siedzenia :term:`LMP` zamontowanego na łaziku :term:`LRV`. Źródło: NASA/AS17-135-20543 :cite:`Lindsay2008`.
 
-Eksperyment :ref:`Surface Electrical Properties Experiment` składał się z wieloczęstotliwościowej transmitującej anteny rozłożonej w pobliżu lądownika księżycowego :term:`LM` i przenośnej szerokopasmowej wzajemnie ortogonalnej anteny odbiorczej z odzyskiwalnym rejestratorem znajdującej się na :term:`LRV`.
+Eksperyment :ref:`Surface Electrical Properties Experiment` składał się z wieloczęstotliwościowej transmitującej anteny rozłożonej w pobliżu lądownika księżycowego :term:`LM` i przenośnej szerokopasmowej wzajemnie ortogonalnej anteny odbiorczej z odzyskiwalnym rejestratorem znajdującej się na :term:`LRV` :cite:`Jones1995`.
 
-Transmiter wytwarzał falę ciągłą na częstotliwościach 1; 2,2; 4; 8,1; 16 i 32.1 MHz.
+Transmiter wytwarzał falę ciągłą na częstotliwościach 1; 2,2; 4; 8,1; 16 i 32.1 MHz :cite:`Jones1995`.
 
 
 Przebieg eksperymentu
 =====================
-W trakcie eksploracji powierzchni podczas postojów łazika transmitowano sygnał elektryczny przez regolit księżycowy. Pomiar był rejestrowany na urządzeniu zamontowanym na łaziku. Porównanie sygnału transmitowanego oraz odbieranego pozwoliły na wyznaczenie właściwości elektrycznych regolitu. Informacja ta miała za zadanie potwierdzić analizę wykonaną z orbity za pomocą :term:`Bistatic Radar and Lunar Sounder Experiments`.
+W trakcie eksploracji powierzchni podczas postojów łazika transmitowano sygnał elektryczny przez regolit księżycowy. Pomiar był rejestrowany na urządzeniu zamontowanym na łaziku :term:`LRV`. Porównanie sygnału transmitowanego oraz odbieranego pozwoliły na wyznaczenie właściwości elektrycznych regolitu. Informacja ta miała potwierdzić analizę wykonaną z orbity za pomocą :term:`Bistatic Radar and Lunar Sounder Experiments`.
 
-Astronauci przetransportowali i rozstawili transmiter około 100 m od lądownika :term:`LM` a następnie ustawili anteny. Odbiornik i rejestrator został umieszczony na :term:`LRV`. Zespół określał położenie łazika w odniesieniu do transmitera za każdym razem, podczas zatrzymywania się pojazdu w celu dokonania pomiaru. W celu określenia dystansu zliczano ilość obrotów kół, a różnica pomiędzy liczbą obrotów prawego i lewego koła pozwalała na wyliczenie azymutu.
+Astronauci przetransportowali i rozstawili transmiter około 100 m od lądownika :term:`LM` a następnie ustawili anteny. Odbiornik i rejestrator umieszczono na :term:`LRV`. Zespół określał położenie łazika w odniesieniu do transmitera za każdym razem, gdy zatrzymywano się aby dokonać pomiaru. W celu określenia dystansu zliczano ilość obrotów kół. Różnica pomiędzy liczbą obrotów prawego i lewego koła pozwalała na wyliczenie azymutu.
 
 Po dokonaniu pomiarów i powrocie do punktu startowego astronauci wymontowali rejestrator i zabrali na Ziemię w celu analizy danych.
 
 
 Rezultaty
 =========
-Eksperyment pozwolił na określenie warstw, poszukiwanie złóż wody podpowierzchniowej i pomiar właściwości in situ jako funkcja głębokości. Wybrany zakres częstotliwości pozwalał na określenie powyższych cech dla głębokości od kilku metrów do kilku kilometrów.
+Eksperyment pozwolił na określenie warstw, poszukiwanie złóż wody podpowierzchniowej i pomiar właściwości in situ jako funkcji głębokości. Wybrany zakres częstotliwości pozwalał na określenie powyższych cech dla głębokości od kilku metrów do kilku kilometrów :cite:`Jones1995`.
 
 Ponadto wykazano, że górne 2 km skorupy Księżyca są ekstremalnie wysuszone, co jest spójne z pomiarami składu skał księżycowych.
 
-Elementy elektroniczne i rejestrator zostały ukryte w obudowie zaprojektowanej w celu ochrony termicznej. Niesprawność spoiwa na tylnej stronie rzepu, który przytrzymywał osłonę zamkniętą spowodował przegrzanie urządzenia, co znacząco wpłynęło na ilość użytecznych danych zebranych w trakcie eksperymentu.
+Elementy elektroniczne i rejestrator zostały ukryte w obudowie zaprojektowanej w celu ochrony termicznej. Niesprawność spoiwa na tylnej stronie rzepu, który przytrzymywał osłonę zamkniętą spowodował przegrzanie urządzenia, co znacząco wpłynęło na ilość użytecznych danych zebranych w trakcie eksperymentu :cite:`Jones1995`.

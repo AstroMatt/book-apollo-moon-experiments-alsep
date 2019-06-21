@@ -1,8 +1,8 @@
 .. _Apollo 11:
 
-***************
-Misja Apollo 11
-***************
+*********
+Apollo 11
+*********
 
 
 Charakterystyka misji

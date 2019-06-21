@@ -88,23 +88,24 @@ Najbardziej ambitnym programem w historii astronautyki był program Apollo. W ci
 
 Każda z misji programu Apollo cechowała się innym zadaniem w zależności od kategorii do której była przydzielona :cite:`Ertel2007`. :numref:`table-apollo-mission-types` przedstawia typy misji oraz opis każdej z kategorii.
 
-Krótka charakterystyka misji Apollo:
+Krótka charakterystyka misji Apollo :cite:`Eisele2017`, :cite:`Cunningham2010`, :cite:`Cernan2000`:
 
 - Apollo 1 - pożar przy rutynowym teście, załoga poniosła śmierć,
-- Apollo 7 - pierwszy start rakiety Saturn V z astronautami w module dowodzenia (ang. *Command Module*) :cite:`Eisele2017`, :cite:`Cunningham2010`,
-- Apollo 8 - pierwsze orbitowanie Księżyca, ikoniczne zdjęcie wschodu Ziemi (ang. *Lunar Earthrise*),
-- Apollo 10 - pełny test do misji typu *G*, zbliżenie się na 8.4 NM (15.6 km) do Księżyca,
-- Apollo 11 - pierwsze lądowanie na Księżycu,
-- Apollo 12 - najbardziej dokładne lądowanie w programie Apollo, przejęcie kamery lądownika Surveyor 3, który lądował dwa lata wcześniej (20 kwietnia 1967),
+- Apollo 7 - pierwszy start rakiety Saturn V z astronautami w :term:`module dowodzenia <Command Module>`,
+- Apollo 8 - pierwsze załogowe orbitowanie Księżyca, ikoniczne zdjęcie :term:`wschodu Ziemi <Lunar Earthrise>` przedstawiające wschód Ziemi nad Księżycem,
+- Apollo 10 - pełny test do misji typu *G*, zbliżenie na 8,4 NM (15,6 km) do powierzchni Księżyca,
+- Apollo 11 - pierwsze lądowanie na Księżycu, ikoniczne zdjęcie "Lunar Footprint" przedstawiające odcisk buta astronauty na powierzchni,
+- Apollo 12 - najbardziej dokładne lądowanie w programie Apollo, akwizycja kamery sondy :term:`Surveyor 3`,
 - Apollo 13 - wybuch zbiornika z tlenem i dramatyczna walka z czasem aby sprowadzić załogę na Ziemię,
-- Apollo 14 - najstarszy astronauta na Księżycu, pierwsza gra w golfa,
-- Apollo 15 - pierwsze wykorzystanie pojazdu na powierzchni Księżyca,
-- Apollo 16 - pierwsza misja trzydniowa na Księżycu (typ *J*)
-- Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie Ziemi z daleka (ang. *Blue Marble*) :cite:`Cernan2000`,
-- Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Sojuz i historycznego uścisku dłoni między reprezentantami dwóch mocarstw.
+- Apollo 14 - test pojazdu :term:`MET` na księżycu,
+- Apollo 15 - pierwsze wykorzystanie pojazdu :term:`LRV`,
+- Apollo 16 - pierwsza trzydniowa misja (typ *J*)
+- Apollo 17 - ostatnie lądowanie na Księżycu (pierwsza misja w której brał udział naukowiec - geolog), ikoniczne zdjęcie "Blue Marble" - przedstawiający Ziemię z daleka,
+- Apollo-Soyuz Test Project - ostatnia misja programu, podczas której doszło do dokowania na orbicie statków Apollo oraz Sojuz i historycznego uścisku dłoni między reprezentantami USA i ZSRR.
 
 .. csv-table:: Typy misji w ramach programu Apollo :cite:`Ertel2007`
     :name: table-apollo-mission-types
     :file: data/apollo-mission-types.csv
     :header-rows: 1
+    :widths: 5, 5, 20, 5, 20, 35
 

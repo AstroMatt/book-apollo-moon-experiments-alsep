@@ -1,8 +1,8 @@
 .. _Apollo 16:
 
-***************
-Misja Apollo 16
-***************
+*********
+Apollo 16
+*********
 
 
 Charakterystyka misji
