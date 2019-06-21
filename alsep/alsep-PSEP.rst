@@ -16,10 +16,6 @@ Passive Seismic Experiment Package (PSEP)
 
 Przedmiot badania
 =================
-.. todo::
-    This instrument contained four seismometers powered by two panels of solar cells, which converted solar energy into electricity. It used three long-period seismometers and one short- period vertical seismometer for measuring meteorite impacts and moonquakes, recording about 100 to 200 hits by meteorites during its lifetime. Data regarding the strength, duration, and approximate direction of the seismic event were relayed to tracking stations on Earth. Because it was only powered by solar cells, the experiment only operated during the lunar days. During the 340 hour lunar night, when temperatures can plummet to minus 170ºC the instrument was kept to a minimum of minus 54ºC by a radioisotope heater, the first major use of nuclear energy in a NASA manned mission. Any temperature below this could damage the instrument.
-
-    At the other end of the scale the scientists tried controlling the daytime heat on the electronic components by a series of power 'dumps', cutting off the systems electrical power. Then, just before the lunar night began, the seismometer automatically shifted into stand-by mode, stopping transmission of all data. The seismic instrument package stopped responding to commands at 0400 UT August 25 1969, probably from overheating from the hot midday sun.  An alternate design was flown on later missions.
 
 
 Materiały i metody
@@ -29,11 +25,20 @@ Materiały i metody
 
     Diagram przedstawia eksperyment Passive Seismic Experiment Package (PSEP). Źródło: :cite:`ImageProjectApolloArchive`.
 
+Instrument składał się z czterech sejsmometrów zasilanych za pomocą dwóch paneli fotowoltaicznych. Trzy sejsmometry rejestrowały fale długookresowe i jeden o polaryzacji pionowej rejestrujący fale krótkookresowe.
 
 
 Przebieg eksperymentu
 =====================
+Urządzenie było zasilane jedynie przez panele słoneczne. Z tego powodu eksperyment mógł wykonywać pomiary jedynie w czasie dni księżycowych. Podczas 340 godzinnej nocy, gdy temperatury spadały do -170°C instrument podgrzewano za pomocą :term:`RTG` aby utrzymać temperaturę -54°C. Było to pierwsze znaczące użycie energii jądrowej w załogowych misjach kosmicznych. Każdy spadek temperatury poniżej tej wartości mógł spowodować nieodwracalne uszkodzenie urządzenia.
+
+W czasie dnia księżycowego naukowcy kontrolowali uwalnianie ciepła przez serię kontrolowanych upustów w wyniku czasowego odcięcia zasilania. Bezpośrednio przed za panięciem nocy księżycowej sejsmometr automatycznie przechodził w stan uśpienia całkowicie wstrzymując komunikację.
+
+Instrument przestał odpowiadać 1969-08-25 o 04:00 UTC najprawdopodobniej ze względu na przegrzanie wywołane wysoką temperaturą w ciągu dnia.
 
 
 Rezultaty
 =========
+ Za pomocą urządzeń śledzono odpowiedź sejsmiczną uderzeń meteorytów i księżycowych trzęsień ziemi. W czasie miesięcznej pracy operacyjnej urządzenia zarejestrowano około 200 kolizji meteorytowych. Dane odnośnie siły, czasu trwania i orientacyjnego kierunku zjawiska sejsmicznego przekazano do stacji odbiorczych na Ziemi.
+
+W późniejszych misjach eksperyment został zmodyfikowany i występował pod nazwą :ref:`Passive Seismic Experiment`.
