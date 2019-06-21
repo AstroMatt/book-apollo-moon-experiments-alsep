@@ -16,62 +16,18 @@ Lunar Surface Magnetometer (LSM)
 
 Przedmiot badania
 =================
-.. todo::
-    A tri-axis fluxgate magnetometer measured the variations of the magnetic field of the Moon with time. Because the magnetic field of the Moon can change in amplitude, frequency, and direction, the magnetometer measures the field in three directions with sensors located on the end of three small booms. The electronics were contained in a box at the base of the three booms. It could measure magnetic flux in nanoteslas (nT) in three ranges with a resolution of 0.2 nT:
+Pole magnetyczne Ziemi i Księżyca składa się z dwóch elementów składowych: jednej zmieniającej się w czasie oraz drugiej stabilnej. Część niestabilna jest wynikiem przejścia fal elektromagnetycznych. Część stabilna pola magnetycznego Ziemi (która wchodzi w interakcję z kompasem) przyjmuje różne wartości od 35 000 nT na równiku do 60 000 nT na biegunach. Wartość gamma pola magnetycznego Księżyca wynosi 6 do 100 nT. Jest to spowodowane obecnością naturalnie występującego zjawiska magnetyzmu w skałach księżycowych powstałych na wczesnym etapie ewolucji Księżyca, gdy pole magnetyczne było znacznie silniejsze.
 
-    -100 to +100 nT
-    -200 to +200 nT
-    -400 to +400 nT
+Obecnie uznawana teoria wyjaśnia przyczynę powstawania tego zjawiska. Gdy meteoryt znacznej wielkości uderzy w powierzchnię Księżyca w skutek uderzenia i wysokich temperatur następuje wyparowanie jak również wyrzut w kosmos jego oraz części powierzchni. Obiekty powstałe w skutek tego działania formują chmury odłamków i gazu większe niż Księżyc. W wyniku uwolnienia znacznej ilości ciepła podczas zderzenia, większość gazu zamienia się w zjonizowaną plazmę, w której atomy zostały pozbawione jednego lub więcej elektronów. Taka plazma pozbawiona jest własności magnetycznych. Chmura rozprzestrzeniając się wokół Księżyca spycha frontem własne pole magnetyczne Księżyca. Gdy plazma przemieści się wokół Księżyca (w ciągu około 5 minut od uderzenia) zepchnięte pole magnetyczne stanie się znaczne. W tym czasie odłamki skalne opadną na powierzchnię Księżyca koncentrując się na krańcach antypodalnych. W przypadku gdy formacje skalne opadną w trakcie wysokiego pola magnetycznego, mogą przejść proces nagłej magnetyzacji (ang. *shock magnetization*). Gdy skała zostaje poddana uderzeniu przez młot, może nagle stracić własności magnetyczne i przyjąć te z otaczającego regionu.
 
-    Magnetic fields of the Earth and Moon have two parts; one that changes with time, and one that is steady. The part that changes with time is caused by travelling electromagnetic waves. The steady part of the Earth’s magnetic field, which affects the common compass, varies from 35,000nT at the equator to 60,000nT at the poles, whereas the lunar magnetic field is only about 6 to 100 nT gamma, most likely due to the presence of natural magnetism in lunar rocks inherited early in the Moon’s history, when the magnetic field was much stronger that it is today. The Lunar Orbiters data inferred there was a steady magnetic field of about 8 nT. The magnetometer also measured the variation in time of the magnetic field, caused by electromagnetic waves propagated from the Sun.
+Elektryczne własności materiału tworzącego Księżyc determinują jego pole magnetyczne. W wypadku gdyby Księżyc był doskonałym izolatorem fala elektromagnetyczna wiatru słonecznego przeszła by przez niego niezakłócona i połączyła linie pola wokół Księżyca. Ten prąd wytworzył by pole magnetyczne. Pole magnetyczne niesione z wiatrem słonecznym stworzyłoby system prądów elektrycznych na Księżycu i jego powierzchni. Prady te, tworzyły by pole magnetyczne, próbujące przeciwdziałać polu wiatru słonecznego. To spowodowałoby zmianę łącznego pola magnetycznego zmierzonego na powierzchni Księżyca.
 
-    The moon has no global magnetic field like the Earth because it no longer has an internal dynamo, so it was a surprise when magnetometers placed by Apollo astronauts on the surface detected a faint magnetic field, as large as hundreds of nanoteslas. When the scientists built an electron detector that flew in lunar orbit aboard Apollo 15 in 1971 and Apollo 16 in 1972, they quickly realized they could use the instrument to remotely map the magnetic fields on the surface. Though crude and covering only about 10 percent of the lunar surface, the measurements nevertheless indicated a correlation between meteor impact basins -- dark, roughly circular features on the face of the moon and strong magnetic fields on the diametrically opposite side of the moon.
+Gdyby zaś istniały struktury geologiczne zachowujące się jak przewodnik, prąd elektryczny przepłynąłby przez niego.
 
-    Theorists came up with an explanation for magnetic fields antipodal to impact basins not long after the Apollo measurements hinted at a correlation. When a large meteorite hits the moon, it and much of the local lunar surface is vaporized and thrown into space, forming a cloud of debris and gas larger than the moon itself. Because of the heat released in the collision, much of the gas is ionised plasma in which the atoms are stripped of one or more electrons.
 
-    Such plasmas exclude magnetic fields, so as the cloud spread around the moon it pushed the moon's magnetic field in front of it. When the plasma cloud finally converged on the diametrically opposite side of the moon -- a mere five minutes after impact -- the squeezed magnetic field would be quite large.
+Celem badawczym eksperymentu był pomiar pola magnetycznego powierzchni Księżyca oraz jak naładowane cząsteczki wiatru słonecznego wchodzą w interakcję z polem magnetycznym. Część cząstek wiatru jest wchłaniana przez warstwy powierzchniowe Księżyca, a pozostała część może zostać odbita lub przeniesiona na drugą stronę Księżyca.
 
-    At the same time debris was falling back on the lunar surface, concentrated at the antipodal site also. If this debris dropped onto the surface during the time when the magnetic field was high, it could have undergone shock magnetization. When rock is shocked, as when hit with a hammer, it can suddenly lose its own magnetic field and acquire that of the surrounding region.
-
-    Scientists think that the magnetism of the Moon's surface is left over from a time when the Moon's magnetic field was actively created by a dynamo within the lunar core, and that this remnant magnetism may gradually erode away. Theories also suggest that the Moon's magnetism may come from collisions with other celestial bodies such as asteroids and comets, which might have imparted to the Moon some magnetic properties.
-
-    The LSM measured a steady 38 nanoteslas (nT) at the Apollo 12 site, and 6 nT at the Apollo 15 site.
-
-.. todo::
-    The scientific objective of the magnetometer experiment is to measure the magnetic field at .the lunar surface. Charged particles and the magnetic field of the solar wind impact directly oa the lunar surface. Some of the solar wind particles are absorbed by the surface layer of the Moon. Others may be deflected around the Moon. The electrical properties of the material making up the Moon determine what happens to the magnetic field when it hits the Moon. If the Moon is a perfect insulator the magnetic field will pass through the Moon undisturbed. If there is material present which acts as a conductor, electric currents will flow in the Moon.
-
-    Two possible models are shown in the next drawing. The electric current carried by the solar wind goes through the
-    Moon and "closes" in the space surrounding the Moon, (figure a). This current (E) generates a magnetic field (M) as shown. The magnetic field carried in the solar wind will set up a system of electric currents in the Moon or along the surface. These currents will generate another magnetic field which tries to counteract the solar wind field, (figure b). This results in a change in the total magnetic field measured at the lunar surface.
-
-    The magnitude of this difference can be determined by independently measuring the magnetic field in the undisturbed solar wind nearby, yet away from the Moon's surface. It is planned to obtain this data from Explorer 35, the unmanned spacecraft now in lunar orbit. The value of the magnetic field change at the Moon's surface can then be used to deduce information on the electrical properties of the Moon. This, in turn, can be used to better understand the internal temperature of the Moon and contribute to better understanding of the origin and history of the Moon.
-
-    The design of the tri-axis flux-gate magnetometer and analysis of experiment data are the responsibility of Dr. Charles P. Sonett - NASA/Ames Research Center; Dr.' Jerry Modisette - NASA/Manned Spacecraft Center; and Dr. Palmer Dyal - NASA/Ames Research Center,
-
-    The magnetometer consists of three magnetic sensors aligned in three orthogonal sensing axes, each located at the end of a fiberglass support arm extending from a central structure. This structure houses both the experiment electronics and the electro-mechanical gimbal/flip unit which allows the sensor to be pointed in any direction for site survey and calibration modes. The astronaut aligns the magnetometer experiment to within +3° East-West using a shadwograph on the central structure, and to within +3° of the vertical using a bubble level mounted on the Y sensor boom arm.
-
-.. todo::
-    Size, weight and power are as follows:
-        Size (inches) deployed      40 high with 60 between sensor heads
-        Weight (pounds)             17.5
-        Peak Power Requirements (watts):
-
-            Site Survey Mode 11.5
-            Scientific Mode 6.2 12.3 (night)
-            Calibration Mode 10.8
-
-    The magnetometer experiment operates in three modes:
-
-        Site Survey Mode - An initial site survey is performed in each of the three sensing modes for the purpose of locating and identifying any magnetic influences permanently inherent in the deployment site so that they will not affect the interpretation of the ME sensing of magnetic flux at the lunar surface. Although no measurable lunar magnetic field has been detected to date, the possibility of localized magnetism remains; thus this precaution must be taken.
-
-        Scientific Mode - This is the normal operating mode wherein the strength and direction of the lunar magnetic field are measured continuously. The three magnetic sensors provide signal outputs proportional to the incidence of magnetic field components parallel to their respective axes. Each sensor will record the intensity three times per second which is faster than the magnetic field is expected to change. All sensors have the capability to sense over any one of three dynamic ranges with a resolution of 0.2 gamma (*):
-
-        -100 to +100 gamma
-        -200 to +200 gamma
-        -400 to +400 gamma
-
-        (*) Gamma is a unit of intensity of a magnetic field. The Earth at the equator, for example, is 35,000 gamma. The interplanetary magnetic field from the Sun has been recorded at 5 to 10 gamma.
-
-        Calibration Mode - This is performed automatically at 12- hour intervals to determine the absolute accuracy of the magnetometer sensors and to correct any drift from their laboratory calibration.
+Pomiaru można dokonać za pomocą niezależnego zbadania różnic wartości potencjału elektrycznego wiatru słonecznego przy powierzchni jak również niezakłóconego w trakcie sondowania z orbity. Do tego celu wykorzystano misję robotyczną Explorer 35 orbitującą wokół Księżyca. Zmiana wartości pola magnetycznego na powierzchni Księżyca może być wykorzystana do określenia własności elektrycznych Księżyca. To może przyczynić się do lepszego zrozumienia wewnętrznej temperatury i poznania pochodzenia oraz historii tego ciała niebieskiego.
 
 
 Materiały i metody
@@ -81,10 +37,43 @@ Materiały i metody
 
     Diagram przedstawia eksperyment Lunar Surface Magnetometer (LSM). Źródło: :cite:`Apollo12PressKit`.
 
+Za projekt trójosiowego magnetometru transduktorowego (ang. *tri-axis fluxgate magnetometer*), jak również za późniejszą analizę danych odpowiadali Dr Charles P. Sonett (NASA/Ames Research Center), Dr Jerry Modisette (NASA/Manned Spacecraft Center) i Dr Palmer Dyal (NASA/Ames Research Center).
+
+Parametry techniczne:
+
+    * Wielkość po rozłożeniu: 101,6 cm wysokości, z 152,4 cm odległości od głowicy
+    * Masa: 7,94 kg
+    * Szczytowy pobór mocy:
+
+        * Tryb rozpoznania lokacji: 11,5 W
+        * Tryb naukowy w dzień: 6,2 W
+        * Tryb naukowy w nocy: 12,3 W
+        * Tryb kalibracji: 10,8 W
+
+Magnetometr pozwalał na pracę w trzech trybach:
+
+    * Tryb rozpoznania lokacji (ang. *Site Survey Mode*) - Stan początkowy przed przejściem do każdego pozostałego trybu. Stworzony w celu lokalizacji oraz identyfikacji wpływu magnetycznego obecnego na miejscu pomiaru. Zastosowany w celu likwidacji jego wpływ przy późniejszej interpretacji danych.
+
+    * Tryb naukowy (ang. *Scientific Mode*) - Normalny tryb operacyjny, w k†óry wartość pola magnetycznego oraz jego skierowanie jest stale rejestrowane. Trzy sensory magnetyczne dostarczają sygnał proporcjonalny do występowania składowych równoległych odpowiednio do ich osi. Każdy czujnik próbkuje z częstotliwością 3 Hz, co było wartością większą niż oczekiwana częstotliwość zmian pola magnetycznego. Wszystkie sensory miały możliwość rejestrować zmiany z rozdzielczością 0,2 nT (nano Tesli)  w trzech zakresach:
+
+        * -100 do +100 nT,
+        * -200 do +200 nT,
+        * -400 do +400 nT.
+
+    * Tryb kalibracyjny (ang. *Calibration Mode*) - Włączany automatycznie w 12 godzinnych interwałach w celu precyzyjnego ustawienie czujników magnetometru i poprawy dryftu od wartości referencyjnych ustawionych laboratoryjnie.
+
 
 Przebieg eksperymentu
 =====================
+Podczas misji :ref:`Apollo 15` w 1971 roku i później podczas :ref:`Apollo 16` w 1972 roku na orbicie Księżyca umieszczono wykrywacz elektronowy. Urządzenie wykorzystano do wykonania zdalnego mapowania pola magnetycznego powierzchni. Pomiar ten pozwolił na pokrycie 10% powierzchni Księżyca i umożliwił dostrzeżenie korelacji między kraterami meteorytowymi (ang. *meteor impact basins*) - ciemniejsze, o najczęściej kolistym kształcie na stronie Księżyca zorientowanej do Ziemi, od silnego pola magnetycznego po przeciwnej stronie (niewidocznej z Ziemi).
+
+W wyniku pomiarów pola magnetycznego za pomocą orbitujących satelit można było określić średnią wartość pola równą 8 nT. Magnetometr również dokonał pomiaru wariacji w czasie spowodowanej propagacją fali elektromagnetycznej w wyniku :term:`SPE`. Księżyc w przeciwieństwie do Ziemi nie posiada pola magnetycznego. Jest to spowodowane brakiem wewnętrznego procesu wywołującego efekt dynamo. Okazało się zaskoczeniem, gdy magnetometr ustawiony przez astronautów programu Apollo wykrył nikłe pole magnetyczne o wartości kilkuset nano Tesli.
+
+W trakcie eksperymentu :ref:`Lunar Surface Magnetometer` trójosiowy magnetometr transduktorowy (ang. *tri-axis fluxgate magnetometer*) mierzył zmiany pola magnetycznego Księżyca w czasie. Ze względu na możliwość zmiany amplitudy, częstotliwości oraz kierunku pola magnetycznego Księżyca sensor dokonywał pomiarów w trzech wymiarach za pomocą czujników umieszczonych na ortogonalnych niewielkich wysięgnikach zrobionych z włókna szklanego. Wysuwające części były się ze :ref:`stacji centralnej <Central Station>`. Układ elektroniczny mieścił się w osłonie u podstawy trzech wysięgników. Było to również miejsce, gdzie zlokalizowano elektromechaniczny żyroskop, który pozwalał na ustawienie sensorów w dowolnym kierunku w trybie kalibracji. Astronauta ustawiał magnetometr w przedziale +3° w kierunku Wschód zachód używając wskaźnika cienia (ang. *shadwograph*) na centralnej strukturze, jak również wewnątrz marginesu +3° w osi pionowej używając poziomicy zamontowanej na ramieniu wysięgnika sensorów.
 
 
 Rezultaty
 =========
+Uważa się, że magnetyzm powierzchni Księżyca jest pozostałością z czasu, gdy jego pole magnetyczne było aktywnie tworzone w rezultacie efektu dynamo przez jądro. Ten szczątkowy magnetyzm jest w fazie zaniku. Pozostały efekt magnetyczny może być również spowodowany zderzeniem lub zderzeniami w przeszłości z innymi ciałami niebieskimi tj. asteroidy czy komety, które mogły przyczynić się do nadania szczątkowych własności magnetycznych.
+
+Eksperyment :term:`LSM` udokumentował stały pomiar na poziomie 38 nT dla miejsca lądowania :ref:`Apollo 12` i 6 nT dla :ref:`Apollo 15`.

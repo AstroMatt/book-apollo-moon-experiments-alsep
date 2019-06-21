@@ -143,7 +143,7 @@ Słownik nazw
 
     MET
     handcart
-    Mobile Equipment Transporter
+    Modular Equipment Transporter
         Dwuwłókowy wózek wykorzystywany podczas misji :ref:`Apollo 14` w celu transportowania narzędzi, kontenerów, zapasowych filmów i odłamków skalnych.
 
     RTG
