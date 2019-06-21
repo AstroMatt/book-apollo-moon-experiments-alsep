@@ -10,6 +10,7 @@ __pycache__/
 .ipynb_checkpoints
 *virtualenv*/
 *venv*/
+.venv-*/
 
 ## Distribution / packaging
 build/

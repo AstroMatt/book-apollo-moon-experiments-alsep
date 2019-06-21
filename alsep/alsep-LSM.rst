@@ -49,6 +49,7 @@ Przedmiot badania
 
     The magnetometer consists of three magnetic sensors aligned in three orthogonal sensing axes, each located at the end of a fiberglass support arm extending from a central structure. This structure houses both the experiment electronics and the electro-mechanical gimbal/flip unit which allows the sensor to be pointed in any direction for site survey and calibration modes. The astronaut aligns the magnetometer experiment to within +3° East-West using a shadwograph on the central structure, and to within +3° of the vertical using a bubble level mounted on the Y sensor boom arm.
 
+.. todo::
     Size, weight and power are as follows:
         Size (inches) deployed      40 high with 60 between sensor heads
         Weight (pounds)             17.5
