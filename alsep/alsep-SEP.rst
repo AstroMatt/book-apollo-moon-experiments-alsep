@@ -16,10 +16,9 @@ Surface Electrical Properties Experiment (SEP)
 
 Przedmiot badania
 =================
-.. todo::
-    This experiment consisted of a transmitting antenna deployed near the Lunar Module and a receiving antenna on the Rover. At several different traverse stops, electrical signals were transmitted through the regolith and recorded on the Rover. Comparison of the transmitted and received signals allowed the electrical properties of the regolith to be determined. This information was intended to provide "ground truth" for the analysis of orbital observations by the Bistatic Radar and Lunar Sounder Experiments. In addition, the results of this experiment showed that the upper 2 kilometers of the lunar surface are extremely dry, which is consistent with measurements of lunar rock composition.
+:ref:`Surface Electrical Properties Experiment` wykonano aby określić przewodność elektromagnetyczną, absorpcję i charakterystykę odbicia powierzchni Księżyca oraz warstw przypowierzchniowych w celu późniejszego wytworzenia modelu geologicznego górnych warstw skorupy księżyca.
 
-    The purpose of the SEP experiment was to obtain data about the electromagnetic energy transmission, absorption, and reflection characteristics of the lunar surface and subsurface for use in the development of a geological model of the upper layers of the moon. This experiment determined layering, searched for pressure of water below the surface, and measured electrical properties in situ, determining these as a function of depth. The selected frequency range was chosen to measure these properties in a range from a few meters to a few kilometers depth. The transmitter produced continuous waves at 1, 2.4, 4, 8.1, 16, and 32.1 MHz, successively. These waves permitted measurement of the size and number of scattered bodies in the subsurface. Any moisture present was easily detected because minute amounts of water in rocks or subsoil change the electrical conductivity by several orders of magnitude. The equipment for this experiment consisted of a deployable self-contained transmitter, a multiple frequency transmitter antenna, a portable receiver/recorder on the Rover, a wide-bandwidth mutually orthogonal receiver antenna, and a retrievable data recording device. The crew transported and set up the transmitter approximately 100 meters from the Lunar Module and then deployed the antennas. The receiver/recorder was placed on the Lunar Rover. The crew established the location of the Rover in relation to the transmitter for each data stop during the traverse. Wheel turns were counted for distance, and differences between wheel turns on the right and left sides of the vehicle were used to compute azimuth. The recorder was then returned to Earth.
+Częstotliwości fali generowanej przez transmiter pozwalały na określenie właściwości obiektów podpowierzchniowych. Obecność wody powoduje zmianę przewodności elektrycznej wynoszącą kilka rzędów wielkości. Wszelkie ślady wody zostały by wykryte.
 
 
 Materiały i metody
@@ -27,22 +26,31 @@ Materiały i metody
 .. figure:: img/alsep-SEP-transmitter.jpg
     :name: figure-alsep-SEP-transmitter
 
-
-    Diagram przedstawia nadajnik Surface Electrical Properties Experiment (SEP). Źródło: NASA/AS17-134-20438 :cite:`Lindsay2008`.
-
-    .. todo:: Photo shows Jack Schmitt as he reaches down to open a three-segment solar array that powers the SEP transmitter.  The transmitter is located at the intersection of a cross of Rover tracks that Gene layed out prior to the deployment.  The antenna wires runing off to the south (upper left), east (lower left, and south (lower right) can be seen in the image. This frame is part of a partial panorama (assembled by David Nathan) that Gene took of the deployment.  The panorama shows more of the antenna layout. NASA photo AS17-141-21511 shows the transmitter as deployed, including pieces of duct tape used by the crew to keep the solar array open.
+    Zdjęcie przedstawia nadajnik :ref:`Surface Electrical Properties Experiment`. Astronauta Jack Schmitt jest w trakcie schylania się w celu otworzenia trójdzielnego zestawu paneli fotowoltaicznych, które generują zasilanie dla :term:`SEP`. Transmiter jest zlokalizowany na przecięciu śladów łazika :term:`LRV`, które Gene Cernan pozostawił przed rozłożeniem eksperymentu. Na zdjęciu widać połączenie kablowe anteny w kierunku południowym (górna lewa strona), wschodnim (dolna lewa strona) i znów na południowym (dolne prawa strona). Zdjęcie jest częścią panoramy stworzonej przez David Nathan, której części astronauta Cernan wykonał podczas rozstawiania eksperymentu. Zdjęcie przedstawia również zastosowanie srebrnej taśmy (ang. *duct tape*) użytej przez załogę w celu przytrzymania otwartych paneli słonecznych. Źródło: NASA/AS17-134-20438 :cite:`Lindsay2008`.
 
 .. figure:: img/alsep-SEP-receiver.jpg
     :name: figure-alsep-SEP-receiver
 
-    Diagram przedstawia odbiornik Surface Electrical Properties Experiment (SEP). Źródło: NASA/AS17-135-20543 :cite:`Lindsay2008`.
+    Zdjęcie przedstawia odbiornik :ref:`Surface Electrical Properties Experiment` zamontowany na tyle siedzenia :term:`LMP` zamontowanego na łaziku :term:`LRV`. Źródło: NASA/AS17-135-20543 :cite:`Lindsay2008`.
 
-    .. todo:: NASA photo AS17-135-20543 shows the components of the SEP Receiver mounted behind the LMP's Rover seat. The electronics and data recorder are stowed in a bag designed to provide thermal protection. Failure of adhesive on the back of Velcro patches that held the bag cover closed led to overheating, which significantly limited the amount of useful data collected.
+Eksperyment :ref:`Surface Electrical Properties Experiment` składał się z wieloczęstotliwościowej transmitującej anteny rozłożonej w pobliżu lądownika księżycowego :term:`LM` i przenośnej szerokopasmowej wzajemnie ortogonalnej anteny odbiorczej z odzyskiwalnym rejestratorem znajdującej się na :term:`LRV`.
+
+Transmiter wytwarzał falę ciągłą na częstotliwościach 1; 2,2; 4; 8,1; 16 i 32.1 MHz.
 
 
 Przebieg eksperymentu
 =====================
+W trakcie eksploracji powierzchni podczas postojów łazika transmitowano sygnał elektryczny przez regolit księżycowy. Pomiar był rejestrowany na urządzeniu zamontowanym na łaziku. Porównanie sygnału transmitowanego oraz odbieranego pozwoliły na wyznaczenie właściwości elektrycznych regolitu. Informacja ta miała za zadanie potwierdzić analizę wykonaną z orbity za pomocą :term:`Bistatic Radar and Lunar Sounder Experiments`.
+
+Astronauci przetransportowali i rozstawili transmiter około 100 m od lądownika :term:`LM` a następnie ustawili anteny. Odbiornik i rejestrator został umieszczony na :term:`LRV`. Zespół określał położenie łazika w odniesieniu do transmitera za każdym razem, podczas zatrzymywania się pojazdu w celu dokonania pomiaru. W celu określenia dystansu zliczano ilość obrotów kół, a różnica pomiędzy liczbą obrotów prawego i lewego koła pozwalała na wyliczenie azymutu.
+
+Po dokonaniu pomiarów i powrocie do punktu startowego astronauci wymontowali rejestrator i zabrali na Ziemię w celu analizy danych.
 
 
 Rezultaty
 =========
+Eksperyment pozwolił na określenie warstw, poszukiwanie złóż wody podpowierzchniowej i pomiar właściwości in situ jako funkcja głębokości. Wybrany zakres częstotliwości pozwalał na określenie powyższych cech dla głębokości od kilku metrów do kilku kilometrów.
+
+Ponadto wykazano, że górne 2 km skorupy Księżyca są ekstremalnie wysuszone, co jest spójne z pomiarami składu skał księżycowych.
+
+Elementy elektroniczne i rejestrator zostały ukryte w obudowie zaprojektowanej w celu ochrony termicznej. Niesprawność spoiwa na tylnej stronie rzepu, który przytrzymywał osłonę zamkniętą spowodował przegrzanie urządzenia, co znacząco wpłynęło na ilość użytecznych danych zebranych w trakcie eksperymentu.

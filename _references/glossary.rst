@@ -153,3 +153,15 @@ Słownik nazw
 
     Apollo
         Załogowy program kosmiczny, którego celem był lot człowieka na Księżyc.
+
+    Bistatic Radar and Lunar Sounder Experiments
+        Eksperyment pomiary właściwości elektrycznych powierzchni Księżyca przeprowadzony z orbity.
+
+    CDR
+        Commander
+
+    LMP
+        Lunar Module Pilot
+
+    CMP
+        Command Module Pilot
