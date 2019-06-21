@@ -16,14 +16,7 @@ Lunar Surface Gravimeter Experiment (LSG)
 
 Przedmiot badania
 =================
-.. todo::
-    Only flown on Apollo 17 ALSEP, the LSG’s major goal was to confirm the existence of gravity waves as predicted by Einstein; to measure the response of the Moon to the Earth’s tidal pull; and to detect free lunar oscillations in periods of 15 minutes or longer. It could also measure vertical components of seismic events with frequencies up to 16 cycles per second, thus supplementing the passive seismic network of Apollo 12, 14, 15 and 16 missions.
-
-    This instrument was designed to make very accurate (1 part in 1011) measurements of the lunar gravity and of its variation with time. It was essentially a sensitive spring balance, and also functioned as a one-axis seismometer. Its intent was to measure gravity waves by using the Moon as an antenna and also investigate tidal distortions of the shape of the Moon. Following deployment of the gravimeter during Apollo 17, problems occurred in trying to balance the beam. These problems were caused by a mathematical error in the sensor mass weights. Several reconfigurations of the instrument had been made during the previous year.
-
-    It was discovered on EVA 2 that the sensor beam of the LSG could not be nulled (using the micrometer screw adjustment of the instrument), even though Harrison Schmitt re-verified that the instrument was level and the gimbal was free. Later analysis showed a design (arithmetic) error of the sensor mass weights. They were approximately 2% lighter than the proper nominal weight for one sixth gravity operation of the flight unit. The sensor mechanism allowed up to only 1.5% adjustment from the nominal for possible inaccuracies. The error was made in the conversion calculations from 1 g to 1/6 g for the flight unit by including an erroneous value in the calculations from the uncorrected calculations for the qualification unit.
-
-    Repairs were attempted on EVA 2 and 3, but were unsuccessful. Schmitt rapped the exposed top plate on the gimbal; rocked the experiment in all directions; re-levelled the instrument, working the base well against the surface; and verified the sunshade tilt. These actions were taken to free a mass assembly or a sensor beam that was suspected of being caught or bound, but no change was apparent. The problem was at least partly overcome by applying pressure on the beam with the mass-changing mechanism beyond the design point by addition of all included masses so that it contacted the beam. Much valuable EVA time (about 30 minutes) was spent on the attempt.
+Eksperyment :ref:`Lunar Surface Gravimeter Experiment` był wykonany tylko raz podczas misji :ref:`Apollo 17`. Głównym celem :term:`LSG` było potwierdzenie istnienia fal grawitacyjnych zgodnie z przewidywaną przez Einsteina teorią. W tym celu dokonano pomiaru odpowiedzi Księżyca na przeciąganie pływowe Ziemi. Badano również wolną oscylację Księżyca w cyklach 15-sto minutowych i dłuższych. Zmierzono pionową składową zjawisk sejsmicznych o częstotliwościach do 16 Hz, dodatkowo uzupełniając dane z eksperymentu :ref:`Passive Seismic Experiment` z misji :ref:`Apollo 12`, :ref:`14 <Apollo 14>`, :ref:`15 <Apollo 15>` i :ref:`16 <Apollo 16>`.
 
 
 Materiały i metody
@@ -41,15 +34,19 @@ Materiały i metody
 .. figure:: img/alsep-LSG-photo.jpg
     :name: figure-alsep-LSG-photo
 
-    Zdjęcie przedstawia eksperyment Lunar Surface Gravimeter Experiment (LSG). Źródło: NASA/AS17-134-20501 :cite:`Lindsay2008`.
+    Zdjęcie wykonane podczas :term:`EVA` 3 przedstawia eksperyment Lunar Surface Gravimeter Experiment (LSG). W tle widać :term:`stację centralną <Central Station>` z elementem :term:`RTG` po lewej i modułem lądownika :term:`LM` w tle. Przed wykonaniem tego zdjęcia astronauta Jack Schmitt tymczasowo pozostawił :ref:`UHT` w pobliżu urządzenia :ref:`LSG`. Źródło: NASA/AS17-134-20501 :cite:`Lindsay2008`.
 
-    .. todo:: Documentation photo of the deployed LSG taken late in EVA-3. The Central Station is in the background at center with the RTG to the left and the LM in the distance beyond the RTG. Before taking this photo, Jack Schmitt planted the tongs, temporarily, next to the LSG on the left.
-
+Planowano użyć Księżyca jako anteny do badania fal grawitacyjnych i poznania przyczyny pływowego odkształcenia Księżyca. Instrument zaprojektowano w celu wykonania bardzo dokładnych (1 część z 1011) pomiarów grawitacyjnego pola księżycowego i jego zmiany w czasie. Urządzenie w założeniu było bardzo czułą wyważoną sprężyną, która funkcjonowała również jako jednoosiowy sejsmometr.
 
 
 Przebieg eksperymentu
 =====================
+Po rozstawieniu przyrządu grawimetru podczas drugiego :term:`EVA` w trakcie misji :ref:`Apollo 17` odkryto, że wskaźnik sensora :ref:`LSG` nie może zostać ustawiony w pozycji zerowej używając śruby mikrometrycznej urządzenia. Problem pozostawał nawet po ponownym zapewnieniu poprawnego ustawienia, wypoziomowania i sprawdzenia pozycji przegubu Kardana (ang. *gimbal*).
+
+Podczas :term:`EVA` 2 i 3 próbowano naprawy urządzenia lecz bez powodzenia. Astronauta Schmitt pukał w odkrytą górną pokrywę przegubu Kardana, wstrząsał eksperymentem we wszystkich kierunkach, ponownie wypoziomował instrument opierając o twarde podłoże oraz zweryfikował ustawienie kąta nachylenia osłony przeciwsłonecznej. Wszystkie te działania były wykonane w celu uwolnienia elementu masowego lub wskaźnika, który jak przypuszczano móg być zablokowany. Problem częściowo udało się rozwiązać poprzez wywołanie nacisku na wskaźnik za pomocą mechanizmu o zmiennej masie. Wartość ta była znacznie większa niż limity z którymi zaprojektowano urządzenie. Spowodowało to częściowe skrócenie wskaźnika. Na wykonywanie prób naprawy poświęcono około 30 minut podczas :ref:`EVA`.
 
 
 Rezultaty
 =========
+Późniejsza analiza wykazała, że problem był spowodowany błędem arytmetycznym w czujniku mas. Element był około 2% lżejszy niż poprawny dla operacji w polu grawitacyjnym o przyciąganiu wynoszącym 1/6 wartości na Ziemi. Ustawienia sensora za pomocą śruby mikrometrycznej pozwalały jedynie na poprawki do 1,5% w celu likwidacji niewielkich odchyłów i niedokładności. Błąd był wynikiem wielu rekonfiguracji urządzenia w roku poprzedzającym lot i pomyłki w konwersji wartości przyciągania grawitacyjnego z 1 g do 1/6 g.
+
