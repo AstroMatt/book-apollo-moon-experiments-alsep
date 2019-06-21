@@ -36,4 +36,4 @@ Eksperyment wykonano raz podczas całego programu Apollo w trakcie misji :ref:`A
 
 Rezultaty
 =========
-Rezultaty pozwoliły na określenie, że w ciągu dnia Księżyc poddawany jest bombardowaniu niskoenergetycznych foto-elektronów. Ich wariancja zmienia się wraz natężeniem strumienia wiatru słonecznego. Niespodziewanym odkryciem podczas eksperymentu :ref:`Charged Particle Lunar Environmental Experiment` okazało się zaobserwowanie elektronów w ogonie magnetycznym Ziemi o potencjale porównywalnym z wartościami wiązania w Ziemskich zorzach polarnych.
+Rezultaty pozwoliły na określenie, że w ciągu dnia Księżyc poddawany jest bombardowaniu niskoenergetycznych foto-elektronów. Ich wariancja zmienia się wraz natężeniem strumienia pola wiatru słonecznego. Niespodziewanym odkryciem podczas eksperymentu :ref:`Charged Particle Lunar Environmental Experiment` okazało się zaobserwowanie elektronów w ogonie magnetycznym Ziemi o potencjale porównywalnym z wartościami wiązania w Ziemskich zorzach polarnych.

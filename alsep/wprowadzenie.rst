@@ -7,7 +7,7 @@ O pakiecie ALSEP
 
 Księżyc bombardowany jest wiatrem słonecznych, który składa się z naładowanych cząstek, w większości protonów i elektronów emanujących ze Słońca. Wiatr niesie ze sobą również międzyplanetarne pole magnetyczne :cite:`Apollo12PressKit`.
 
-Planeta Ziemia otoczona jest polem magnetycznym, które chroni ją przed bezpośrednim wypływem strumienia wysokoenergetycznych cząstek. Księżyc, ma zaniedbywalne pole magnetyczne. Z tego względu powierzchnia Księżyca narażona jest na wpływ szkodliwego promieniowania :cite:`Apollo12PressKit`.
+Planeta Ziemia otoczona jest polem magnetycznym, które chroni ją przed bezpośrednim wypływem strumienia pola wysokoenergetycznych cząstek. Księżyc, ma zaniedbywalne pole magnetyczne. Z tego względu powierzchnia Księżyca narażona jest na wpływ szkodliwego promieniowania :cite:`Apollo12PressKit`.
 
 Eksperymenty z pakietu Apollo Lunar Surface Experiments Package (ALSEP) były przeznaczone do zbadania szkodliwego wpływu wiatru słonecznego, powierzchni księżyca oraz sejsmiki Księżyca. Część eksperymentów była zaprojektowana aby mierzyć i przesyłać informacje po opuszczeniu powierzchni przez astronautów.
 

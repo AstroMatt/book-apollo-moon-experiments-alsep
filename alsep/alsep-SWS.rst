@@ -8,7 +8,7 @@ Solar Wind Spectrometer (SWS)
 .. csv-table:: Solar Wind Spectrometer (SWS)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Jet Propulsion Laboratory, California"
+    "Ośrodek badawczy", "Jet Propulsion Laboratory"
     "Misje", "Apollo 12, 15"
     "Nazwa eksperymentu (j. ang.)", "Solar Wind Spectrometer"
     "Nazwa eksperymentu (j. pol.)", "Pomiar spektrometryczny wiatru słonecznego"
@@ -16,40 +16,11 @@ Solar Wind Spectrometer (SWS)
 
 Przedmiot badania
 =================
-.. todo::
-    The solar wind is composed of matter ejected continuously from the Sun that spreads throughout the Solar System. The energy, density, direction of travel, and its variations were measured by the SWS. Seven sensors were located under dust shields, allowing a study of the solar wind at the lunar surface, the general properties of the solar wind and its interaction with the Moon. The solar wind stretches the Earth’s magnetic field out behind the Earth, beyond the Moon’s orbit, so the SWS also studied the Earth’s magnetic tail when the Moon passed through it.
+Wiatr słoneczny składa się z materii stale wyrzucanej ze Słońca. Cząstki te rozprzestrzeniają się w Układzie Słonecznym. Wiatr słoneczny rozciąga pole magnetyczne Ziemi daleko poza samą planetę, przekraczając orbitę Księżyca.
 
-    The Apollo 12 SWS surprised the scientists by continuing to send data after the Sun had set. Dr Conway Snyder of JPL said, "The spectrometer didn't quit sending data – it continued to send back information on protons and even photo electrons several minutes after the Sun had stopped shining on it." He suspected the protons were sneaking around the edge of the Moon.
+Eksperyment :ref:`Solar Wind Spectrometer` pozwalał na zbadanie energii, gęstości, kierunku i wariancji wyżej wymienionych parametrów. jak również również na badanie pola magnetycznego Ziemi gdy Księżyc przez nie przekraczał.
 
-    The SWS found the solar wind behaved the same as in free space outside the Earth’s magnetic tail and is slightly disturbed in the geomagnetic transition region. The surprise was the detection of a gas cloud from the Apollo 13 Saturn-IV impact.
-
-
-.. todo::
-    The Solar Wind Spectrometer will measure the strength, velocity and directions of the electrons and protons which emanate from the Sun and reach the lunar surface. The solar wind is the major external force working on the Moon's surface. The spectrometer measurements will help interpret the magnetic field of the Moon, the lunar atmosphere and the analysis of lunar samples.
-
-    Knowledge of the solar wind will help us understand the origin of the Sun and the physical processes at work on the Sun, i.e., the creation and acceleration of these particles and how they propagate through interplanetary space.
-
-    It has been calculated that the solar wind puts one kiloton of energy into the Earth's magnetic field every second. This enormous amount of energy influences such Earth's processes as the aurora, ionosphere and weather. Although it requires twenty minutes for a kiloton to strike the Moon its effects should be apparent in m any w ays.
-
-    In addition to the Solar Wind Spectrometer, an independent experiment (the Solar Wind Composition Experiment) will collect the gases of the solar wind for return to Earth for analysis.
-
-    The design of the spectrometer and the subsequent data analysis are the responsibility of Dr. Conway Snyder, Dr. Douglas Clay and Dr. Marcia Neugebauer of the Jet Propulsion Laboratory.
-
-    Seven identical modified Faraday cups (an instrument that traps ionized particles) are used to detect and collect solar wind electrons and protons. One cup is to the vertical, where- as the remaining six cups surround the vertical where the angle between the normals of any two adjacent cups is approximately 60 degrees. Each cup measures the current produced by the charged particle flux entering into it. Since the dups are identical, and if the particle flux is equal in each direction, equal current will be produced in each cup. If the flux is not equal in each direction, analysis of the amount of current in the seven cups will determine the variation of particle flow with direction. Also, by successively changing the voltages on the grid of the cup and measuring the corresponding current, complete energy spectra of both electrons and protons in the solar wind are produced.
-
-    Data from each cup is processed in the ALSEP data subsystem. The measurement cycle is organized into 16 sequences of 186 ten-bit words. The instrument weighs 12.5 pounds, has an input voltage of about 28.5 volts and has an average input power of about 3.2 watts. The measurement ranges are as follows:
-
-    Electrons
-        High gain modulation        10.5 - 1376 eV (electron volts)
-        Low gain modulation         6.2 - 817 eV
-
-    Protons
-        High gain modulation        75 - 9600 eV
-        Low gain modulation         45 - 5700 eV
-
-    Field of View                   6.0 Steradians
-    Angular Resolution              15° (approximately)
-    Minimum Flux Detectable         106 particles/cm2/sec
+Poza :ref:`Solar Wind Spectrometer` przeprowadzono także niezależny eksperyment :ref:`Solar Wind Composition Experiment`, który polegał na zebraniu próbek gazów wiatru słonecznego celem transportu ich na Ziemię i w celu analizy laboratoryjnej.
 
 
 Materiały i metody
@@ -69,10 +40,44 @@ Materiały i metody
 
     Zdjęcie przedstawia eksperyment Solar Wind Spectrometer (SWS). Konfiguracja po rozstawieniu urządzenia. Źródło: NASA/AS15-86-11593 :cite:`Lindsay2008`.
 
+Urządzenie składało się z 7 sensorów zlokalizowanych pod pokrywą chroniącą przed pyłem księżycowym. Pozwalało na pomiar wiatru słonecznego na powierzchni księżyca, określenie jego głównych właściwości i interakcji z Księżycem.
+
+Instrument miał masę 5,44 kg. Jego napięcie wejściowe wynosiło 28,5 V a średnia wartość pobieranej mocy wynosiła 3,2 W. Zakresy pomiarowe urządzenia:
+
+    * elektrony:
+
+        * modulacja wysokiego wzmocnienia: 10,5 - 1376 eV (elektronowoltów),
+        * modulacja niskiego wzmocnienia: 6,2 - 817 eV,
+
+    * protony:
+
+        * modulacja wysokiego wzmocnienia: 75 - 9600 eV,
+        * modulacja niskiego wzmocnienia: 45 - 5700 eV,
+
+    * zakres obserwacji: 6,0 sr (steradianów)
+    * rozdzielczość kątowa: 15° (w przybliżeniu)
+    * minimalny wykrywalny strumień pola: 106 cząstek/cm2/s
+
+Za eksperyment odpowiedzialni byli: Dr Conway Snyder, Dr Douglas Clay and Dr Marcia Neugebauer z :term:`Jet Propulsion Laboratory`.
+
 
 Przebieg eksperymentu
 =====================
+Siedem jednakowo zmodyfikowanych kubków - klatek Faradaja, będących pułapkami dla zjonizowanych cząstek, użyto w celu detekcji i zebrania elektronów i protonów wchodzących w skład wiatru słonecznego. Jeden kubek ustawiono w pozycji pionowej. Pozostałe sześć kubków otaczało go i było ustawione w taki sposób, że normalna dwóch przyległych kubków była skierowana pod kątem 60 stopni. Każdy kubek dokonywał pomiaru prądu indukowanego ze strumienia pola cząstek wpadających do niego. Jako, że pojemniki były identyczne, a strumień pola równy w każdym kierunku zanotowane wartości każdego z kubeczków powinny być takie same. Nierównomierne rozłożenie może być interpretowane jako wariacja w kierunku napływu strumienia pola cząstek.
+
+Kolejno zmieniając napięcia w sieci detektorów i mierząc ich wpływ na przepływ prądu, można uzyskać pełny obraz spektrum energii zarówno elektronów jak i protonów wiatru słonecznego.
+
+Dane zebrane przez detektory były przetwarzane przez odpowiedni podsystem zestawu ALSEP. Cykle pomiarowe zostały zorganizowane w 16 sekwencjach 186 dziesięciobitowych słów.
 
 
 Rezultaty
 =========
+Wiatr słoneczny jest główną zewnętrzną siłą oddziałującą na powierzchnię na Księżyca. Pomiary spektrometryczne pozwoliły na interpretację pola magnetycznego Księżyca, jego atmosfery i analizę próbek gruntu.
+
+Eksperyment SWS zrealizowany podczas misji Apollo 12 przekroczył oczekiwania naukowców i wysyłał dane nie tylko o protonach ale również o fotoelektronach jeszcze przez kilka minut po zachodzie słońca.
+
+Eksperyment SWS pokazał, że wiatr słoneczny zachowuje się tak samo wolnej przestrzeni kosmicznej jak poza polem magnetycznym Ziemi, jak podczas przechodzenia przez jej ogon magnetyczny. Nieznacznie wtedy ulega zakłóceniom. Podczas :ref:`Apollo 15` z nieoczekiwanym efektem ukazało się obserwacja chmury gazu unoszącego się po uderzeniu członu rakiety Saturn-IV z :term:`Apollo 13`.
+
+Poznanie składu wiatru słonecznego pozwoliło na lepsze zrozumienie pochodzenia z słońca i określenie procesów w nim zachodzących. Pozwoliło na poznanie procesu tworzenia i przyspieszania cząsteczek, jak również ich propagacji przez przestrzeń międzyplanetarną.
+
+Oszacowano, że Słońce każdej sekundy deponuje wartość równą 1 kilotony energii w polu magnetycznym Ziemi. Efektem tego są zorze polarne, procesy zachodzące w jonosferze oraz zmiany pogodowe.

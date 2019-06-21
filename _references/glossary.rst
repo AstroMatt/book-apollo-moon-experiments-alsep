@@ -166,3 +166,10 @@ Słownik nazw
 
     CMP
         Command Module Pilot
+
+    JPL
+    Jet Propulsion Laboratory
+        Instytut badawczy NASA
+
+    Apollo 13
+        Misja Apollo, która ze względu na problemy techniczne nie dotarła do powierzchni Księżyca. Po kilku dniach udało się sprowadzić astronautów na Ziemię wykorzystując manewr Free Return Trajectory.
