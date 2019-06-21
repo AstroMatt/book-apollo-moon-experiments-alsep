@@ -24,9 +24,7 @@ Materiały i metody
 .. figure:: img/alsep-LPM-photo.jpg
     :name: figure-alsep-LPM-photo
 
-    Zdjęcie przedstawia eksperyment Lunar Portable Magnetometer (LPM). Źródło: NASA/S70-56721 :cite:`Lindsay2008`.
-
-    .. todo:: NASA photo  the Apollo 14 LPM in a lab setting. The electronics box in the foreground included setting switches and three output dials and was attached to the Modular Equipment Transporter (MET or handcart). The sensor head was fitted onto the tripod, which was deployed 15 meters or so away from the MET during readings. A similar instrument was flown on Apollo 16, with the electronics box fitted to the back of the Lunar Roving Vehicle (LRV). NASA photo AS14-68-9393a shows the deployed Apollo 14 instrument. Ed Mitchell took this documentation photo while standing at the MET waiting for a measurement to finish.
+    Zdjęcie przedstawia eksperyment Lunar Portable Magnetometer (LPM) w laboratorium. Układ elektroniczny zawiera przełączniki i trzy pokrętła wyjściowe. Zestaw był przymocowany do :term:`Modular Equipment Transporter`. Głowicę sensora zamocowano na trójnogu i rozstawiano 15 metrów od :term:`MET` w celu dokonania odczytów. Podobny instrument był częścią misji :ref:`Apollo 16`, którego część elektroniczna była umieszczona na tyle :term:`LRV`. Źródło: NASA/S70-56721 :cite:`Lindsay2008`.
 
 Sensory były przechowywane w osłonie zamontowanej na trójnogu. Podłączone były do obwodów elektronicznych :term:`LRV` za pomocą płaskiej wiązki kabla elektrycznego o długości 15,2 m. Zakres pomiarowy instrumentu wynosił 256 nT.
 
