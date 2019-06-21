@@ -16,9 +16,12 @@ Cold Cathode Ion Gauge (CCIG)
 
 Przedmiot badania
 =================
-W celu pomiaru liczby oraz typu jonów na Księżycu wykonano dwa eksperymenty: :ref:`Suprathermal Ion Detector Experiment` (:term:`SIDE`) i :ref:`Cold Cathode Ion Gauge` (:term:`CCIG`). Badania te były ze sobą ściśle skorelowane i wykorzystywały jedno urządzenie połączone krótkim kablem elektrycznym.
+W celu pomiaru liczby oraz typu jonów na Księżycu wykonano dwa eksperymenty: :ref:`Suprathermal Ion Detector Experiment` i :ref:`Cold Cathode Ion Gauge`. Badania te były ze sobą ściśle skorelowane i wykorzystywały jedno urządzenie połączone krótkim kablem elektrycznym.
 
-Eksperyment :term:`SIDE` miał na celu pomiar własności strumienia pola, liczby cząstek, gęstości, prędkości i relatywnej energi naładowanych dodatnio jonów przy powierzchni Księżyca. Zaobserwowane cząsteczki stanowiły głównie atomy wodoru jak i helu. Obserwacja ta wynikała ze składu wiatru słonecznego.
+.. figure:: img/alsep-CCIG-photo.jpg
+    :name: figure-alsep-CCIG-photo
+
+    Zdjęcie przedstawia dwa instrumenty badawcze: :ref:`Suprathermal Ion Detector Experiment` i :ref:`Cold Cathode Ion Gauge`. The :term:`SIDE` znajduje się w górnym lewym rogu zdjęcia, a :term:`CCIG` w centrum fotografii. Źródło: NASA/AS14-67-9373 :cite:`ImageProjectApolloArchive`.
 
 
 Materiały i metody
@@ -33,7 +36,7 @@ Urządzenie pomiarowe SIDE/CCIG było wyposażone w kierunkowy sensor zorientowa
 
 Przebieg eksperymentu
 =====================
-Z racji ustawienia eksperymentu w trakcie poszczególnych faz orbity Księżyca zaobserwowano strumienie jonów w zewnętrznej warstwie magnetosfery (ang. *magnetosheath*). Detektor zarejestrował również zjawiska częściowo związane z oddziaływaniem na powierzchnię Księżyca jak również na ogon magnetosferyczny (ang. *magnetotail*) tego ciała niebieskiego. Dane z eksperymentu zostały wykorzystane do określenia potencjału powierzchni Księżyca, zbadania parametrów plazmy przy powierzchni, jak również określenia spektrum masowego jonów i badań strumieni jonowych w ogonie magnetosferycznym.
+Z racji ustawienia eksperymentu w trakcie poszczególnych faz orbity Księżyca zaobserwowano pole strumienia jonów w zewnętrznej warstwie magnetosfery (ang. *magnetosheath*). Detektor zarejestrował również zjawiska częściowo związane z oddziaływaniem na powierzchnię Księżyca jak również na ogon magnetosferyczny (ang. *magnetotail*) tego ciała niebieskiego. Dane z eksperymentu zostały wykorzystane do określenia potencjału powierzchni Księżyca, zbadania parametrów plazmy przy powierzchni, jak również określenia spektrum masowego jonów i badań strumienia pola jonowego w ogonie magnetosferycznym.
 
 Podczas rozstawiania eksperymentu w trakcie misji :ref:`Apollo 12`, błędne ustawienie kabla łączeniowego sprawiło wiele problemów z pozycjonowaniem :term:`CCIG` i :term:`SIDE`. Zgodnie z pierwotnym założeniem, :term:`SIDE` był wsparty na trzech krótkich nogach. W misji Apollo 14 do urządzenia dodano stabilizator. Z tego względu Astronauta Ed Mitchell miał jeszcze większe trudności z ustawieniem :term:`CCIG`, bez zakłócania eksperymentu :term:`SIDE`. Przed misją :ref:`Apollo 15` urządzenie poddano znacznej modyfikacji.
 

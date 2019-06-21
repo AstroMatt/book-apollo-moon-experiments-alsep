@@ -16,14 +16,9 @@ Suprathermal Ion Detector Experiment (SIDE)
 
 Przedmiot badania
 =================
-.. todo::
-    Two experiments, the Suprathermal Ion Detector Experiment (SIDE) and the Cold Cathode Ion Gauge (CCIG) were used to measure the number and types of ions (an electrically charged molecule, either positive or negative) on the Moon. These ions are chiefly hydrogen and helium and are largely derived from the solar wind. The SIDE was used to measure the flux, number, density, velocity, and relative energy of the positive ions near the lunar surface.
+W celu pomiaru liczby oraz typu jonów na Księżycu wykonano dwa eksperymenty: :ref:`Suprathermal Ion Detector Experiment` (:term:`SIDE`) i :ref:`Cold Cathode Ion Gauge` (:term:`CCIG`). Badania te były ze sobą ściśle skorelowane i wykorzystywały jedno urządzenie połączone krótkim kablem elektrycznym.
 
-    The SIDE  had sensors which were directional, pointing in the ecliptic plane 15 degrees from the lunar local meridian. Due to the range of longitudes of the three mission landing sites, the look directions of the instruments were about 38 degrees west, 2 degrees west, and 19 degrees east of the Earth for Apollo 12, 14, and 15, respectively. Thus at certain times during the lunar orbit they could see ion flows in the magnetosheath, but never looked directly at the solar wind. During other times the detectors saw ion events of several different types; some appear to be mainly related to the moon and others to the magnetotail. These instruments resulted in numerous publications and theses. The data had been used to determine the potential of the lunar surface, to determine the effective plasma screening length at the surface, to study the ion mass spectra, and to study magnetotail ion fluxes.
-
-    On all three missions on which it was flown, the CCIG was connected to the SIDE by a short electrical cable. It was used to measure the pressure of the lunar atmosphere. It operates at pressures of 10-6   to 10-12 torr. For a comparison the Earth’s atmosphere at sea level is 760 torr.  The pressure measured by the Apollo 14 CCIG on the lunar surface was 10-12 torr. It is interesting to note the astronauts continually released gas molecules, mainly water and carbon dioxide, from their space suits and this was happily measured by the CCIG from astronauts in the immediate vicinity.
-
-    During the Apollo 12 deployment, set/memory in the connecting cable made it difficult for the astronauts to properly position the CCIG while keeping the SIDE upright.  As originally designed, the SIDE was supported by three short legs.  For Apollo 14,  a stabilizer was added as indicated in the figure above.  Unfortunately, Ed Mitchell had even more trouble getting the CCIG properly positioned without disturbing the SIDE. A significant redesign was done for Apollo 15.
+Eksperyment :term:`SIDE` miał na celu pomiar własności strumienia pola magnetycznego, liczby cząstek, gęstości, prędkości i relatywnej energi naładowanych dodatnio jonów i ich wpływu na powierzchnię Księżyca. Zaobserwowane cząsteczki stanowiły głównie atomy wodoru jak i helu. Obserwacja ta wynikała ze składu wiatru słonecznego.
 
 
 Materiały i metody
@@ -38,10 +33,15 @@ Materiały i metody
 
     Diagram przedstawia połączenie eksperymentów :ref:`Suprathermal Ion Detector Experiment` / :ref:`Cold Cathode Ion Gauge` w konfiguracji dla :ref:`Apollo 12`. Źródło: :cite:`Lindsay2008`.
 
+Urządzenie dla :ref:`Apollo 15` zostało przeprojektowane ze względu na uwagi dotyczące skomplikowanego sposobu rozkładania zestawu zgłaszane przez załogi wcześniejszych misji.
 
 Przebieg eksperymentu
 =====================
+.. figure:: img/alsep-SIDE-photo.jpg
+    :name: figure-alsep-SIDE-photo
 
+    Zdjęcie przedstawia rozstawione urządzenie :term:`SIDE` (po lewej stronie) i :term:`CCIG` (podłączone po prawej stronie). Źródło: NASA/AS15-86-11596 :cite:`ImageProjectApolloArchive`.
 
-Rezultaty
-=========
+Nachylenie urządzenia eksperymentu :term:`SIDE` przedstawione na :numref:`figure-alsep-SIDE-photo`, było spowodowane charakterystyką szerokości geograficznej miejsca lądowania :ref:`Apollo 15`.
+
+Urządzenie pomiarowe SIDE/CCIG było wyposażone w kierunkowy sensor zorientowany w płaszczyźnie ekliptycznej pod kontem 15 stopni od Księżycowego lokalnego południka. Ze względu na znaczną różnicę w długościach geograficznych miejsc lądowań, anteny urządzenia skierowane były 38 stopni na zachód (:ref:`Apollo 12`), 2 stopnie na wschód (:ref:`Apollo 14`) i 19 stopni na zachód (:ref:`Apollo 15`). W trakcie pomiarów urządzenie nie było bezpośrednio skierowane w stronę nadchodzącego wiatru słonecznego.
