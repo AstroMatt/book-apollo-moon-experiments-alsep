@@ -8,7 +8,7 @@ Heat Flow Experiment (HFE)
 .. csv-table:: Heat Flow Experiment (HFE)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Columbia University"
+    "Ośrodek badawczy", "Columbia University, USA"
     "Misje", "Apollo 15, Apollo 16 (nieskutecznie), Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Heat Flow Experiment"
     "Nazwa eksperymentu (j. pol.)", "Badanie przepływu ciepła"

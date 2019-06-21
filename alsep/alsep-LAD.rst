@@ -8,7 +8,7 @@ Lunar Atmospheric Detector (LAD)
 .. csv-table:: Lunar Atmospheric Detector (LAD)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Southwest Center for Advanced Studies"
+    "Ośrodek badawczy", "Southwest Center for Advanced Studies, USA"
     "Misje", "Apollo 11, 12"
     "Nazwa eksperymentu (j. ang.)", "Lunar Atmospheric Detector"
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz atmosfery Księżyca"

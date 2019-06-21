@@ -8,7 +8,7 @@ Neutron Probe Experiment (NPE)
 .. csv-table:: Neutron Probe Experiment (NPE)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "California Institute of Technology"
+    "Ośrodek badawczy", "California Institute of Technology, USA"
     "Misje", "Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Neutron Probe"
     "Nazwa eksperymentu (j. pol.)", "Sonda neutronowa"
@@ -37,7 +37,7 @@ Eksperyment :ref:`Neutron Probe Experiment` był wykonany podczas misji :ref:`Ap
 
 Eksperyment zaprojektowano w celu pomiaru tempa wychwytu niskoenergetycznych neutronów jako funkcji głębokości regolitu księżycowego. Eksperyment był przeprowadzony za pomocą dwóch sposobów detekcji śladów padania cząstek:
 
-    - plastikowego detektora złożonego z filmu trioctowej celulozy w połączeniu z Boronem-10 w celu zapisu emisji cząstek alfa wychwyconych przez Boron-10,
+    - plastikowego detektora złożonego z filmu trioctowej celulozy w połączeniu z boronem-10 w celu zapisu emisji cząstek alfa wychwyconych przez niego,
     - detektorów mica w celu wykrycia śladów fragmentów wywołanego neutronami rozpadu uranu-235.
 
 Sensor był aktywowany i dezaktywowany w skutek zmiany pozycji urządzenia gdy detektor i cel wychodziły z układu współosiowego. Mechanizm załączania i wyłączania był konieczny aby zapobiec akumulacji wydarzeń tła wytworzonych w trakcie przez neutrony z generatory mocy zestawu ALSEP i z neutronów pochodzących z promieniowania kosmicznego wewnątrz statku podczas lotu między Księżycem a Ziemią.

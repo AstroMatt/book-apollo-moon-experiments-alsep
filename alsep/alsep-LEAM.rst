@@ -8,7 +8,7 @@ Lunar Ejecta and Meteorite Experiment (LEAM)
 .. csv-table:: Lunar Ejecta and Meteorite Experiment (LEAM)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Goddard Space Flight Center"
+    "Ośrodek badawczy", "NASA Goddard Space Flight Center, USA"
     "Misje", "Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Lunar Ejecta and Meteorite Experiment"
     "Nazwa eksperymentu (j. pol.)", "Badanie księżycowego i meteorytowego materiału piroklastycznego"

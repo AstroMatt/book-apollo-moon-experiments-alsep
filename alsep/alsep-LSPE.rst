@@ -8,7 +8,7 @@ Lunar Seismic Profiling Experiment (LSPE)
 .. csv-table:: Lunar Seismic Profiling Experiment (LSPE)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Stanford University"
+    "Ośrodek badawczy", "Stanford University, USA"
     "Misje", "Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Lunar Seismic Profiling Experiment"
     "Nazwa eksperymentu (j. pol.)", "Profilowanie sejsmiczne powierzchni Księżyca"

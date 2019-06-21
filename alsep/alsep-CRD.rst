@@ -7,7 +7,7 @@ Cosmic Ray Detector (CRD)
 .. csv-table:: Cosmic Ray Detector (CRD)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "University of California-Berkeley and Washington University"
+    "Ośrodek badawczy", "University of California-Berkeley i Washington University, USA"
     "Misje", "Apollo 16, 17"
     "Nazwa eksperymentu (j. ang.)", "Cosmic Ray Detector"
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz promieniowania kosmicznego"

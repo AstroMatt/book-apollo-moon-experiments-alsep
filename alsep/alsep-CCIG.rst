@@ -8,7 +8,7 @@ Cold Cathode Ion Gauge (CCIG)
 .. csv-table:: Cold Cathode Ion Gauge (CCIG)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "University of Texas"
+    "Ośrodek badawczy", "University of Texas, USA"
     "Misje", "Apollo 12, 14, 15"
     "Nazwa eksperymentu (j. ang.)", "Cold Cathode Ion Gauge"
     "Nazwa eksperymentu (j. pol.)", "Pomiar jonów zimną katodą"

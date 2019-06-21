@@ -8,7 +8,7 @@ Active Seismic Experiment (ASE)
 .. csv-table:: Active Seismic Experiment (ASE)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Stanford University"
+    "Ośrodek badawczy", "Stanford University, USA"
     "Misje", "Apollo 14, 16"
     "Nazwa eksperymentu (j. ang.)", "Active Seismic Experiment"
     "Nazwa eksperymentu (j. pol.)", "Aktywny eksperyment sejsmiczny"

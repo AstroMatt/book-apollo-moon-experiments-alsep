@@ -8,7 +8,7 @@ Lunar Portable Magnetometer (LPM)
 .. csv-table:: Lunar Portable Magnetometer (LPM)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "NASA AMES Research Center, California"
+    "Ośrodek badawczy", "Centrum badań naukowych NASA AMES, USA"
     "Misje", "Apollo 14, 16"
     "Nazwa eksperymentu (j. ang.)", "Lunar Portable Magnetometer"
     "Nazwa eksperymentu (j. pol.)", "Przenośny księżycowy magnetometr"

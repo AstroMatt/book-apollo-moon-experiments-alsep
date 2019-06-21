@@ -8,7 +8,7 @@ Lunar Dust Detector (LDD)
 .. csv-table:: Lunar Dust Detector (LDD)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Manned Spacecraft Center, Texas"
+    "Ośrodek badawczy", "NASA Manned Spacecraft Center, USA"
     "Misje", "Apollo 11, 12, 14, 15"
     "Nazwa eksperymentu (j. ang.)", "Lunar Dust Detector"
     "Nazwa eksperymentu (j. pol.)", "Wykrywacz pyłu księżycowego"

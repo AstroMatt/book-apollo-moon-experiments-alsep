@@ -16,7 +16,7 @@ Laser Ranging Retro-reflector (LRRR)
 
 Przedmiot badania
 =================
-Dalmierz laserowy pozwala na precyzyjne określenie odległości oddalonych od siebie obiektów. Składa się z dwóch części. Jedna jest generatorem wiązki lasera, a druga zawiera lustro, lub lustra odbijające padające na nigo promienie w kierunku z którego przyszły. Na podstawie znanej prędkości światła oraz mierzenia czasu powrotu wiązki  jest możliwe precyzyjne wyznaczenie odległości między dwoma elementami zestawu.
+Dalmierz laserowy pozwala na precyzyjne określenie odległości oddalonych od siebie obiektów. Składa się z dwóch części. Jedna jest generatorem wiązki lasera, a druga zawiera lustro, lub lustra odbijające padające na niego promienie w kierunku z którego przyszły. Na podstawie znanej prędkości światła oraz mierzenia czasu powrotu wiązki  jest możliwe precyzyjne wyznaczenie odległości między dwoma elementami zestawu.
 
 Mimo faktu, iż Księżyc posiada wskaźnik albedo na średnim poziomie 0.136 i kierunkowo odbija promienie to jego proces odbicia ma charakter nielambertowski, tj. nierównomiernie rozprasza światło we wszystkich kierunkach. Moc odbitego promienia jest niewystarczająca aby móc precyzyjnie określić jego odległość od Ziemi.
 

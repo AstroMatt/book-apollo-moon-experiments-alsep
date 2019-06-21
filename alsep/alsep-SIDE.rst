@@ -8,7 +8,7 @@ Suprathermal Ion Detector Experiment (SIDE)
 .. csv-table:: Suprathermal Ion Detector Experiment (SIDE)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Rice University"
+    "Ośrodek badawczy", "Rice University, USA"
     "Misje", "Apollo 12, 14, 15"
     "Nazwa eksperymentu (j. ang.)", "Suprathermal Ion Detector Experiment"
     "Nazwa eksperymentu (j. pol.)", ""

@@ -8,7 +8,7 @@ Surface Electrical Properties Experiment (SEP)
 .. csv-table:: Surface Electrical Properties Experiment (SEP)
     :stub-columns: 1
 
-    "Ośrodek badawczy", "Massachusetts Institute of Technology"
+    "Ośrodek badawczy", "Massachusetts Institute of Technology, USA"
     "Misje", "Apollo 17"
     "Nazwa eksperymentu (j. ang.)", "Surface Electrical Properties Experiment"
     "Nazwa eksperymentu (j. pol.)", "Pomiar właściwości elektrycznych powierzchni Księżyca"
