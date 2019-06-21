@@ -1,3 +1,5 @@
+.. _ALSEP:
+
 ****************
 O pakiecie ALSEP
 ****************
@@ -45,6 +47,8 @@ Konfiguracja transportowa
     :name: figure-alsep-package
 
     Źródło: :cite:`Knudson2013`
+
+.. _Scientific Equipment Bay:
 
 Scientific Equipment Bay (SEQ)
 ------------------------------

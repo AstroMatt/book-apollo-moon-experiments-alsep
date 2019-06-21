@@ -1,3 +1,5 @@
+.. _Lunar Roving Vehicle:
+
 **************************
 Lunar Roving Vehicle (LRV)
 **************************

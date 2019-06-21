@@ -6,7 +6,7 @@ Słownik nazw
 
     ALSEP
     Apollo Lunar Surface Exploration Package
-        Zestaw narzędzi i badań naukowych przeprowadzanych podczas misji Apollo na powierzchni Księżyca.
+        Zestaw narzędzi i badań naukowych przeprowadzanych podczas misji :term:`Apollo` na powierzchni Księżyca. Więcej informacji: :ref:`ALSEP`.
 
     EASEP
         Early Apollo Surface Experiments Package
@@ -17,7 +17,7 @@ Słownik nazw
 
     CSM
     Command and Service Module
-        Część statku Apollo, która po odłączeniu lądownika pozostała na orbicie.
+        Część statku :term:`Apollo`, która po odłączeniu lądownika pozostała na orbicie.
 
     LM
     LEM
@@ -38,7 +38,7 @@ Słownik nazw
 
     LRV
     Lunar Roving Vehicle
-        Łazik księżycowy.
+        Łazik księżycowy. Więcej informacji: :ref:`Lunar Roving Vehicle`
 
     UV
     Ultraviolet
@@ -51,76 +51,76 @@ Słownik nazw
         Urządzenie rejestrujące fale sejsmiczne.
 
     ASE
-        Active Seismic Experiment
+        :ref:`Active Seismic Experiment`
 
     CCIG
-        Cold Cathode Ion Gauge
+        :ref:`Cold Cathode Ion Gauge`
 
     CPLEE
-        Charged Particle Lunar Environmental Experiment
+        :ref:`Charged Particle Lunar Environmental Experiment`
 
     CRD
-        Cosmic Ray Detector
+        :ref:`Cosmic Ray Detector`
 
     HFE
-        Heat Flow Experiment
+        :ref:`Heat Flow Experiment`
 
     LACE
-        Lunar Atmospheric Composition Experiment
+        :ref:`Lunar Atmospheric Composition Experiment`
 
     LAD
-        Lunar Atmosphere Detector
+        :ref:`Lunar Atmospheric Detector`
 
     LDD
-        Lunar Dust Detector
+        :ref:`Lunar Dust Detector`
 
     LEAM
-        Lunar Ejecta and Meteorite Experiment
+        :ref:`Lunar Ejecta and Meteorite Experiment`
 
     LID
-        Lunar Ionosphere Detector
+        :ref:`Lunar Ionosphere Detector`
 
     LPM
-        Lunar Portable Magnetometer
+        :ref:`Lunar Portable Magnetometer`
 
     LRRR
-        Laser Ranging Retro-Reflector
+        :ref:`Laser Ranging Retro-Reflector`
 
     LSG
-        Lunar Surface Gravimeter Experiment
+        :ref:`Lunar Surface Gravimeter Experiment`
 
     LSM
-        Lunar Surface Magnetometer
+        :ref:`Lunar Surface Magnetometer`
 
     LSPE
-        Lunar Seismic Profiling Experiment
+        :ref:`Lunar Seismic Profiling Experiment`
 
     NPE
-        Neutron Probe
+        :ref:`Neutron Probe Experiment`
 
     PSE
-        Passive Seismic Experiment
+        :ref:`Passive Seismic Experiment`
 
     PSEP
-        Passive Seismic Experiment Package
+        :ref:`Passive Seismic Experiment Package`
 
     SEP
-        Surface Electrical Properties
+        :ref:`Surface Electrical Properties Experiment`
 
     SIDE
-        Suprathermal Ion Detector Experiment
+        :ref:`Suprathermal Ion Detector Experiment`
 
     SWCE
-        Solar Wind Composition
+        :ref:`Solar Wind Composition Experiment`
 
     SWS
-        Solar Wind Spectrometer
+        :ref:`Solar Wind Spectrometer`
 
     TGE
-        Traverse Gravimeter Experiment
+        :ref:`Traverse Gravimeter Experiment`
 
     SEQ
-        Scientific Equipment Bay
+        :ref:`Scientific Equipment Bay`
 
     ALSEP Array
         Konfiguracja zestawu ALSEP
@@ -136,7 +136,7 @@ Słownik nazw
 
     Saturn
     Saturn V
-        Rakieta nośna użyta do wystrzelenia statku CSM Apollo oraz lądownika LM
+        Rakieta nośna użyta do wystrzelenia statku :term:`CSM` :term:`Apollo` oraz lądownika :term:`LM`
 
     Pas Van Allena
         obszar intensywnego promieniowania korpuskularnego, otaczającego Ziemię. Składa się z naładowanych cząstek o wielkiej energii, schwytanych w pułapkę przez ziemskie pole magnetyczne, w którym poruszają się one po trajektoriach zbliżonych do helis, których osie są równoległe do linii pola magnetycznego, łączących obydwa ziemskie bieguny magnetyczne.
@@ -144,3 +144,12 @@ Słownik nazw
     MET
     Mobile Equipment Transporter
         Dwuwłókowy wózek wykorzystywany podczas misji :ref:`Apollo 14` w celu transportowania narzędzi, kontenerów, zapasowych filmów i odłamków skalnych.
+
+    RTG
+        :ref:`Radioisotope Thermo-electric Generator`
+
+    UHT
+        :ref:`Universal Handling Tool`
+
+    Apollo
+        Załogowy program kosmiczny, którego celem był lot człowieka na Księżyc.
