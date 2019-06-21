@@ -16,16 +16,7 @@ Solar Wind Composition Experiment (SWCE)
 
 Przedmiot badania
 =================
-.. todo::
-    The Solar Wind Composition Experiment (SWC) was used to determine the elemental and isotopic composition of the noble gasses (helium, neon, and argon) in the solar wind. It was a simple experiment that used a sheet of 0.5 mm thick aluminium foil to trap individual particles of the solar wind to a depth of several hundred atomic layers, but allowed cosmic rays to pass through. The astronauts put the screens out on arrival and brought the foil back to Earth for analysis by Swiss scientists.
-
-    The Solar Wind Composition Experiment (SWCE), an aluminum foil panel, similar to household foil, that collected atomic particles released by the Sun into space was provided by scientists from Switzerland.  During Apollo 11 it was deployed and exposed for 1 hour 17 minutes and returned to Earth by the Apollo 11 crew for analysis by the Swiss experiment team.
-
-    * Apollo 11: exposed for 1 hour 17 minutes
-    * Apollo 12: exposed for 18 hours 42 minutes
-    * Apollo 14: exposed for 21 hours
-    * Apollo 15: exposed for 41 hours 8 minutes
-    * Apollo 16: exposed for 45 hours 5 minutes
+Eksperyment :ref:`Solar Wind Composition Experiment` został wykonany w celu określenia składu pierwiastków oraz izotopów szlachetnych gazów, tj. hel, neon i argon, we wietrze słonecznym.
 
 
 Materiały i metody
@@ -35,10 +26,17 @@ Materiały i metody
 
     Diagram przedstawia eksperyment Solar Wind Composition Experiment (SWCE). Źródło: :cite:`Apollo12PressKit`.
 
+Eksperyment składał się z folii aluminiowej o grubości 0,5 mm. Folia miała na celu uwięzienie poszczególnych cząsteczek wiatru słonecznego w grubej na kilkaset warstw atomowych strukturze. Została zaprojektowana tak, aby pozwolić na przejście promieniowaniu kosmicznemu bez interakcji.
+
 
 Przebieg eksperymentu
 =====================
+Astronauci rozwijali folię zaraz po przybyciu podczas pierwszego :term:`EVA` i zwijali przed odlotem. Folia była transportowana na Ziemię w celu analizy przez Szwajcarskich naukowców.
 
+Czasy ekspozycji eksperymentu były następujące:
 
-Rezultaty
-=========
+    * :ref:`Apollo 11`: 1 godzina 17 minut,
+    * :ref:`Apollo 12`: 18 godzin 42 minut,
+    * :ref:`Apollo 14`: 21 godzin,
+    * :ref:`Apollo 15`: 41 godzin 8 minut,
+    * :ref:`Apollo 16`: 45 godzin 5 minut.

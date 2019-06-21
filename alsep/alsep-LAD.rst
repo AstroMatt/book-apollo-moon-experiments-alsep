@@ -39,9 +39,9 @@ Dowolny z siedmiu różnych zakresów dynamicznych mógł zostać wybrany. Odpow
 
 Parametry nastawne urządzenia:
 
-    Dokładność miernika     ± 30% powyżej 1.33E-6 Pa (10E-10 Torr)
-    Masa                    ± 50% below 1.33E-6 Pa (10E-10 Torr)
-    Moc operacyjna          2 W [Watt]
+    * Dokładność miernika: ± 30% powyżej 1.33E-6 Pa (10E-10 Torr)
+    * Masa: ± 50% below 1.33E-6 Pa (10E-10 Torr)
+    * Moc operacyjna: 2 W [Watt]
 
 
 Rezultaty
