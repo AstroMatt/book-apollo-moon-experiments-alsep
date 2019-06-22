@@ -1,7 +1,3 @@
-************
-Słownik nazw
-************
-
 .. glossary::
 
     ALSEP

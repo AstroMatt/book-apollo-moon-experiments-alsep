@@ -1,4 +1,3 @@
-
 Wstęp
 =====
 .. toctree::
@@ -58,12 +57,12 @@ Zakończenie
 
     /alsep/najwazniejsze-odkrycia.rst
 
-Załączniki
-==========
+Misje Apollo
+============
 .. toctree::
     :maxdepth: 2
     :numbered:
-    :caption: Załączniki
+    :caption: Misje Apollo
     :hidden:
 
     /apollo/apollo-11.rst
@@ -72,37 +71,34 @@ Załączniki
     /apollo/apollo-15.rst
     /apollo/apollo-16.rst
     /apollo/apollo-17.rst
+
+Ekwipunek
+=========
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Ekwipunek
+    :hidden:
+
     /equipment/tools.rst
     /equipment/central-station.rst
     /equipment/antenna.rst
     /equipment/rtg.rst
     /equipment/lunar-roving-vehicle.rst
 
+
 Bibliografia
 ============
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Bibliografia
+    :hidden:
 
-Literatura
-----------
-.. bibliography:: /_references/bibliography.bib
-    :style: alpha
-    :all:
-
-
-Lista figur
------------
-.. bibliography:: /_references/images.bib
-    :style: alpha
-    :all:
-
-Lista video
------------
-.. bibliography:: /_references/video.bib
-    :style: alpha
-    :labelprefix: Vid
-    :all:
+    /_references/bibliography.rst
 
 Słowniczek
-----------
+==========
 .. toctree::
     :maxdepth: 2
     :numbered:
