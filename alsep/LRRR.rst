@@ -12,7 +12,7 @@ Laser Ranging Retro-reflector (LRRR)
     "Misje", "Apollo 11, 14, 15"
     "Nazwa eksperymentu (j. ang.)", "Laser Ranging Retro-reflector"
     "Nazwa eksperymentu (j. pol.)", "Zwierciadło pomiaru dla dalmierza laserowego"
-    "Dziedzina", "Astrofizyka"
+    "Dziedzina", "Astrometria"
 
 
 Przedmiot badania
