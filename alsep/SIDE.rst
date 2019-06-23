@@ -24,12 +24,12 @@ Eksperyment :term:`SIDE` miał na celu pomiar własności strumienia pola magnet
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-SIDE-diagram.jpg
+.. figure:: img/SIDE-diagram.jpg
     :name: figure-alsep-SIDE-diagram
 
     Diagram przedstawia eksperyment Suprathermal Ion Detector Experiment (SIDE). Źródło: :cite:`ImageProjectApolloArchive`.
 
-.. figure:: img/alsep-SIDE-color.jpg
+.. figure:: img/SIDE-color.jpg
     :name: figure-alsep-SIDE-color
 
     Diagram przedstawia połączenie eksperymentów :ref:`Suprathermal Ion Detector Experiment` / :ref:`Cold Cathode Ion Gauge` w konfiguracji dla :ref:`Apollo 12`. Źródło: :cite:`Lindsay2008`.
@@ -38,7 +38,7 @@ Urządzenie dla :ref:`Apollo 15` zostało przeprojektowane ze względu na uwagi 
 
 Przebieg eksperymentu
 =====================
-.. figure:: img/alsep-SIDE-photo.jpg
+.. figure:: img/SIDE-photo.jpg
     :name: figure-alsep-SIDE-photo
 
     Zdjęcie przedstawia rozstawione urządzenie :term:`SIDE` (po lewej stronie) i :term:`CCIG` (podłączone po prawej stronie). Źródło: NASA/AS15-86-11596 :cite:`ImageProjectApolloArchive`.

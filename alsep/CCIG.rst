@@ -19,7 +19,7 @@ Przedmiot badania
 =================
 W celu pomiaru liczby oraz rodzaju jonów na Księżycu wykonano dwa eksperymenty: :ref:`Suprathermal Ion Detector Experiment` i :ref:`Cold Cathode Ion Gauge`. Badania te były ze sobą ściśle skorelowane i wykorzystywały jedno urządzenie połączone krótkim kablem elektrycznym.
 
-.. figure:: img/alsep-CCIG-photo.jpg
+.. figure:: img/CCIG-photo.jpg
     :name: figure-alsep-CCIG-photo
 
     Zdjęcie przedstawia dwa instrumenty badawcze: :ref:`Suprathermal Ion Detector Experiment` i :ref:`Cold Cathode Ion Gauge`. :term:`SIDE` znajduje się w górnym lewym rogu zdjęcia, a :term:`CCIG` w centrum fotografii. Źródło: NASA/AS14-67-9373 :cite:`ImageProjectApolloArchive`.
@@ -27,7 +27,7 @@ W celu pomiaru liczby oraz rodzaju jonów na Księżycu wykonano dwa eksperyment
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-CCIG-diagram.jpg
+.. figure:: img/CCIG-diagram.jpg
     :name: figure-alsep-CCIG-diagram
 
     Diagram przedstawia eksperyment Cold Cathode Ion Gauge (CCIG). Źródło: :cite:`Apollo12PressKit`.

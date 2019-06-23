@@ -27,7 +27,7 @@ Sejsmometr użyty podczas misji :ref:`Apollo 11` zwracał dane tylko przez trzy 
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-PSE-diagram.png
+.. figure:: img/PSE-diagram.png
     :name: figure-alsep-PSE-diagram
 
     Diagram przedstawia eksperyment Passive Seismic Experiment (PSE). Źródło: :cite:`ImageProjectApolloArchive`.

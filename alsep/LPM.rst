@@ -22,7 +22,7 @@ Metoda mapowania różnic pola magnetycznego jest standardową procedurą wykorz
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LPM-photo.jpg
+.. figure:: img/LPM-photo.jpg
     :name: figure-alsep-LPM-photo
 
     Zdjęcie przedstawia eksperyment Lunar Portable Magnetometer (LPM) w laboratorium. Źródło: NASA/S70-56721 :cite:`Lindsay2008`.

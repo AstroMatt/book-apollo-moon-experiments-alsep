@@ -24,7 +24,7 @@ Pomiary te miały na celu poszerzenie zrozumienia procesów zachodzących na pow
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LAD-diagram.png
+.. figure:: img/LAD-diagram.png
     :name: figure-alsep-LAD-diagram
 
     Diagram przedstawia eksperyment Lunar Atmospheric Detector (LAD). Źródło: :cite:`Apollo12PressKit`.

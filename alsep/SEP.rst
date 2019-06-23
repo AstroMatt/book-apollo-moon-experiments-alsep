@@ -24,12 +24,12 @@ Częstotliwości fali generowanej przez transmiter pozwalały na określenie wł
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-SEP-transmitter.jpg
+.. figure:: img/SEP-transmitter.jpg
     :name: figure-alsep-SEP-transmitter
 
     Zdjęcie przedstawia nadajnik :ref:`Surface Electrical Properties Experiment`. Astronauta Jack Schmitt jest w trakcie schylania się w celu otworzenia trójdzielnego zestawu paneli fotowoltaicznych, które generują zasilanie dla :term:`SEP`. Transmiter jest zlokalizowany na przecięciu śladów łazika :term:`LRV`, które Gene Cernan pozostawił przed rozłożeniem eksperymentu. Na zdjęciu widać połączenie kablowe anteny w kierunku południowym (górna lewa strona), wschodnim (dolna lewa strona) i znów na południowym (dolne prawa strona). Zdjęcie jest częścią panoramy stworzonej przez David Nathan, której części astronauta Cernan wykonał podczas rozstawiania eksperymentu. Zdjęcie przedstawia również zastosowanie srebrnej taśmy (ang. *duct tape*) użytej przez załogę w celu przytrzymania otwartych paneli słonecznych. Źródło: NASA/AS17-134-20438 :cite:`Lindsay2008`.
 
-.. figure:: img/alsep-SEP-receiver.jpg
+.. figure:: img/SEP-receiver.jpg
     :name: figure-alsep-SEP-receiver
 
     Zdjęcie przedstawia odbiornik :ref:`Surface Electrical Properties Experiment` zamontowany na tyle siedzenia :term:`LMP` zamontowanego na łaziku :term:`LRV`. Źródło: NASA/AS17-135-20543 :cite:`Lindsay2008`.

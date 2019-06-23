@@ -26,12 +26,12 @@ Oczekiwano, iż eksperyment będzie w stanie wykryć zarówno obiekty pochodzeni
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LEAM-diagram.gif
+.. figure:: img/LEAM-diagram.gif
     :name: figure-alsep-LEAM-diagram
 
     Diagram przedstawia eksperyment Lunar Ejecta and Meteorite Experiment (LEAM). Źródło: :cite:`Apollo12PressKit`.
 
-.. figure:: img/alsep-LEAM-color.jpg
+.. figure:: img/LEAM-color.jpg
     :name: figure-alsep-LEAM-color
 
     Diagram przedstawia eksperyment Lunar Ejecta and Meteorite Experiment (LEAM). Źródło: :cite:`ImageProjectApolloArchive`.

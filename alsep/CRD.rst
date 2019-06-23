@@ -27,7 +27,7 @@ Promieniowanie kosmiczne oddziałuje ze wszystkich kierunków, a ich źródło p
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-CRD-photo.jpg
+.. figure:: img/CRD-photo.jpg
     :name: figure-alsep-CRD-photo
 
     Zdjęcie przedstawia eksperyment Cosmic Ray Detector (CRD). Detektor jest ustawiony w pozycji minus-Y (południe). Źródło: NASA/AS16-107-17442, :cite:`ImageProjectApolloArchive`.

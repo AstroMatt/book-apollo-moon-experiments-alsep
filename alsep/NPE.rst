@@ -28,7 +28,7 @@ Gdy wysokoenergetyczne cząstki promieniowania kosmicznego uderzają o powierzch
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-NPE-diagram.jpg
+.. figure:: img/NPE-diagram.jpg
     :name: figure-alsep-NPE-diagram
 
     Diagram przedstawia eksperyment Neutron Probe Experiment (NPE). Źródło: Fig. 18-1 :cite:`Parker1973`.

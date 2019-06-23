@@ -24,7 +24,7 @@ Ze względu na tempo z którym atomy uciekają w przestrzeń kosmiczną, musi is
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LACE-photo.jpg
+.. figure:: img/LACE-photo.jpg
     :name: figure-alsep-LACE-photo
 
     Zdjęcie przedstawia eksperyment Lunar Atmospheric Composition Experiment (LACE). Źródło: :cite:`Lindsay2008`.

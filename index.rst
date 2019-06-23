@@ -21,30 +21,30 @@ Eksperymenty geofizyczne na powierzchni Księżyca
     :caption: Eksperymenty geofizyczne na powierzchni Księżyca
     :hidden:
 
-    /alsep/wprowadzenie.rst
-    /alsep/alsep-ASE.rst
-    /alsep/alsep-CCIG.rst
-    /alsep/alsep-CPLEE.rst
-    /alsep/alsep-CRD.rst
-    /alsep/alsep-HFE.rst
-    /alsep/alsep-LACE.rst
-    /alsep/alsep-LAD.rst
-    /alsep/alsep-LDD.rst
-    /alsep/alsep-LEAM.rst
-    /alsep/alsep-LID.rst
-    /alsep/alsep-LPM.rst
-    /alsep/alsep-LRRR.rst
-    /alsep/alsep-LSG.rst
-    /alsep/alsep-LSM.rst
-    /alsep/alsep-LSPE.rst
-    /alsep/alsep-NPE.rst
-    /alsep/alsep-PSE.rst
-    /alsep/alsep-PSEP.rst
-    /alsep/alsep-SEP.rst
-    /alsep/alsep-SIDE.rst
-    /alsep/alsep-SWCE.rst
-    /alsep/alsep-SWS.rst
-    /alsep/alsep-TGE.rst
+    /alsep/about.rst
+    /alsep/ASE.rst
+    /alsep/CCIG.rst
+    /alsep/CPLEE.rst
+    /alsep/CRD.rst
+    /alsep/HFE.rst
+    /alsep/LACE.rst
+    /alsep/LAD.rst
+    /alsep/LDD.rst
+    /alsep/LEAM.rst
+    /alsep/LID.rst
+    /alsep/LPM.rst
+    /alsep/LRRR.rst
+    /alsep/LSG.rst
+    /alsep/LSM.rst
+    /alsep/LSPE.rst
+    /alsep/NPE.rst
+    /alsep/PSE.rst
+    /alsep/PSEP.rst
+    /alsep/SEP.rst
+    /alsep/SIDE.rst
+    /alsep/SWCE.rst
+    /alsep/SWS.rst
+    /alsep/TGE.rst
 
 
 Zakończenie
@@ -65,12 +65,12 @@ Misje Apollo
     :caption: Misje Apollo
     :hidden:
 
-    /apollo/apollo-11.rst
-    /apollo/apollo-12.rst
-    /apollo/apollo-14.rst
-    /apollo/apollo-15.rst
-    /apollo/apollo-16.rst
-    /apollo/apollo-17.rst
+    /misja/apollo-11.rst
+    /misja/apollo-12.rst
+    /misja/apollo-14.rst
+    /misja/apollo-15.rst
+    /misja/apollo-16.rst
+    /misja/apollo-17.rst
 
 Ekwipunek
 =========
@@ -80,12 +80,16 @@ Ekwipunek
     :caption: Ekwipunek
     :hidden:
 
-    /equipment/tools.rst
-    /equipment/central-station.rst
-    /equipment/antenna.rst
-    /equipment/rtg.rst
-    /equipment/lunar-roving-vehicle.rst
-
+    /ekwipunek/about.rst
+    /ekwipunek/ALSCC.rst
+    /ekwipunek/ALSD.rst
+    /ekwipunek/antenna.rst
+    /ekwipunek/CS.rst
+    /ekwipunek/DRT.rst
+    /ekwipunek/FFT.rst
+    /ekwipunek/LRV.rst
+    /ekwipunek/RTG.rst
+    /ekwipunek/UHT.rst
 
 Bibliografia
 ============

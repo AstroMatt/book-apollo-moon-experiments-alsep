@@ -24,7 +24,7 @@ Dwa :ref:`aktywne eksperymenty sejsmiczne <Active Seismic Experiment>` zostały 
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-ASE-diagram.png
+.. figure:: img/ASE-diagram.png
     :name: figure-alsep-ASE-diagram
 
     Diagram przedstawia eksperyment Active Seismic Experiment (ASE). Źródło: :cite:`Apollo12PressKit`.

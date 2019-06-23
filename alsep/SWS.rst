@@ -26,17 +26,17 @@ Poza :ref:`Solar Wind Spectrometer` przeprowadzono także niezależny eksperymen
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-SWS-diagram.png
+.. figure:: img/SWS-diagram.png
     :name: figure-alsep-SWS-diagram
 
     Diagram przedstawia eksperyment Solar Wind Spectrometer (SWS). Źródło: :cite:`Apollo12PressKit`.
 
-.. figure:: img/alsep-SWS-color.jpg
+.. figure:: img/SWS-color.jpg
     :name: figure-alsep-SWS-color
 
     Diagram przedstawia eksperyment Solar Wind Spectrometer (SWS). Źródło: :cite:`Lindsay2008`.
 
-.. figure:: img/alsep-SWS-photo.jpg
+.. figure:: img/SWS-photo.jpg
     :name: figure-alsep-SWS-photo
 
     Zdjęcie przedstawia eksperyment Solar Wind Spectrometer (SWS). Konfiguracja po rozstawieniu urządzenia. Źródło: NASA/AS15-86-11593 :cite:`Lindsay2008`.

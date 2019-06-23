@@ -43,8 +43,8 @@ Transport eksperymentów na Księżyc
 
 Konfiguracja transportowa
 -------------------------
-.. figure:: img/alsep-package.jpg
-    :name: figure-alsep-package
+.. figure:: img/ALSEP-transport.jpg
+    :name: figure-alsep-ALSEP-transport
 
     Źródło: :cite:`Knudson2013`
 
@@ -52,12 +52,12 @@ Konfiguracja transportowa
 
 Scientific Equipment Bay (SEQ)
 ------------------------------
-.. figure:: img/alsep-SEQ-close.jpg
+.. figure:: img/SEQ-close.jpg
     :name: figure-alsep-SEQ-close
 
     Zdjęcie przedstawia ciemno szare drzwi Scientific Equipment Bay (SEQ) znajdujące się na lewo od środka. W srebrnej otulinie na prawo od drzwi znajduje się eksperyment :ref:`Cosmic Ray Detector`. W celu otwarcia dostępu do drzwi astronauci używali specjalnych taśm. Samo otwarcie drzwi wykonywane było przy użyciu rękawic skafandra. Źródło: NASA/AS16-113-18335, :cite:`Lindsay2008`.
 
-.. figure:: img/alsep-SEQ-open.jpg
+.. figure:: img/SEQ-open.jpg
     :name: figure-alsep-SEQ-open
 
     Alan Bean w trakcie rozpakowywania zestawu ALSEP. W tym celu astronauta użył zmiennej długości wysięgnika, rolki i taśm. Po prawej stronie od kolana Alan Beana można zobaczyć elementy generatora :ref:`Radioisotope Thermo-electric Generator`. Źródło: NASA/AS12-46-6783 :cite:`Lindsay2008`.

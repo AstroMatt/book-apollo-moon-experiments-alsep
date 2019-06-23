@@ -22,17 +22,17 @@ Eksperyment :ref:`Lunar Surface Gravimeter Experiment` był wykonany tylko raz, 
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LSG-diagram.gif
+.. figure:: img/LSG-diagram.gif
     :name: figure-alsep-LSG-diagram
 
     Diagram przedstawia eksperyment Lunar Surface Gravimeter Experiment (LSG). Źródło: :cite:`ImageProjectApolloArchive`.
 
-.. figure:: img/alsep-LSG-color.jpg
+.. figure:: img/LSG-color.jpg
     :name: figure-alsep-LSG-color
 
     Diagram przedstawia eksperyment Lunar Surface Gravimeter Experiment (LSG). Kolorem niebieskim zaznaczono osłonę przeciwsłoneczną :cite:`Lindsay2008`.
 
-.. figure:: img/alsep-LSG-photo.jpg
+.. figure:: img/LSG-photo.jpg
     :name: figure-alsep-LSG-photo
 
     Zdjęcie wykonane podczas :term:`EVA` 3 przedstawia eksperyment Lunar Surface Gravimeter Experiment (LSG). W tle widać :ref:`stację centralną <Central Station>` z elementem :term:`RTG` po lewej i modułem lądownika :term:`LM`. Przed wykonaniem tego zdjęcia astronauta Jack Schmitt tymczasowo pozostawił :term:`UHT` w pobliżu urządzenia :term:`LSG`. Źródło: NASA/AS17-134-20501 :cite:`Lindsay2008`.

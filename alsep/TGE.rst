@@ -22,12 +22,12 @@ Eksperyment :ref:`Traverse Gravimeter Experiment` został wykonany w trakcie mis
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-TGE-photo.jpg
+.. figure:: img/TGE-photo.jpg
     :name: figure-alsep-TGE-photo
 
     Zdjęcie przedstawia eksperyment niebieski Traverse Gravimeter Experiment (TGE) zamontowany na tylnym siedzeniu łazika :term:`LRV`. Astronauta Gene Cernan wykonał to zdjęcie w celu dokumentacji wymiany "błotnika". Źródło: NASA/AS17-137-20979 :cite:`ImageProjectApolloArchive`
 
-.. figure:: img/alsep-TGE-device.jpg
+.. figure:: img/TGE-device.jpg
     :name: figure-alsep-TGE-device
 
     Zdjęcie przedstawia eksperyment niebieski Traverse Gravimeter Experiment (TGE).  Źródło: :cite:`ImageProjectApolloArchive`.

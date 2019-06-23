@@ -24,7 +24,7 @@ Eksperyment :ref:`Lunar Dust Detector` wykonano podczas misji :ref:`Apollo 11`, 
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LDD-diagram.png
+.. figure:: img/LDD-diagram.png
     :name: figure-alsep-LDD-diagram
 
     Diagram przedstawia eksperyment Lunar Dust Detector (LDD). Źródło: :cite:`Apollo12PressKit`.

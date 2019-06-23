@@ -26,7 +26,7 @@ Cząsteczki wiatru słonecznego są głównymi składowymi jonosfery, mimo iż z
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LID-diagram.png
+.. figure:: img/LID-diagram.png
     :name: figure-alsep-LID-diagram
 
     Diagram przedstawia eksperyment Lunar Ionosphere Detector (LID). Źródło: :cite:`Apollo12PressKit`.

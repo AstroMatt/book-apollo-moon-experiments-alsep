@@ -30,12 +30,12 @@ Wyniki eksperymentu posłużyły do określenia poziomu radioaktywności jako ź
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-HFE-color.jpg
+.. figure:: img/HFE-color.jpg
     :name: figure-alsep-HFE-color
 
     Diagram przedstawia eksperyment Heat Flow Experiment (HFE). Źródło: :cite:`Lindsay2008`.
 
-.. figure:: img/alsep-HFE-photo.jpg
+.. figure:: img/HFE-photo.jpg
     :name: figure-alsep-HFE-photo
 
     Zdjęcie przedstawia eksperyment Heat Flow Experiment (HFE). Źródło: NASA/AS17-134-20493 :cite:`Lindsay2008`.

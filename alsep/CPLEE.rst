@@ -24,7 +24,7 @@ Ponadto określono ich oddziaływanie na zorze polarne występujące na Ziemi i 
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-CPLEE-photo.jpg
+.. figure:: img/CPLEE-photo.jpg
     :name: figure-alsep-CPLEE-photo
 
     Zdjęcie przedstawia eksperyment Charged Particle Lunar Environmental Experiment (CPLEE). Źródło: NASA/AS14-67-9364, :cite:`Apollo12PressKit`.

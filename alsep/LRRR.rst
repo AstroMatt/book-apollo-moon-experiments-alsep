@@ -24,12 +24,12 @@ Mimo faktu, iż Księżyc posiada wartość albedo na średnim poziomie 0.136 i 
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LRRR-closed.gif
+.. figure:: img/LRRR-closed.gif
     :name: figure-alsep-LRRR-diagram1
 
     Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji zamkniętej. Źródło: :cite:`Apollo12PressKit`.
 
-.. figure:: img/alsep-LRRR-open.gif
+.. figure:: img/LRRR-open.gif
     :name: figure-alsep-LRRR-diagram2
 
     Diagram przedstawia eksperyment Laser Ranging Retro-reflector (LRRR) w konfiguracji otwartej. Źródło: :cite:`ImageProjectApolloArchive`.

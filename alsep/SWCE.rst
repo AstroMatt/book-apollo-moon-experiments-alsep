@@ -22,7 +22,7 @@ Eksperyment :ref:`Solar Wind Composition Experiment` został wykonany w celu okr
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-SWCE-diagram.png
+.. figure:: img/SWCE-diagram.png
     :name: figure-alsep-SWCE-diagram
 
     Diagram przedstawia eksperyment Solar Wind Composition Experiment (SWCE). Źródło: :cite:`Apollo12PressKit`.

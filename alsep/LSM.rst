@@ -30,7 +30,7 @@ Pomiaru dokonano niezależnie za pomocą równoległego zbadania różnic warto�
 
 Materiały i metody
 ==================
-.. figure:: img/alsep-LSM-diagram.png
+.. figure:: img/LSM-diagram.png
     :name: figure-alsep-LSM-diagram
 
     Diagram przedstawia eksperyment Lunar Surface Magnetometer (LSM). Źródło: :cite:`Apollo12PressKit`.
