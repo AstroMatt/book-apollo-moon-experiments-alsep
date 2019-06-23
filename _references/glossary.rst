@@ -1,3 +1,9 @@
+.. _Słowniczek:
+
+**********
+Słowniczek
+**********
+
 .. glossary::
 
     ALSEP

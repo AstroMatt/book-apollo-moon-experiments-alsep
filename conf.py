@@ -112,18 +112,18 @@ html_search_language = language
 html_theme_path = ['_themes']
 html_secnumber_suffix = '. '
 
-if os.path.isdir('_static'):
-    html_static_path = ['_static']
-    html_context.update({
-        'css_files': [
-            '_static/screen.css',
-            '_static/print.css',
-        ],
-        'script_files': [
-            '_static/jquery.min.js',
-            '_static/onload.js',
-        ],
-    })
+# if os.path.isdir('_static'):
+#     html_static_path = ['_static']
+#     html_context.update({
+#         'css_files': [
+#             '_static/screen.css',
+#             '_static/print.css',
+#         ],
+#         'script_files': [
+#             '_static/jquery.min.js',
+#             '_static/onload.js',
+#         ],
+#    })
 
 latex_documents = [('index', f'{project_slug}.tex', project, author, latex_documentclass)]
 latex_elements = {
