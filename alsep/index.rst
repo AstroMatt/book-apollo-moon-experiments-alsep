@@ -17,8 +17,6 @@ Program ALSEP został zamknięty wraz z wyczepianiem budżetu projektu 30 wrześ
 
 
 .. toctree::
-    :maxdepth: 2
-    :hidden:
 
     /alsep/about.rst
     /alsep/ASE.rst
