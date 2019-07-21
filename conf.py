@@ -2,8 +2,8 @@ project = 'ALSEP'
 author = 'Mateusz Matt Harasymczuk'
 email = 'matt@astronaut.center'
 
-html_theme = 'sphinx_rtd_theme'
-# html_theme = 'thesis'
+# html_theme = 'sphinx_rtd_theme'
+html_theme = 'thesis'
 pygments_style = 'borland'
 
 todo_emit_warnings = False
