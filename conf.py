@@ -60,7 +60,13 @@ import subprocess
 import sys
 from datetime import date
 
-needs_sphinx = '2.0'
+needs_sphinx = '2.2'
+
+mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+mathjax_config = {
+    'extensions': ['tex2jax.js'],
+    'jax': ['input/TeX', 'output/HTML-CSS'],
+}
 
 exclude_patterns += [
     '.*',
