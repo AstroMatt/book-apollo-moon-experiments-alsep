@@ -37,4 +37,4 @@ Eksperyment :ref:`Lunar Atmospheric Composition Experiment` został wykonany prz
 
 Rezultaty
 =========
-W skład atmosfery księżycowej wchodzą głównie trzy gazy: neon, hel, wodów w równych proporcjach. Zaobserwowano również niewielkie ilości metanu, dwutlenku węgla, amoniaku oraz wody. Ponadto zaobserwowano argon-40, którego znacznie większe wartości były notowane w trakcie sejsmicznej aktywności. Argon-40 jest produktem rozpadu radioaktywnego potasu-40 we wnętrzu Księżyca. Wzmożona aktywność sejsmiczna mogła przyczynić się do uwolnienia pokładów gazu z wnętrza na powierzchnię poprzez pęknięcia w skorupie.
+W skład atmosfery księżycowej wchodzą głównie trzy gazy: neon, hel, wodór w równych proporcjach. Zaobserwowano również niewielkie ilości metanu, dwutlenku węgla, amoniaku oraz wody. Ponadto zaobserwowano argon-40, którego znacznie większe wartości były notowane w trakcie sejsmicznej aktywności. Argon-40 jest produktem rozpadu radioaktywnego potasu-40 we wnętrzu Księżyca. Wzmożona aktywność sejsmiczna mogła przyczynić się do uwolnienia pokładów gazu z wnętrza na powierzchnię poprzez pęknięcia w skorupie.
