@@ -42,12 +42,12 @@ exclude_patterns = [
 latex_documentclass = 'report'
 
 html_context = {
-    'university': 'Akademia Górniczo Hutnicza',
-    'faculty': 'Wydział Geologii, Geofizyki i Ochrony Środowiska',
-    'thesis': 'Praca dyplomowa <br> Geofizyka Stosowana',
+    'university': 'Analog Astronaut Training Center',
+    'faculty': '',
+    'thesis': 'Geofizyka Stosowana',
     'thesis_title': 'Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach programu Apollo.',
     'thesis_author': 'Mateusz Matt Harasymczuk',
-    'thesis_supervisor': 'Prof. dr hab. inż. Kaja Pietsch',
+    'thesis_supervisor': '',
     'city': 'Kraków',
     'year': '2019',
 }
