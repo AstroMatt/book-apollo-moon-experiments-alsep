@@ -23,8 +23,18 @@ numfig_format = {
     'code-block': 'List. %s.',
 }
 
-exclude_patterns = ['_not_used']
-suppress_warnings = []
+exclude_patterns = [
+    '_not_used',
+    'LICENSE.rst',
+    'zakonczenie/podsumowanie.rst',
+    'zakonczenie/weryfikacja-celu.rst',
+    'zakonczenie/wnioski.rst',
+]
+
+suppress_warnings = [
+    'autosectionlabel.*',
+]
+
 html_context = {
     'university': 'Analog Astronaut Training Center',
     'faculty': '',
