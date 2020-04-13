@@ -1,22 +1,21 @@
 project = 'ALSEP'
 author = 'Mateusz Matt Harasymczuk'
 email = 'matt@astronaut.center'
+language = 'pl'
 
 # html_theme = 'sphinx_rtd_theme'
 html_theme = 'thesis'
-pygments_style = 'borland'
 
 todo_emit_warnings = False
 todo_include_todos = True
 
 extensions = [
-    'sphinxcontrib.bibtex',
-    'sphinx.ext.imgmath',
-    # 'sphinx.ext.autosectionlabel',
     'sphinx.ext.todo',
+    'sphinx.ext.mathjax',
+    'sphinxcontrib.bibtex',
+    'sphinx.ext.autosectionlabel',
 ]
 
-language = 'pl'
 numfig_format = {
     'section': 'Rozdz. %s.',
     'figure': 'Ryc. %s.',
@@ -24,11 +23,18 @@ numfig_format = {
     'code-block': 'List. %s.',
 }
 
-exclude_patterns = [
-    'README.rst',
-    'LICENSE.rst',
-    '_not_used',
-]
+exclude_patterns = ['_not_used']
+suppress_warnings = []
+html_context = {
+    'university': 'Analog Astronaut Training Center',
+    'faculty': '',
+    'thesis': 'Geofizyka Stosowana',
+    'thesis_title': 'Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach programu Apollo.',
+    'thesis_author': 'Mateusz Matt Harasymczuk',
+    'thesis_supervisor': '',
+    'city': 'Kraków',
+    'year': '2019',
+}
 
 # article - for articles in scientific journals, presentations, short reports, program documentation, invitations, ...
 # proc - a class for proceedings based on the article class.
@@ -41,16 +47,6 @@ exclude_patterns = [
 # beamer - For writing presentations (see LaTeX/Presentations).
 latex_documentclass = 'report'
 
-html_context = {
-    'university': 'Analog Astronaut Training Center',
-    'faculty': '',
-    'thesis': 'Geofizyka Stosowana',
-    'thesis_title': 'Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach programu Apollo.',
-    'thesis_author': 'Mateusz Matt Harasymczuk',
-    'thesis_supervisor': '',
-    'city': 'Kraków',
-    'year': '2019',
-}
 
 # -- Standard book config -----------------------------------------------------
 
@@ -60,9 +56,13 @@ import subprocess
 import sys
 from datetime import date
 
-needs_sphinx = '2.2'
+needs_sphinx = '2.4'
 
-mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+imgmath_image_format = 'png'
+imgmath_latex = 'latex'
+
+# mathjax_path = '_static/mathjax.js'
+mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
 mathjax_config = {
     'extensions': ['tex2jax.js'],
     'jax': ['input/TeX', 'output/HTML-CSS'],
@@ -76,23 +76,28 @@ exclude_patterns += [
     '_extensions',
     '_img',
     '_slides',
+    '_i18n',
     '_static',
     '_themes',
     '_tmp',
-    '*/contrib/*',
-    '*/solution/*',
-    '*/solutions/*',
+    '**/contrib/*',
+    '**/solution/*',
+    '**/solutions/*',
+    '**/_template.rst',
     '**.ipynb_checkpoints',
     'README.rst',
     'TODO.rst',
+    '**/_TODO.rst',
     'Thumbs.db',
     '.DS_Store',
 ]
 
+master_doc = 'index'
 templates_path = ['_templates']
 highlight_language = 'python3'
+pygments_style = 'borland'
+autodoc_typehints = "description"
 sys.path.insert(0, os.path.abspath('_extensions'))
-
 
 # 0 - sequence number of image in whole document
 # 1 - sequence number of image in header level 1 (only if :numbered: option is present at toctree directive)
@@ -118,19 +123,21 @@ html_search_language = language
 html_add_permalinks = ""
 html_theme_path = ['_themes']
 html_secnumber_suffix = '. '
+html_title = project
+html_favicon = '_static/favicon.png'
+html_static_path = ['_static']
 
-# if os.path.isdir('_static'):
-#     html_static_path = ['_static']
-#     html_context.update({
-#         'css_files': [
-#             '_static/screen.css',
-#             '_static/print.css',
-#         ],
-#         'script_files': [
-#             '_static/jquery.min.js',
-#             '_static/onload.js',
-#         ],
-#    })
+if html_theme == 'sphinx_rtd_theme':
+    html_context.update({
+        'css_files': ['_static/screen.css', '_static/print.css'],
+        'script_files': ['_static/jquery.min.js', '_static/onload.js', mathjax_path],
+    })
+
+if html_theme == 'thesis':
+    html_context.update({
+        'css_files': ['_static/theme-overrides.css'],
+        'script_files': [mathjax_path],
+    })
 
 latex_documents = [('index', f'{project_slug}.tex', project, author, latex_documentclass)]
 latex_elements = {
@@ -144,3 +151,17 @@ latex_elements = {
         \AtBeginEnvironment{figure}{\renewcommand{\phantomsection}{}}
     """
 }
+
+epub_title = project
+epub_author = author
+epub_publisher = author
+epub_copyright = copyright
+epub_exclude_files = ['search.html']
+
+man_pages = [
+    (master_doc, project_slug, project, [author], 1)
+]
+
+texinfo_documents = [
+  (master_doc, project_slug, project, author, project, '', 'Miscellaneous'),
+]
