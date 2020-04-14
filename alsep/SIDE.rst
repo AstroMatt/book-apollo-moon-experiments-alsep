@@ -19,7 +19,7 @@ Przedmiot badania
 =================
 W celu pomiaru liczby oraz typu jonów na Księżycu wykonano dwa eksperymenty: :ref:`Suprathermal Ion Detector Experiment` (:term:`SIDE`) i :ref:`Cold Cathode Ion Gauge` (:term:`CCIG`). Badania te były ze sobą ściśle skorelowane i wykorzystywały jedno urządzenie połączone krótkim kablem elektrycznym.
 
-Eksperyment :term:`SIDE` miał na celu pomiar własności strumienia pola magnetycznego, liczby cząstek, gęstości, prędkości i relatywnej energi naładowanych dodatnio jonów i ich wpływu na powierzchnię Księżyca. Zaobserwowane cząsteczki stanowiły głównie atomy wodoru jak i helu. Obserwacja ta wynikała ze składu wiatru słonecznego.
+Eksperyment :term:`SIDE` miał na celu pomiar własności strumienia pola magnetycznego, liczby cząstek, gęstości, prędkości i relatywnej energii naładowanych dodatnio jonów i ich wpływu na powierzchnię Księżyca. Zaobserwowane cząsteczki stanowiły głównie atomy wodoru jak i helu. Obserwacja ta wynikała ze składu wiatru słonecznego.
 
 
 Materiały i metody

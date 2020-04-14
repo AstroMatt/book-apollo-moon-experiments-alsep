@@ -58,7 +58,7 @@ ZSRR konkurował ze stanami zjednoczonymi w ramach wyścigu kosmicznego. Punktem
 
 W 1966 roku kosmonauci zostali przydzieleni do treningów księżycowych (:numref:`table-selection-n1-l3`). Stworzono grupy, których celami były:
 
-- Soyuz 7K-OK - kwalifikacja statków Soyuz do lotów orbitalnych (lider Gagarin)
+- Soyuz 7K-OK - kwalifikacja statków Soyuz do lotów orbitalnych (lider Gagarin),
 - L1/Zond - lotów księżycowych na rakiecie Proton (lider Komarow),
 - L3 - opracowanie procedur i metodyki lądowania na Księżycu (lider Leonow).
 

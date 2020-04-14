@@ -1,4 +1,4 @@
-"Typ", "Załogowy?", "Cel", "Liczba LEVA", "Misja Apollo", "Opis"
+"Typ", "Lot załogowy?", "Cel", "Liczba LEVA", "Misja Apollo", "Opis"
 "A", "nie", "Niska Orbita Ziemska", "0", "Apollo 4, Apollo 6", "Test Saturn V i CSM"
 "B", "nie", "Niska Orbita Ziemska", "0", "Apollo 5", "Test LM"
 "C", "tak", "Niska Orbita Ziemska", "0", "Apollo 7", "Test CSM"

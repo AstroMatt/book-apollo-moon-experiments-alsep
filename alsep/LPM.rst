@@ -45,7 +45,7 @@ Rezultaty
 =========
 Instrument :ref:`Lunar Portable Magnetometer` wykorzystany podczas misji :ref:`Apollo 14` zarejestrował jedynie dwie wartości lokalnego pola magnetycznego. Oba pomiary dały nieoczekiwane wartości. Pierwszy pomiar dokonano w niewielkiej odległości od punktu lądowania, jednakże poza zasięgiem wpływu pola magnetycznego lądownika :term:`LM`. Zmierzona wartość wynosiła 43 nT. Drugiego pomiaru dokonano na krawędzi krateru Cone (ang. *Cone Crater*). Zarejestrowano wartość wynoszącą 103 nT.
 
-Pomiary te były znacznie przewyższające wartości oczekiwane. Wcześniejsze dane zebrane z wykorzystaniem orbitujących Księżyc satelit wykazały jednoznacznie, że uśredniona wartość pola magnetycznego nie może przekraczać 10 do 12 nT. Otrzymane wartości były znacznie większe od tego progu. Różnica (60 nT) w dwóch pomierzonych wartościach była równie nieoczekiwana. Tak znaczne różnice nie były oczekiwane przy tak stosunkowo niewielkich odległościach przemieszczenia :cite:`Chapman1971`, :cite:`Brett1972`.
+Pomiary te były znacznie przewyższające wartości oczekiwane. Wcześniejsze dane zebrane z wykorzystaniem orbitujących Księżyc satelitów wykazały jednoznacznie, że uśredniona wartość pola magnetycznego nie może przekraczać 10 do 12 nT. Otrzymane wartości były znacznie większe od tego progu. Różnica (60 nT) w dwóch pomierzonych wartościach była równie nieoczekiwana. Tak znaczne różnice nie były oczekiwane przy tak stosunkowo niewielkich odległościach przemieszczenia :cite:`Chapman1971`, :cite:`Brett1972`.
 
 W celu zrozumienia procesu gwałtownych zmian wartości pola magnetycznego, eksperyment wykonano ponownie podczas misji :ref:`Apollo 16` próbkując pole wielokrotnie.
 
