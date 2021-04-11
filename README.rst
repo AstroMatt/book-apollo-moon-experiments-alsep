@@ -1,13 +1,16 @@
-*************************************************************************************
-Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach programu Apollo
-*************************************************************************************
+*********************************************************************
+Geophysical experiments from Apollo Lunar Surface Experiments Package
+*********************************************************************
 
-:English title: Geophysics experiments from Apollo Lunar Surface Experiments Package
-:Original title: Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach programu Apollo
+:Title English: Geophysical experiments from Apollo Lunar Surface Experiments Package
+:Title Polish: Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach programu Apollo
 :Author: Matt Harasymczuk
+:Language: Polish
 :ISBN: 978-83-957186-1-8
 :Year: 2019
-:Online Access: https://alsep.astronaut.center
+:Publisher: Analog Astronaut Training Center
+:Location: Cracow, Poland
+:URL: https://alsep.astronaut.center
 :License: Creative Commons Attribution-ShareAlike 4.0 International License
 
 .. figure:: /_static/AstroMatt.jpg
@@ -17,15 +20,13 @@ Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach program
 .. csv-table::
     :widths: 15, 65
 
-    "author", "`Matt Harasymczuk <http://astrotech.io>`_"
-    "email", "matt@astrotech.io"
-    "www", "http://www.astrotech.io"
+    "author", "`Matt Harasymczuk <https://www.astronaut.center>`_"
+    "email", "book@astronaut.center"
+    "www", "https://www.astronaut.center"
     "github", "https://github.com/astromatt"
     "linkedin", "https://linkedin.com/in/mattharasymczuk"
     "facebook", "https://facebook.com/matt.harasymczuk"
     "slideshare", "https://www.slideshare.net/astrotech/presentations"
-
-.. hint:: This book is free and open source at https://alsep.astronaut.center
 
 .. csv-table:: Other books from author
     :widths: 25, 20, 55
@@ -37,13 +38,3 @@ Badania geofizyczne w trakcie załogowej eksploracji Księżyca w ramach program
     "978-83-956752-0-1", "https://www.astronaut.center/books", "Space in Practice: How to Prepare and Conduct Stratospheric Balloon Mission"
     "978-83-957186-4-9", "https://pl.habitatos.space", "HabitatOS - Development of operating system prototype for Lunar and Martian habitats"
     "978-83-957186-1-8", "https://alsep.astronaut.center", "Geophysics experiments from Apollo Lunar Surface Experiments Package"
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-.. raw:: html
-
-    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-        <img alt="Creative Commons License"
-             style="border-width:0"
-             src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
-    </a>
