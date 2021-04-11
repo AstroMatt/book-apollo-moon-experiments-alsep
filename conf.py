@@ -49,6 +49,15 @@ html_context = {
     'isbn': '978-83-957186-1-8'
 }
 
+if 'sphinxcontrib.bibtex' in extensions:
+    bibtex_bibfiles = [
+        '_references/bibliography.bib',
+        '_references/images.bib',
+        '_references/video.bib']
+    bibtex_bibliography_header = ".. rubric:: References"
+    bibtex_footbibliography_header = bibtex_bibliography_header
+    bibtex_default_style = 'alpha'
+
 # article - for articles in scientific journals, presentations, short reports, program documentation, invitations, ...
 # proc - a class for proceedings based on the article class.
 # minimal - is as small as it can get. It only sets a page size and a base font. It is mainly used for debugging purposes.
